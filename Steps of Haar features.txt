@@ -1,0 +1,28 @@
+Steps to execute Haar Feature Project:
+*Step-1: Object Marking*
+- First you need data which are images(.bmp), if not Download any video which should be short, good quality and have feature or
+  object that you want to detect. like this one e.g https://www.youtube.com/watch?v=MNn9qKG2UFI&list=PLcQZGj9lFR7y5WikozDSrdk6UCtAnM9mB
+- Than will need images frames from video, Use python or any script that gives you image frames in .bpm formate. 
+  Use Convert-video-into-frames.ipynb script and add your video path, folder name.
+- After extracted .bmp images suppose these are the possitive images (hint: don't use more images just 20 images are fine).
+- Other than all images are negative so use any randome images and suppose those negative feature images.
+- Go to *\temp\positive\rawdata* and replace positive images
+- Go to *\temp\negative* and replace negative images
+- Run *create_list.bat* in folder *\temp\negative* to create a file with a list of negative image names
+- Go to *\temp\positive* and run *objectmarker.bat* and mark your required objects
+- Press Space to save marked object, enter to change image and ESC to save and end marking
+- After object marking it will create *info.txt* in folder *\temp\positive*
+ *Step-2: Sample Creation*
+- Go to root folder edit *samples_creation.bat* file. Change input file name (if required), output filename, width and height of the samples
+- Run *samples_creation.bat* file. It will create a vector file in folder *\temp\data* with a name you gave to output file in *samples_creation.bat* file.
+ *Step-3: Compute feature and Training*
+- Open *haarTraining.bat* file in root folder. Change your vector file name, width and height of samples
+- Run *haarTraining.bat* . It will compute features and train the model. The model will be saved in folder *\temp\data\cascade*
+ *Step 4: Convert Model to XML*
+- Copy all folders from *\temp\data\cascade* and paste in *\cascade2xml\data*
+- Edit *convert.bat* in folder *\cascade2xml*. Change output xml file name, width and height
+- Run *\cascade2xml.bat*, it will create xml file in the same folder
+ *Step 5: Test Model*
+- Copy your xml file and paste in *\test_recognition* and add your test image in the same folder
+- Edit *start.bat*,  add a line at the top *facedetect.exe --cascade="YOUR_XML_MODEL_FILE.xml" YOUR_TEST_IMAGE.jpg*
+- Run *start.bat* to see the results
