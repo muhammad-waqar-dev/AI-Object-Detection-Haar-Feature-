@@ -1,0 +1,3705 @@
+rawdata/2.bmp 0
+rawdata/3.bmp 0
+rawdata/4.bmp 0
+rawdata/5.bmp 0
+rawdata/6.bmp 0
+rawdata/7.bmp 0
+rawdata/8.bmp 0
+rawdata/9.bmp 0
+rawdata/10.bmp 0
+rawdata/11.bmp 0
+rawdata/12.bmp 0
+rawdata/13.bmp 0
+rawdata/14.bmp 0
+rawdata/15.bmp 0
+rawdata/16.bmp 0
+rawdata/17.bmp 0
+rawdata/18.bmp 0
+rawdata/19.bmp 0
+rawdata/20.bmp 0
+rawdata/21.bmp 0
+rawdata/22.bmp 0
+rawdata/23.bmp 0
+rawdata/24.bmp 0
+rawdata/25.bmp 0
+rawdata/26.bmp 0
+rawdata/27.bmp 0
+rawdata/28.bmp 0
+rawdata/29.bmp 0
+rawdata/30.bmp 0
+rawdata/31.bmp 0
+rawdata/32.bmp 0
+rawdata/33.bmp 0
+rawdata/34.bmp 0
+rawdata/35.bmp 0
+rawdata/36.bmp 0
+rawdata/37.bmp 0
+rawdata/38.bmp 0
+rawdata/39.bmp 0
+rawdata/40.bmp 0
+rawdata/41.bmp 0
+rawdata/42.bmp 0
+rawdata/43.bmp 0
+rawdata/44.bmp 0
+rawdata/45.bmp 0
+rawdata/46.bmp 0
+rawdata/47.bmp 0
+rawdata/48.bmp 0
+rawdata/49.bmp 0
+rawdata/50.bmp 0
+rawdata/51.bmp 0
+rawdata/52.bmp 0
+rawdata/53.bmp 0
+rawdata/54.bmp 0
+rawdata/55.bmp 0
+rawdata/56.bmp 0
+rawdata/57.bmp 0
+rawdata/58.bmp 0
+rawdata/59.bmp 0
+rawdata/60.bmp 0
+rawdata/61.bmp 0
+rawdata/62.bmp 0
+rawdata/63.bmp 0
+rawdata/64.bmp 0
+rawdata/65.bmp 0
+rawdata/66.bmp 0
+rawdata/67.bmp 0
+rawdata/68.bmp 0
+rawdata/69.bmp 0
+rawdata/70.bmp 0
+rawdata/71.bmp 0
+rawdata/72.bmp 0
+rawdata/73.bmp 0
+rawdata/74.bmp 0
+rawdata/75.bmp 0
+rawdata/76.bmp 0
+rawdata/77.bmp 0
+rawdata/78.bmp 0
+rawdata/79.bmp 0
+rawdata/80.bmp 0
+rawdata/81.bmp 0
+rawdata/82.bmp 0
+rawdata/83.bmp 0
+rawdata/84.bmp 0
+rawdata/85.bmp 0
+rawdata/86.bmp 0
+rawdata/87.bmp 0
+rawdata/88.bmp 0
+rawdata/89.bmp 0
+rawdata/90.bmp 0
+rawdata/91.bmp 0
+rawdata/92.bmp 0
+rawdata/93.bmp 0
+rawdata/94.bmp 0
+rawdata/95.bmp 0
+rawdata/96.bmp 0
+rawdata/97.bmp 0
+rawdata/98.bmp 0
+rawdata/99.bmp 0
+rawdata/100.bmp 0
+rawdata/101.bmp 0
+rawdata/102.bmp 0
+rawdata/103.bmp 0
+rawdata/104.bmp 0
+rawdata/105.bmp 0
+rawdata/106.bmp 0
+rawdata/107.bmp 0
+rawdata/108.bmp 0
+rawdata/109.bmp 0
+rawdata/110.bmp 0
+rawdata/111.bmp 0
+rawdata/112.bmp 0
+rawdata/113.bmp 0
+rawdata/114.bmp 0
+rawdata/115.bmp 0
+rawdata/116.bmp 0
+rawdata/117.bmp 0
+rawdata/118.bmp 0
+rawdata/119.bmp 0
+rawdata/120.bmp 0
+rawdata/121.bmp 0
+rawdata/122.bmp 0
+rawdata/123.bmp 0
+rawdata/124.bmp 0
+rawdata/125.bmp 0
+rawdata/126.bmp 0
+rawdata/127.bmp 0
+rawdata/128.bmp 0
+rawdata/129.bmp 0
+rawdata/130.bmp 0
+rawdata/131.bmp 0
+rawdata/132.bmp 0
+rawdata/133.bmp 0
+rawdata/134.bmp 0
+rawdata/135.bmp 0
+rawdata/136.bmp 0
+rawdata/137.bmp 0
+rawdata/138.bmp 0
+rawdata/139.bmp 0
+rawdata/140.bmp 0
+rawdata/141.bmp 0
+rawdata/142.bmp 0
+rawdata/143.bmp 0
+rawdata/144.bmp 0
+rawdata/145.bmp 0
+rawdata/146.bmp 0
+rawdata/147.bmp 0
+rawdata/148.bmp 0
+rawdata/149.bmp 0
+rawdata/150.bmp 0
+rawdata/151.bmp 0
+rawdata/152.bmp 0
+rawdata/153.bmp 0
+rawdata/154.bmp 0
+rawdata/155.bmp 0
+rawdata/156.bmp 0
+rawdata/157.bmp 0
+rawdata/158.bmp 0
+rawdata/159.bmp 0
+rawdata/160.bmp 0
+rawdata/161.bmp 0
+rawdata/162.bmp 0
+rawdata/163.bmp 0
+rawdata/164.bmp 0
+rawdata/165.bmp 0
+rawdata/166.bmp 0
+rawdata/167.bmp 0
+rawdata/168.bmp 0
+rawdata/169.bmp 0
+rawdata/170.bmp 0
+rawdata/171.bmp 0
+rawdata/172.bmp 0
+rawdata/173.bmp 0
+rawdata/174.bmp 0
+rawdata/175.bmp 0
+rawdata/176.bmp 0
+rawdata/177.bmp 0
+rawdata/178.bmp 0
+rawdata/179.bmp 0
+rawdata/180.bmp 0
+rawdata/181.bmp 0
+rawdata/182.bmp 0
+rawdata/183.bmp 0
+rawdata/184.bmp 0
+rawdata/185.bmp 0
+rawdata/186.bmp 0
+rawdata/187.bmp 0
+rawdata/188.bmp 0
+rawdata/189.bmp 0
+rawdata/190.bmp 0
+rawdata/191.bmp 0
+rawdata/192.bmp 0
+rawdata/193.bmp 0
+rawdata/194.bmp 0
+rawdata/195.bmp 0
+rawdata/196.bmp 0
+rawdata/197.bmp 0
+rawdata/198.bmp 0
+rawdata/199.bmp 0
+rawdata/200.bmp 0
+rawdata/201.bmp 0
+rawdata/202.bmp 0
+rawdata/203.bmp 0
+rawdata/204.bmp 0
+rawdata/205.bmp 0
+rawdata/206.bmp 0
+rawdata/207.bmp 0
+rawdata/208.bmp 0
+rawdata/209.bmp 0
+rawdata/210.bmp 0
+rawdata/211.bmp 0
+rawdata/212.bmp 0
+rawdata/213.bmp 0
+rawdata/214.bmp 0
+rawdata/215.bmp 0
+rawdata/216.bmp 0
+rawdata/217.bmp 0
+rawdata/218.bmp 0
+rawdata/219.bmp 0
+rawdata/220.bmp 0
+rawdata/221.bmp 0
+rawdata/222.bmp 0
+rawdata/223.bmp 0
+rawdata/224.bmp 0
+rawdata/225.bmp 0
+rawdata/226.bmp 0
+rawdata/227.bmp 0
+rawdata/228.bmp 0
+rawdata/229.bmp 0
+rawdata/230.bmp 0
+rawdata/231.bmp 0
+rawdata/232.bmp 0
+rawdata/233.bmp 0
+rawdata/234.bmp 0
+rawdata/235.bmp 0
+rawdata/236.bmp 0
+rawdata/237.bmp 0
+rawdata/238.bmp 0
+rawdata/239.bmp 0
+rawdata/240.bmp 0
+rawdata/241.bmp 0
+rawdata/242.bmp 0
+rawdata/243.bmp 0
+rawdata/244.bmp 0
+rawdata/245.bmp 0
+rawdata/246.bmp 0
+rawdata/247.bmp 0
+rawdata/248.bmp 0
+rawdata/249.bmp 0
+rawdata/250.bmp 0
+rawdata/251.bmp 0
+rawdata/252.bmp 0
+rawdata/253.bmp 0
+rawdata/254.bmp 0
+rawdata/255.bmp 0
+rawdata/256.bmp 0
+rawdata/257.bmp 0
+rawdata/258.bmp 0
+rawdata/259.bmp 0
+rawdata/260.bmp 0
+rawdata/261.bmp 0
+rawdata/262.bmp 0
+rawdata/263.bmp 0
+rawdata/264.bmp 0
+rawdata/265.bmp 0
+rawdata/266.bmp 0
+rawdata/267.bmp 0
+rawdata/268.bmp 0
+rawdata/269.bmp 0
+rawdata/270.bmp 0
+rawdata/271.bmp 0
+rawdata/272.bmp 0
+rawdata/273.bmp 0
+rawdata/274.bmp 0
+rawdata/275.bmp 0
+rawdata/276.bmp 0
+rawdata/277.bmp 0
+rawdata/278.bmp 0
+rawdata/279.bmp 0
+rawdata/280.bmp 0
+rawdata/281.bmp 0
+rawdata/282.bmp 0
+rawdata/283.bmp 0
+rawdata/284.bmp 0
+rawdata/285.bmp 0
+rawdata/286.bmp 0
+rawdata/287.bmp 0
+rawdata/288.bmp 0
+rawdata/289.bmp 0
+rawdata/290.bmp 0
+rawdata/291.bmp 0
+rawdata/292.bmp 0
+rawdata/293.bmp 0
+rawdata/294.bmp 0
+rawdata/295.bmp 0
+rawdata/296.bmp 0
+rawdata/297.bmp 0
+rawdata/298.bmp 0
+rawdata/299.bmp 0
+rawdata/300.bmp 0
+rawdata/301.bmp 0
+rawdata/302.bmp 0
+rawdata/303.bmp 0
+rawdata/304.bmp 0
+rawdata/305.bmp 0
+rawdata/306.bmp 0
+rawdata/307.bmp 0
+rawdata/308.bmp 0
+rawdata/309.bmp 0
+rawdata/310.bmp 0
+rawdata/311.bmp 0
+rawdata/312.bmp 0
+rawdata/313.bmp 0
+rawdata/314.bmp 0
+rawdata/315.bmp 0
+rawdata/316.bmp 0
+rawdata/317.bmp 0
+rawdata/318.bmp 0
+rawdata/319.bmp 0
+rawdata/320.bmp 0
+rawdata/321.bmp 0
+rawdata/322.bmp 0
+rawdata/323.bmp 0
+rawdata/324.bmp 0
+rawdata/325.bmp 0
+rawdata/326.bmp 0
+rawdata/327.bmp 0
+rawdata/328.bmp 0
+rawdata/329.bmp 0
+rawdata/330.bmp 0
+rawdata/331.bmp 0
+rawdata/332.bmp 0
+rawdata/333.bmp 0
+rawdata/334.bmp 0
+rawdata/335.bmp 0
+rawdata/336.bmp 0
+rawdata/337.bmp 0
+rawdata/338.bmp 0
+rawdata/339.bmp 0
+rawdata/340.bmp 0
+rawdata/341.bmp 0
+rawdata/342.bmp 0
+rawdata/343.bmp 0
+rawdata/344.bmp 0
+rawdata/345.bmp 0
+rawdata/346.bmp 0
+rawdata/347.bmp 0
+rawdata/348.bmp 0
+rawdata/349.bmp 0
+rawdata/350.bmp 0
+rawdata/351.bmp 0
+rawdata/352.bmp 0
+rawdata/353.bmp 0
+rawdata/354.bmp 0
+rawdata/355.bmp 0
+rawdata/356.bmp 0
+rawdata/357.bmp 0
+rawdata/358.bmp 0
+rawdata/359.bmp 0
+rawdata/360.bmp 0
+rawdata/361.bmp 0
+rawdata/362.bmp 0
+rawdata/363.bmp 0
+rawdata/364.bmp 0
+rawdata/365.bmp 0
+rawdata/366.bmp 0
+rawdata/367.bmp 0
+rawdata/368.bmp 0
+rawdata/369.bmp 0
+rawdata/370.bmp 0
+rawdata/371.bmp 0
+rawdata/372.bmp 0
+rawdata/373.bmp 0
+rawdata/374.bmp 0
+rawdata/375.bmp 0
+rawdata/376.bmp 0
+rawdata/377.bmp 0
+rawdata/378.bmp 0
+rawdata/379.bmp 0
+rawdata/380.bmp 0
+rawdata/381.bmp 0
+rawdata/382.bmp 0
+rawdata/383.bmp 0
+rawdata/384.bmp 0
+rawdata/385.bmp 0
+rawdata/386.bmp 0
+rawdata/387.bmp 0
+rawdata/388.bmp 0
+rawdata/389.bmp 0
+rawdata/390.bmp 0
+rawdata/391.bmp 0
+rawdata/392.bmp 0
+rawdata/393.bmp 0
+rawdata/394.bmp 0
+rawdata/395.bmp 0
+rawdata/396.bmp 0
+rawdata/397.bmp 0
+rawdata/398.bmp 0
+rawdata/399.bmp 0
+rawdata/400.bmp 0
+rawdata/401.bmp 0
+rawdata/402.bmp 0
+rawdata/403.bmp 0
+rawdata/404.bmp 0
+rawdata/405.bmp 0
+rawdata/406.bmp 0
+rawdata/407.bmp 0
+rawdata/408.bmp 0
+rawdata/409.bmp 0
+rawdata/410.bmp 0
+rawdata/411.bmp 0
+rawdata/412.bmp 0
+rawdata/413.bmp 0
+rawdata/414.bmp 0
+rawdata/415.bmp 0
+rawdata/416.bmp 0
+rawdata/417.bmp 0
+rawdata/418.bmp 0
+rawdata/419.bmp 0
+rawdata/420.bmp 0
+rawdata/421.bmp 0
+rawdata/422.bmp 0
+rawdata/423.bmp 0
+rawdata/424.bmp 0
+rawdata/425.bmp 0
+rawdata/426.bmp 0
+rawdata/427.bmp 0
+rawdata/428.bmp 0
+rawdata/429.bmp 0
+rawdata/430.bmp 0
+rawdata/431.bmp 0
+rawdata/432.bmp 0
+rawdata/433.bmp 0
+rawdata/434.bmp 0
+rawdata/435.bmp 0
+rawdata/436.bmp 0
+rawdata/437.bmp 0
+rawdata/438.bmp 0
+rawdata/439.bmp 0
+rawdata/440.bmp 0
+rawdata/441.bmp 0
+rawdata/442.bmp 0
+rawdata/443.bmp 0
+rawdata/444.bmp 0
+rawdata/445.bmp 0
+rawdata/446.bmp 0
+rawdata/447.bmp 0
+rawdata/448.bmp 0
+rawdata/449.bmp 0
+rawdata/450.bmp 0
+rawdata/451.bmp 0
+rawdata/452.bmp 0
+rawdata/453.bmp 0
+rawdata/454.bmp 0
+rawdata/455.bmp 0
+rawdata/456.bmp 0
+rawdata/457.bmp 0
+rawdata/458.bmp 0
+rawdata/459.bmp 0
+rawdata/460.bmp 0
+rawdata/461.bmp 0
+rawdata/462.bmp 0
+rawdata/463.bmp 0
+rawdata/464.bmp 0
+rawdata/465.bmp 0
+rawdata/466.bmp 0
+rawdata/467.bmp 0
+rawdata/468.bmp 0
+rawdata/469.bmp 0
+rawdata/470.bmp 0
+rawdata/471.bmp 0
+rawdata/472.bmp 0
+rawdata/473.bmp 0
+rawdata/474.bmp 0
+rawdata/475.bmp 0
+rawdata/476.bmp 0
+rawdata/477.bmp 0
+rawdata/478.bmp 0
+rawdata/479.bmp 0
+rawdata/480.bmp 0
+rawdata/481.bmp 0
+rawdata/482.bmp 0
+rawdata/483.bmp 0
+rawdata/484.bmp 0
+rawdata/485.bmp 0
+rawdata/486.bmp 0
+rawdata/487.bmp 0
+rawdata/488.bmp 0
+rawdata/489.bmp 0
+rawdata/490.bmp 0
+rawdata/491.bmp 0
+rawdata/492.bmp 0
+rawdata/493.bmp 0
+rawdata/494.bmp 0
+rawdata/495.bmp 0
+rawdata/496.bmp 0
+rawdata/497.bmp 0
+rawdata/498.bmp 0
+rawdata/499.bmp 0
+rawdata/500.bmp 0
+rawdata/501.bmp 2 55 117 34 74 148 128 61 77
+rawdata/502.bmp 2 55 118 35 74 148 127 61 77
+rawdata/503.bmp 2 56 118 35 74 148 126 61 77
+rawdata/504.bmp 2 57 117 33 75 148 126 61 77
+rawdata/505.bmp 2 58 118 30 74 148 126 61 77
+rawdata/506.bmp 2 58 118 30 74 148 126 61 77
+rawdata/507.bmp 2 58 118 29 74 148 126 61 77
+rawdata/508.bmp 2 58 117 28 74 148 126 61 77
+rawdata/509.bmp 2 61 117 23 74 147 126 61 76
+rawdata/510.bmp 2 61 117 22 74 147 127 61 76
+rawdata/511.bmp 2 61 117 22 74 146 127 61 76
+rawdata/512.bmp 2 62 118 21 72 146 126 61 76
+rawdata/513.bmp 2 61 118 22 71 147 127 61 76
+rawdata/514.bmp 2 62 118 21 71 147 127 61 76
+rawdata/515.bmp 2 61 118 21 71 148 127 61 76
+rawdata/516.bmp 2 60 119 21 71 149 126 61 76
+rawdata/517.bmp 2 60 119 21 71 148 125 61 79
+rawdata/518.bmp 2 59 119 22 71 149 122 61 85
+rawdata/519.bmp 2 57 119 24 71 151 119 59 90
+rawdata/520.bmp 2 57 119 25 71 151 116 59 94
+rawdata/521.bmp 2 56 119 27 71 150 115 65 97
+rawdata/522.bmp 2 55 119 28 71 158 132 47 63
+rawdata/523.bmp 2 54 119 30 72 144 112 77 103
+rawdata/524.bmp 2 54 120 30 72 142 112 83 103
+rawdata/525.bmp 2 54 120 30 72 141 111 87 105
+rawdata/526.bmp 2 54 120 30 73 161 125 48 79
+rawdata/527.bmp 2 54 119 30 74 162 126 46 77
+rawdata/528.bmp 2 54 119 31 75 166 122 39 77
+rawdata/529.bmp 2 54 117 31 76 167 118 39 77
+rawdata/530.bmp 2 57 118 26 75 167 116 39 76
+rawdata/531.bmp 2 57 118 26 75 169 117 39 76
+rawdata/532.bmp 2 49 111 42 88 171 113 39 75
+rawdata/533.bmp 2 52 113 38 83 171 113 39 75
+rawdata/534.bmp 2 53 113 36 82 173 118 39 74
+rawdata/535.bmp 2 54 112 36 80 176 122 39 75
+rawdata/536.bmp 2 56 112 35 78 179 125 39 76
+rawdata/537.bmp 2 57 112 35 76 182 127 36 76
+rawdata/538.bmp 2 57 111 35 76 180 127 40 76
+rawdata/539.bmp 2 58 111 34 75 181 127 44 76
+rawdata/540.bmp 2 58 112 34 75 181 125 47 76
+rawdata/541.bmp 2 64 97 34 75 183 125 46 77
+rawdata/542.bmp 2 64 97 34 75 183 126 48 77
+rawdata/543.bmp 2 60 110 34 75 184 126 49 76
+rawdata/544.bmp 2 59 111 34 75 185 126 48 76
+rawdata/545.bmp 2 60 111 34 75 190 127 41 76
+rawdata/546.bmp 2 60 112 34 75 191 125 41 76
+rawdata/547.bmp 2 60 112 34 75 191 122 42 76
+rawdata/548.bmp 2 61 112 34 75 193 124 41 76
+rawdata/549.bmp 2 61 111 35 76 195 125 41 76
+rawdata/550.bmp 2 60 112 36 76 197 127 41 76
+rawdata/551.bmp 2 61 112 35 76 197 128 43 76
+rawdata/552.bmp 2 61 114 34 75 196 127 49 76
+rawdata/553.bmp 2 61 114 34 75 195 127 53 77
+rawdata/554.bmp 2 61 114 34 76 195 127 55 78
+rawdata/555.bmp 2 61 115 34 76 195 128 56 78
+rawdata/556.bmp 2 62 115 34 76 195 128 60 77
+rawdata/557.bmp 2 63 115 33 76 196 128 60 77
+rawdata/558.bmp 2 64 116 33 76 198 128 60 77
+rawdata/559.bmp 2 65 117 28 76 200 128 59 77
+rawdata/560.bmp 2 65 120 28 76 200 127 59 76
+rawdata/561.bmp 2 66 120 27 76 202 127 59 76
+rawdata/562.bmp 2 65 118 27 76 201 125 60 76
+rawdata/563.bmp 2 65 117 27 77 204 124 59 76
+rawdata/564.bmp 2 65 117 27 77 205 123 60 76
+rawdata/565.bmp 2 64 116 28 77 207 125 60 76
+rawdata/566.bmp 2 64 115 28 78 208 125 60 76
+rawdata/567.bmp 2 64 115 28 79 209 125 60 76
+rawdata/568.bmp 2 60 115 36 79 210 126 60 76
+rawdata/569.bmp 2 63 115 33 78 211 125 60 77
+rawdata/570.bmp 2 62 115 35 78 210 126 62 77
+rawdata/571.bmp 2 63 115 34 78 210 126 65 77
+rawdata/572.bmp 2 64 116 33 78 209 126 68 76
+rawdata/573.bmp 2 59 116 42 78 209 126 70 78
+rawdata/574.bmp 2 60 117 41 79 208 126 72 78
+rawdata/575.bmp 2 60 118 42 79 209 127 73 78
+rawdata/576.bmp 2 59 119 45 79 209 126 74 78
+rawdata/577.bmp 2 59 119 45 80 209 127 76 78
+rawdata/578.bmp 2 58 120 46 80 210 126 76 78
+rawdata/579.bmp 2 58 118 46 80 211 126 76 78
+rawdata/580.bmp 2 59 116 46 80 211 124 76 78
+rawdata/581.bmp 2 59 116 46 79 212 126 76 78
+rawdata/582.bmp 2 59 114 47 80 213 126 76 78
+rawdata/583.bmp 2 59 115 46 79 214 127 76 78
+rawdata/584.bmp 2 60 115 46 79 215 127 76 78
+rawdata/585.bmp 2 60 115 46 79 223 128 62 78
+rawdata/586.bmp 2 60 116 46 79 224 128 63 78
+rawdata/587.bmp 2 60 117 45 79 223 128 66 78
+rawdata/588.bmp 2 60 117 45 79 222 128 68 79
+rawdata/589.bmp 2 61 118 45 79 223 128 70 79
+rawdata/590.bmp 2 60 118 46 79 223 127 70 79
+rawdata/591.bmp 2 60 119 47 79 223 126 72 79
+rawdata/592.bmp 2 59 119 48 81 224 126 73 79
+rawdata/593.bmp 2 59 119 49 81 224 126 73 79
+rawdata/594.bmp 2 59 118 49 81 224 125 74 78
+rawdata/595.bmp 2 58 117 50 81 224 125 74 79
+rawdata/596.bmp 2 56 116 52 81 227 124 73 79
+rawdata/597.bmp 2 58 115 49 81 227 124 75 79
+rawdata/598.bmp 2 60 115 46 81 226 123 77 79
+rawdata/599.bmp 2 57 116 51 81 227 122 77 78
+rawdata/600.bmp 1 59 117 47 80
+rawdata/601.bmp 1 57 117 52 80
+rawdata/602.bmp 1 59 115 50 82
+rawdata/603.bmp 1 55 114 59 85
+rawdata/604.bmp 1 53 112 64 88
+rawdata/605.bmp 1 49 111 72 91
+rawdata/606.bmp 1 47 109 78 96
+rawdata/607.bmp 2 45 110 86 95 234 124 77 77
+rawdata/608.bmp 2 42 108 95 98 235 124 77 77
+rawdata/609.bmp 1 237 124 75 77
+rawdata/610.bmp 1 237 124 74 77
+rawdata/611.bmp 2 68 114 49 84 238 125 72 77
+rawdata/612.bmp 2 69 114 48 84 239 124 70 78
+rawdata/613.bmp 2 72 113 45 84 240 124 69 78
+rawdata/614.bmp 2 76 114 38 83 240 124 69 78
+rawdata/615.bmp 2 76 113 43 83 240 125 69 78
+rawdata/616.bmp 2 76 112 44 82 240 124 69 78
+rawdata/617.bmp 2 76 112 46 82 239 123 69 78
+rawdata/618.bmp 2 77 113 47 81 239 122 69 78
+rawdata/619.bmp 2 78 112 46 81 238 122 69 77
+rawdata/620.bmp 2 79 113 46 81 238 121 69 77
+rawdata/621.bmp 2 78 116 46 81 237 120 68 76
+rawdata/622.bmp 2 80 115 46 81 236 118 69 76
+rawdata/623.bmp 2 81 115 46 81 236 118 69 76
+rawdata/624.bmp 2 81 117 46 80 234 119 70 76
+rawdata/625.bmp 2 81 119 46 80 234 120 71 76
+rawdata/626.bmp 2 83 120 46 80 224 107 71 77
+rawdata/627.bmp 2 84 119 46 80 223 106 72 78
+rawdata/628.bmp 2 86 118 45 80 229 117 72 78
+rawdata/629.bmp 2 85 119 47 80 231 122 73 77
+rawdata/630.bmp 2 83 119 51 80 230 122 74 77
+rawdata/631.bmp 2 81 119 54 81 229 123 74 77
+rawdata/632.bmp 2 81 118 54 81 229 123 75 77
+rawdata/633.bmp 2 81 117 56 81 229 123 75 76
+rawdata/634.bmp 2 82 118 56 81 229 124 75 76
+rawdata/635.bmp 2 83 118 55 81 229 124 75 77
+rawdata/636.bmp 2 84 118 54 81 230 124 75 77
+rawdata/637.bmp 2 87 118 49 81 230 124 75 77
+rawdata/638.bmp 2 91 119 45 80 231 124 75 77
+rawdata/639.bmp 2 92 118 43 80 232 121 75 81
+rawdata/640.bmp 1 232 120 75 85
+rawdata/641.bmp 1 233 118 74 91
+rawdata/642.bmp 1 251 116 40 94
+rawdata/643.bmp 2 76 116 74 80 249 115 47 97
+rawdata/644.bmp 2 75 116 74 80 246 112 53 102
+rawdata/645.bmp 2 76 116 73 82 242 111 60 105
+rawdata/646.bmp 2 76 117 71 82 239 108 67 108
+rawdata/647.bmp 2 76 118 69 82 236 108 75 109
+rawdata/648.bmp 2 80 119 57 82 235 107 79 111
+rawdata/649.bmp 2 58 121 55 82 230 104 88 112
+rawdata/650.bmp 1 229 101 90 112
+rawdata/651.bmp 1 255 118 36 72
+rawdata/652.bmp 2 34 106 108 112 254 115 37 74
+rawdata/653.bmp 2 38 108 101 111 253 113 39 75
+rawdata/654.bmp 2 42 110 94 107 252 112 40 75
+rawdata/655.bmp 2 48 111 88 104 252 112 40 75
+rawdata/656.bmp 2 52 112 83 101 254 114 38 76
+rawdata/657.bmp 2 59 113 76 97 254 117 38 76
+rawdata/658.bmp 2 64 116 71 91 255 118 36 79
+rawdata/659.bmp 2 67 118 71 87 254 119 39 79
+rawdata/660.bmp 2 66 120 75 84 256 121 38 81
+rawdata/661.bmp 2 65 120 83 84 260 121 32 82
+rawdata/662.bmp 2 69 119 83 84 260 120 32 82
+rawdata/663.bmp 1 261 120 32 82
+rawdata/664.bmp 1 249 120 56 83
+rawdata/665.bmp 1 249 121 56 81
+rawdata/666.bmp 1 263 120 29 81
+rawdata/667.bmp 1 262 120 29 81
+rawdata/668.bmp 1 262 121 28 81
+rawdata/669.bmp 1 261 118 29 82
+rawdata/670.bmp 1 263 117 24 82
+rawdata/671.bmp 1 263 116 27 82
+rawdata/672.bmp 1 263 117 27 82
+rawdata/673.bmp 1 264 117 24 82
+rawdata/674.bmp 1 265 118 23 82
+rawdata/675.bmp 1 261 120 30 82
+rawdata/676.bmp 1 260 121 33 82
+rawdata/677.bmp 1 260 122 33 82
+rawdata/678.bmp 1 259 122 35 82
+rawdata/679.bmp 1 258 121 37 82
+rawdata/680.bmp 1 258 121 38 82
+rawdata/681.bmp 1 256 120 43 82
+rawdata/682.bmp 1 257 120 43 82
+rawdata/683.bmp 1 258 120 40 82
+rawdata/684.bmp 1 260 119 38 82
+rawdata/685.bmp 1 262 120 37 82
+rawdata/686.bmp 1 263 119 35 82
+rawdata/687.bmp 1 265 118 35 81
+rawdata/688.bmp 1 265 119 35 81
+rawdata/689.bmp 1 266 120 35 81
+rawdata/690.bmp 1 266 121 35 81
+rawdata/691.bmp 1 267 122 35 81
+rawdata/692.bmp 1 267 124 35 81
+rawdata/693.bmp 1 269 124 31 79
+rawdata/694.bmp 1 267 123 34 80
+rawdata/695.bmp 1 272 124 25 79
+rawdata/696.bmp 1 272 125 25 77
+rawdata/697.bmp 1 270 124 28 78
+rawdata/698.bmp 1 268 125 30 79
+rawdata/699.bmp 1 266 125 35 79
+rawdata/700.bmp 1 267 125 32 79
+rawdata/701.bmp 1 268 125 29 79
+rawdata/702.bmp 1 270 125 25 78
+rawdata/703.bmp 1 266 126 30 78
+rawdata/704.bmp 1 266 126 30 77
+rawdata/705.bmp 1 267 126 26 76
+rawdata/706.bmp 1 266 126 29 76
+rawdata/707.bmp 1 266 125 25 76
+rawdata/708.bmp 1 268 125 21 76
+rawdata/709.bmp 1 267 125 21 75
+rawdata/710.bmp 1 261 125 29 74
+rawdata/711.bmp 1 261 125 29 73
+rawdata/712.bmp 1 260 123 29 73
+rawdata/713.bmp 1 258 121 31 73
+rawdata/714.bmp 1 258 121 30 73
+rawdata/715.bmp 1 257 122 30 73
+rawdata/716.bmp 1 254 123 37 72
+rawdata/717.bmp 1 253 123 35 72
+rawdata/718.bmp 1 250 123 39 72
+rawdata/719.bmp 1 249 124 38 72
+rawdata/720.bmp 1 249 126 37 72
+rawdata/721.bmp 1 248 126 37 72
+rawdata/722.bmp 1 247 127 36 72
+rawdata/723.bmp 1 246 127 36 72
+rawdata/724.bmp 1 245 129 35 71
+rawdata/725.bmp 1 244 128 35 70
+rawdata/726.bmp 1 242 128 35 70
+rawdata/727.bmp 1 240 130 35 70
+rawdata/728.bmp 1 239 132 34 69
+rawdata/729.bmp 1 236 130 36 70
+rawdata/730.bmp 1 236 128 34 69
+rawdata/731.bmp 1 238 127 29 69
+rawdata/732.bmp 1 237 125 30 72
+rawdata/733.bmp 1 236 128 31 71
+rawdata/734.bmp 1 236 128 31 70
+rawdata/735.bmp 1 236 129 31 70
+rawdata/736.bmp 1 236 131 31 69
+rawdata/737.bmp 1 236 131 31 69
+rawdata/738.bmp 1 236 131 31 69
+rawdata/739.bmp 1 236 131 31 68
+rawdata/740.bmp 2 54 85 155 160 249 162 4 6
+rawdata/741.bmp 1 112 132 40 64
+rawdata/742.bmp 0
+rawdata/743.bmp 0
+rawdata/744.bmp 0
+rawdata/745.bmp 0
+rawdata/746.bmp 1 102 122 77 78
+rawdata/747.bmp 1 105 122 75 78
+rawdata/748.bmp 1 107 123 69 79
+rawdata/749.bmp 1 107 123 64 80
+rawdata/750.bmp 2 114 123 49 81 275 102 33 69
+rawdata/751.bmp 2 135 122 45 81 275 102 33 69
+rawdata/752.bmp 2 134 121 46 82 242 116 34 68
+rawdata/753.bmp 2 129 124 49 83 241 128 34 68
+rawdata/754.bmp 2 108 124 47 81 241 128 35 68
+rawdata/755.bmp 2 111 123 48 81 241 127 36 69
+rawdata/756.bmp 2 115 124 47 80 240 125 39 70
+rawdata/757.bmp 2 115 125 50 79 240 124 41 70
+rawdata/758.bmp 2 113 125 57 77 240 123 42 70
+rawdata/759.bmp 2 111 124 62 79 243 125 44 69
+rawdata/760.bmp 2 107 123 72 79 241 125 45 69
+rawdata/761.bmp 2 106 122 78 78 240 125 46 69
+rawdata/762.bmp 2 107 123 79 79 244 124 37 69
+rawdata/763.bmp 1 245 125 37 69
+rawdata/764.bmp 1 245 125 37 69
+rawdata/765.bmp 1 246 125 37 70
+rawdata/766.bmp 1 247 126 37 70
+rawdata/767.bmp 1 249 126 35 70
+rawdata/768.bmp 1 250 127 35 70
+rawdata/769.bmp 1 251 127 34 70
+rawdata/770.bmp 1 251 127 35 70
+rawdata/771.bmp 1 250 128 38 71
+rawdata/772.bmp 1 255 128 30 70
+rawdata/773.bmp 1 253 127 37 70
+rawdata/774.bmp 1 254 128 37 68
+rawdata/775.bmp 1 254 128 38 69
+rawdata/776.bmp 1 255 127 37 69
+rawdata/777.bmp 1 249 126 51 71
+rawdata/778.bmp 1 250 125 51 71
+rawdata/779.bmp 1 250 123 53 71
+rawdata/780.bmp 1 249 122 56 71
+rawdata/781.bmp 1 246 119 65 76
+rawdata/782.bmp 1 148 134 46 61
+rawdata/783.bmp 1 151 134 47 61
+rawdata/784.bmp 1 151 133 47 60
+rawdata/785.bmp 1 155 132 45 60
+rawdata/786.bmp 1 160 132 43 61
+rawdata/787.bmp 0
+rawdata/788.bmp 2 168 132 35 61 244 124 71 75
+rawdata/789.bmp 2 167 131 33 62 244 123 69 76
+rawdata/790.bmp 2 169 131 24 62 243 125 65 75
+rawdata/791.bmp 2 159 134 23 61 243 126 49 73
+rawdata/792.bmp 2 136 140 22 62 231 123 49 73
+rawdata/793.bmp 2 119 141 23 60 226 124 46 73
+rawdata/794.bmp 2 124 142 25 60 229 124 47 73
+rawdata/795.bmp 2 128 143 26 60 231 123 52 73
+rawdata/796.bmp 2 131 142 28 60 232 122 56 74
+rawdata/797.bmp 2 132 140 30 60 229 122 63 74
+rawdata/798.bmp 2 134 140 32 61 224 122 74 74
+rawdata/799.bmp 0
+rawdata/800.bmp 0
+rawdata/801.bmp 0
+rawdata/802.bmp 0
+rawdata/803.bmp 0
+rawdata/804.bmp 0
+rawdata/805.bmp 0
+rawdata/806.bmp 0
+rawdata/807.bmp 0
+rawdata/808.bmp 1 240 126 44 70
+rawdata/809.bmp 1 242 127 44 70
+rawdata/810.bmp 2 128 133 73 74 247 128 38 69
+rawdata/811.bmp 2 131 133 71 75 248 128 38 69
+rawdata/812.bmp 2 135 135 67 73 247 128 37 69
+rawdata/813.bmp 2 139 135 63 72 244 129 39 69
+rawdata/814.bmp 2 145 134 53 73 243 128 40 70
+rawdata/815.bmp 2 148 134 51 73 242 126 40 70
+rawdata/816.bmp 2 153 134 47 73 245 125 39 70
+rawdata/817.bmp 2 163 130 43 74 254 124 41 71
+rawdata/818.bmp 2 176 130 43 73 284 121 35 71
+rawdata/819.bmp 2 179 129 38 72 284 122 35 71
+rawdata/820.bmp 2 177 130 43 71 282 122 34 71
+rawdata/821.bmp 2 174 129 47 69 282 122 34 70
+rawdata/822.bmp 2 171 129 51 69 282 122 34 70
+rawdata/823.bmp 2 168 129 54 68 282 122 34 70
+rawdata/824.bmp 2 164 130 60 67 282 121 34 71
+rawdata/825.bmp 1 283 120 34 71
+rawdata/826.bmp 1 284 120 34 71
+rawdata/827.bmp 1 285 121 34 71
+rawdata/828.bmp 1 286 123 34 71
+rawdata/829.bmp 1 287 124 34 71
+rawdata/830.bmp 1 287 125 34 71
+rawdata/831.bmp 1 287 125 34 71
+rawdata/832.bmp 1 278 124 52 72
+rawdata/833.bmp 1 278 125 52 72
+rawdata/834.bmp 1 287 125 32 71
+rawdata/835.bmp 1 288 124 31 71
+rawdata/836.bmp 1 269 124 68 71
+rawdata/837.bmp 1 271 123 65 72
+rawdata/838.bmp 1 269 123 67 73
+rawdata/839.bmp 1 269 123 66 73
+rawdata/840.bmp 1 266 122 71 75
+rawdata/841.bmp 1 176 134 41 67
+rawdata/842.bmp 1 168 134 52 66
+rawdata/843.bmp 1 163 134 52 66
+rawdata/844.bmp 1 166 135 49 64
+rawdata/845.bmp 1 166 134 45 64
+rawdata/846.bmp 1 167 133 40 64
+rawdata/847.bmp 1 162 131 48 68
+rawdata/848.bmp 1 163 130 48 68
+rawdata/849.bmp 1 163 129 45 69
+rawdata/850.bmp 1 154 128 45 70
+rawdata/851.bmp 2 117 128 50 74 228 121 74 74
+rawdata/852.bmp 2 97 127 40 70 222 123 72 74
+rawdata/853.bmp 2 96 128 37 69 224 124 71 75
+rawdata/854.bmp 2 102 128 35 68 227 124 71 75
+rawdata/855.bmp 2 102 129 33 68 228 123 71 75
+rawdata/856.bmp 2 102 129 30 68 229 122 71 76
+rawdata/857.bmp 2 100 127 28 72 230 121 71 76
+rawdata/858.bmp 2 92 125 31 73 231 121 71 76
+rawdata/859.bmp 2 89 124 40 74 232 120 71 78
+rawdata/860.bmp 2 86 126 43 74 232 120 71 79
+rawdata/861.bmp 2 84 126 43 73 233 121 70 79
+rawdata/862.bmp 2 82 124 42 73 236 121 66 79
+rawdata/863.bmp 2 81 124 42 71 237 122 65 78
+rawdata/864.bmp 2 80 123 41 70 238 123 62 76
+rawdata/865.bmp 2 80 121 37 71 242 123 55 76
+rawdata/866.bmp 2 78 121 37 72 248 123 42 76
+rawdata/867.bmp 2 77 123 35 73 253 123 35 76
+rawdata/868.bmp 2 76 121 34 74 251 123 36 76
+rawdata/869.bmp 2 73 122 34 74 246 123 47 77
+rawdata/870.bmp 2 72 120 34 74 244 122 49 79
+rawdata/871.bmp 2 70 121 34 73 239 121 55 79
+rawdata/872.bmp 2 68 119 34 76 236 120 58 79
+rawdata/873.bmp 2 67 120 34 79 235 120 58 78
+rawdata/874.bmp 2 66 119 34 85 234 123 58 77
+rawdata/875.bmp 2 61 117 42 90 233 123 59 76
+rawdata/876.bmp 2 55 115 50 94 228 125 67 75
+rawdata/877.bmp 2 51 113 58 97 224 125 70 75
+rawdata/878.bmp 1 47 111 65 100
+rawdata/879.bmp 1 43 109 72 104
+rawdata/880.bmp 2 39 108 80 104 216 125 75 75
+rawdata/881.bmp 1 35 108 86 105
+rawdata/882.bmp 1 31 108 94 105
+rawdata/883.bmp 1 31 107 94 104
+rawdata/884.bmp 1 65 121 26 71
+rawdata/885.bmp 1 65 117 27 71
+rawdata/886.bmp 1 64 116 28 72
+rawdata/887.bmp 1 63 116 29 72
+rawdata/888.bmp 2 61 114 31 73 227 116 32 89
+rawdata/889.bmp 2 60 110 33 73 226 115 31 89
+rawdata/890.bmp 2 60 110 32 73 219 115 38 88
+rawdata/891.bmp 2 60 114 33 73 218 114 37 88
+rawdata/892.bmp 2 60 118 31 72 216 114 37 89
+rawdata/893.bmp 2 62 121 25 72 215 113 37 90
+rawdata/894.bmp 2 57 124 32 72 216 113 35 91
+rawdata/895.bmp 2 56 125 35 72 218 113 32 91
+rawdata/896.bmp 2 56 125 34 72 221 111 28 92
+rawdata/897.bmp 3 57 123 35 76 258 122 17 69 199 110 23 93
+rawdata/898.bmp 3 58 124 35 76 258 120 17 69 197 108 26 92
+rawdata/899.bmp 3 59 122 35 76 266 126 17 69 184 105 34 90
+rawdata/900.bmp 3 59 122 37 76 266 127 19 69 178 108 41 87
+rawdata/901.bmp 3 62 121 33 76 266 127 19 69 169 110 55 84
+rawdata/902.bmp 3 66 121 30 76 267 127 18 69 166 112 57 80
+rawdata/903.bmp 3 56 121 54 77 266 127 21 68 162 114 60 77
+rawdata/904.bmp 2 58 122 54 79 165 116 61 73
+rawdata/905.bmp 1 61 121 53 82
+rawdata/906.bmp 0
+rawdata/907.bmp 1 267 125 28 69
+rawdata/908.bmp 1 266 126 31 67
+rawdata/909.bmp 1 265 127 33 65
+rawdata/910.bmp 1 265 128 33 63
+rawdata/911.bmp 0
+rawdata/912.bmp 0
+rawdata/913.bmp 1 81 116 47 82
+rawdata/914.bmp 1 82 115 50 82
+rawdata/915.bmp 1 100 119 50 83
+rawdata/916.bmp 1 99 119 52 83
+rawdata/917.bmp 1 108 119 54 82
+rawdata/918.bmp 2 113 118 61 82 254 130 63 67
+rawdata/919.bmp 2 109 119 69 82 255 133 60 67
+rawdata/920.bmp 2 106 119 73 82 257 133 56 69
+rawdata/921.bmp 1 259 134 50 69
+rawdata/922.bmp 1 259 134 46 70
+rawdata/923.bmp 1 254 134 46 70
+rawdata/924.bmp 1 249 134 48 69
+rawdata/925.bmp 1 246 130 51 70
+rawdata/926.bmp 0
+rawdata/927.bmp 0
+rawdata/928.bmp 0
+rawdata/929.bmp 1 116 124 46 72
+rawdata/930.bmp 1 119 127 43 70
+rawdata/931.bmp 1 124 129 39 70
+rawdata/932.bmp 1 125 128 38 71
+rawdata/933.bmp 1 126 127 38 71
+rawdata/934.bmp 1 127 126 38 72
+rawdata/935.bmp 1 127 128 37 71
+rawdata/936.bmp 1 128 129 35 71
+rawdata/937.bmp 1 125 129 34 70
+rawdata/938.bmp 1 116 130 29 70
+rawdata/939.bmp 1 68 126 29 70
+rawdata/940.bmp 1 69 123 27 70
+rawdata/941.bmp 1 71 122 26 70
+rawdata/942.bmp 1 69 125 26 71
+rawdata/943.bmp 1 67 125 29 71
+rawdata/944.bmp 1 65 126 30 71
+rawdata/945.bmp 1 63 125 31 70
+rawdata/946.bmp 1 62 124 30 70
+rawdata/947.bmp 1 61 125 30 68
+rawdata/948.bmp 1 61 126 29 68
+rawdata/949.bmp 1 60 126 29 68
+rawdata/950.bmp 2 58 125 29 69 185 129 55 73
+rawdata/951.bmp 2 57 123 28 70 183 131 56 73
+rawdata/952.bmp 2 55 119 29 70 182 132 57 73
+rawdata/953.bmp 2 54 118 29 70 182 132 57 72
+rawdata/954.bmp 2 52 121 29 70 182 132 57 72
+rawdata/955.bmp 2 51 123 29 70 182 130 56 74
+rawdata/956.bmp 2 50 125 28 70 185 129 57 74
+rawdata/957.bmp 2 50 125 28 70 183 128 56 74
+rawdata/958.bmp 3 50 125 27 70 183 129 56 77 133 154 30 70
+rawdata/959.bmp 2 49 125 28 70 187 129 53 77
+rawdata/960.bmp 1 240 129 54 79
+rawdata/961.bmp 1 243 129 46 80
+rawdata/962.bmp 2 29 122 69 72 240 126 46 86
+rawdata/963.bmp 2 29 122 68 73 237 122 51 92
+rawdata/964.bmp 2 30 121 67 73 230 120 62 98
+rawdata/965.bmp 2 32 121 64 73 226 117 71 103
+rawdata/966.bmp 2 34 120 63 73 220 113 82 107
+rawdata/967.bmp 2 36 120 61 73 216 110 90 110
+rawdata/968.bmp 2 37 119 58 74 235 124 52 80
+rawdata/969.bmp 2 65 124 55 74 236 124 51 79
+rawdata/970.bmp 2 65 125 54 73 238 123 45 78
+rawdata/971.bmp 2 65 123 53 76 241 123 38 77
+rawdata/972.bmp 2 65 122 46 79 243 121 35 76
+rawdata/973.bmp 2 67 122 39 79 239 117 40 76
+rawdata/974.bmp 2 70 121 35 80 238 117 41 76
+rawdata/975.bmp 2 70 129 37 66 238 118 41 76
+rawdata/976.bmp 2 60 109 58 107 238 119 42 76
+rawdata/977.bmp 2 64 109 51 105 238 119 42 76
+rawdata/978.bmp 2 68 110 45 102 240 120 41 76
+rawdata/979.bmp 2 67 110 49 100 242 122 38 76
+rawdata/980.bmp 2 67 110 50 99 243 124 37 75
+rawdata/981.bmp 2 67 111 51 96 241 123 39 76
+rawdata/982.bmp 2 66 113 54 93 240 125 42 77
+rawdata/983.bmp 2 66 114 58 90 242 126 43 77
+rawdata/984.bmp 2 64 117 63 85 244 125 37 75
+rawdata/985.bmp 2 63 101 65 83 244 122 38 74
+rawdata/986.bmp 2 61 102 69 80 244 122 38 74
+rawdata/987.bmp 2 60 117 74 77 244 124 38 73
+rawdata/988.bmp 2 63 114 73 76 244 125 38 73
+rawdata/989.bmp 2 63 113 75 76 246 128 38 73
+rawdata/990.bmp 2 34 46 133 210 264 160 4 7
+rawdata/991.bmp 1 70 114 63 76
+rawdata/992.bmp 2 65 114 74 77 250 127 36 74
+rawdata/993.bmp 2 66 115 73 79 249 127 41 74
+rawdata/994.bmp 2 68 117 73 79 250 125 41 74
+rawdata/995.bmp 2 67 117 74 80 251 125 42 74
+rawdata/996.bmp 2 68 118 77 81 253 126 43 73
+rawdata/997.bmp 2 67 119 79 83 253 127 44 73
+rawdata/998.bmp 2 66 121 83 83 252 128 46 72
+rawdata/999.bmp 2 67 122 83 83 253 129 46 72
+rawdata/1000.bmp 1 217 118 46 72
+rawdata/1001.bmp 1 242 120 46 73
+rawdata/1002.bmp 1 242 120 46 72
+rawdata/1003.bmp 1 256 126 46 72
+rawdata/1004.bmp 1 260 123 46 72
+rawdata/1005.bmp 1 259 123 46 72
+rawdata/1006.bmp 1 259 124 49 72
+rawdata/1007.bmp 1 260 127 51 71
+rawdata/1008.bmp 1 258 128 56 71
+rawdata/1009.bmp 1 259 128 56 71
+rawdata/1010.bmp 1 259 128 57 71
+rawdata/1011.bmp 1 259 128 58 71
+rawdata/1012.bmp 1 261 128 55 71
+rawdata/1013.bmp 1 262 126 55 70
+rawdata/1014.bmp 1 264 125 55 70
+rawdata/1015.bmp 1 263 125 55 70
+rawdata/1016.bmp 1 265 126 55 71
+rawdata/1017.bmp 1 266 127 55 71
+rawdata/1018.bmp 1 269 127 55 71
+rawdata/1019.bmp 1 271 128 55 71
+rawdata/1020.bmp 1 270 128 55 71
+rawdata/1021.bmp 1 271 128 56 71
+rawdata/1022.bmp 1 272 129 56 71
+rawdata/1023.bmp 1 274 129 56 71
+rawdata/1024.bmp 1 276 130 57 71
+rawdata/1025.bmp 1 276 129 54 70
+rawdata/1026.bmp 1 277 128 54 70
+rawdata/1027.bmp 1 277 128 54 70
+rawdata/1028.bmp 1 278 128 54 70
+rawdata/1029.bmp 1 279 128 55 70
+rawdata/1030.bmp 1 278 127 56 70
+rawdata/1031.bmp 1 278 126 57 70
+rawdata/1032.bmp 1 279 126 57 70
+rawdata/1033.bmp 1 279 125 57 70
+rawdata/1034.bmp 1 280 125 57 70
+rawdata/1035.bmp 1 279 124 57 70
+rawdata/1036.bmp 1 281 124 55 69
+rawdata/1037.bmp 1 281 123 55 69
+rawdata/1038.bmp 1 281 123 54 69
+rawdata/1039.bmp 1 282 124 53 69
+rawdata/1040.bmp 1 282 124 52 69
+rawdata/1041.bmp 1 283 124 51 69
+rawdata/1042.bmp 1 283 124 51 69
+rawdata/1043.bmp 1 283 125 50 69
+rawdata/1044.bmp 1 283 125 48 69
+rawdata/1045.bmp 1 284 125 46 70
+rawdata/1046.bmp 1 285 125 44 70
+rawdata/1047.bmp 1 286 126 41 70
+rawdata/1048.bmp 1 285 126 40 70
+rawdata/1049.bmp 1 294 126 23 70
+rawdata/1050.bmp 1 291 126 26 70
+rawdata/1051.bmp 1 289 127 28 70
+rawdata/1052.bmp 1 286 126 32 70
+rawdata/1053.bmp 1 286 127 31 69
+rawdata/1054.bmp 1 285 127 31 68
+rawdata/1055.bmp 1 284 126 31 68
+rawdata/1056.bmp 1 282 126 30 67
+rawdata/1057.bmp 1 281 125 30 67
+rawdata/1058.bmp 1 282 124 27 68
+rawdata/1059.bmp 1 281 126 26 68
+rawdata/1060.bmp 2 99 117 91 94 282 127 24 68
+rawdata/1061.bmp 2 98 118 86 95 280 128 24 68
+rawdata/1062.bmp 2 97 116 81 95 276 127 30 68
+rawdata/1063.bmp 2 102 115 75 96 275 128 30 69
+rawdata/1064.bmp 2 107 116 70 96 276 128 29 69
+rawdata/1065.bmp 2 108 116 67 96 270 128 37 69
+rawdata/1066.bmp 2 107 116 66 97 271 129 34 67
+rawdata/1067.bmp 2 105 116 66 96 270 129 32 66
+rawdata/1068.bmp 2 105 116 65 97 270 129 30 67
+rawdata/1069.bmp 2 103 118 63 95 261 129 45 67
+rawdata/1070.bmp 2 102 116 61 96 268 127 26 67
+rawdata/1071.bmp 2 101 117 58 95 260 126 40 67
+rawdata/1072.bmp 2 101 116 54 94 261 123 35 66
+rawdata/1073.bmp 2 101 115 52 95 261 122 30 66
+rawdata/1074.bmp 2 100 113 51 94 261 126 30 66
+rawdata/1075.bmp 2 99 112 51 95 259 127 30 66
+rawdata/1076.bmp 2 98 114 52 95 256 127 33 67
+rawdata/1077.bmp 2 95 116 57 95 254 127 35 67
+rawdata/1078.bmp 2 93 117 58 94 253 126 35 68
+rawdata/1079.bmp 2 89 117 65 94 251 126 34 69
+rawdata/1080.bmp 2 86 117 68 94 251 126 31 68
+rawdata/1081.bmp 2 81 117 75 94 250 127 28 67
+rawdata/1082.bmp 2 77 118 79 93 247 128 28 67
+rawdata/1083.bmp 2 74 116 81 92 245 126 26 67
+rawdata/1084.bmp 2 70 114 87 92 244 126 25 67
+rawdata/1085.bmp 2 66 113 91 92 234 130 43 67
+rawdata/1086.bmp 1 232 130 40 67
+rawdata/1087.bmp 1 231 130 37 67
+rawdata/1088.bmp 1 230 128 35 67
+rawdata/1089.bmp 1 225 128 41 67
+rawdata/1090.bmp 1 226 129 37 67
+rawdata/1091.bmp 1 208 129 66 68
+rawdata/1092.bmp 1 204 128 68 70
+rawdata/1093.bmp 1 200 127 69 70
+rawdata/1094.bmp 1 197 128 69 70
+rawdata/1095.bmp 1 197 129 68 70
+rawdata/1096.bmp 1 61 119 76 89
+rawdata/1097.bmp 1 84 119 30 89
+rawdata/1098.bmp 1 84 121 28 86
+rawdata/1099.bmp 1 77 121 40 87
+rawdata/1100.bmp 1 83 120 27 85
+rawdata/1101.bmp 1 81 119 31 85
+rawdata/1102.bmp 1 81 117 30 84
+rawdata/1103.bmp 2 80 116 32 84 164 130 69 70
+rawdata/1104.bmp 2 82 115 28 84 161 129 65 70
+rawdata/1105.bmp 2 79 115 30 85 156 129 60 70
+rawdata/1106.bmp 2 70 115 31 85 145 129 52 70
+rawdata/1107.bmp 2 47 116 34 85 134 126 43 70
+rawdata/1108.bmp 2 40 115 34 85 129 129 40 70
+rawdata/1109.bmp 2 42 115 35 85 125 128 48 70
+rawdata/1110.bmp 2 42 116 36 83 128 129 47 70
+rawdata/1111.bmp 2 41 114 41 82 121 130 58 70
+rawdata/1112.bmp 2 42 114 36 82 126 130 49 70
+rawdata/1113.bmp 2 43 114 35 82 120 130 57 70
+rawdata/1114.bmp 2 42 115 34 82 119 130 57 70
+rawdata/1115.bmp 2 34 115 50 82 118 129 57 70
+rawdata/1116.bmp 2 32 115 52 82 112 129 64 70
+rawdata/1117.bmp 2 31 114 52 82 109 131 64 70
+rawdata/1118.bmp 2 28 115 56 82 106 131 65 70
+rawdata/1119.bmp 2 26 114 58 82 104 132 65 70
+rawdata/1120.bmp 2 26 115 56 82 103 132 65 70
+rawdata/1121.bmp 2 26 116 56 82 104 132 60 70
+rawdata/1122.bmp 2 22 116 63 82 105 131 53 70
+rawdata/1123.bmp 2 21 117 64 82 112 130 37 70
+rawdata/1124.bmp 2 26 117 53 82 110 129 37 70
+rawdata/1125.bmp 2 29 117 46 82 109 129 37 70
+rawdata/1126.bmp 2 30 118 44 82 108 129 35 70
+rawdata/1127.bmp 2 32 118 41 82 105 131 36 69
+rawdata/1128.bmp 2 35 118 37 82 101 132 38 68
+rawdata/1129.bmp 2 38 119 37 82 99 133 40 68
+rawdata/1130.bmp 2 35 119 44 82 97 133 43 68
+rawdata/1131.bmp 2 37 121 51 82 100 134 44 67
+rawdata/1132.bmp 2 39 121 57 81 108 136 44 67
+rawdata/1133.bmp 2 38 120 64 82 117 134 45 67
+rawdata/1134.bmp 2 33 122 70 80 119 132 44 67
+rawdata/1135.bmp 2 28 121 75 80 118 132 44 67
+rawdata/1136.bmp 2 24 122 78 80 117 132 44 68
+rawdata/1137.bmp 1 117 132 44 68
+rawdata/1138.bmp 1 117 133 45 68
+rawdata/1139.bmp 1 128 132 27 69
+rawdata/1140.bmp 1 128 132 28 69
+rawdata/1141.bmp 1 129 130 28 69
+rawdata/1142.bmp 1 130 133 28 65
+rawdata/1143.bmp 1 130 133 32 67
+rawdata/1144.bmp 1 130 133 34 67
+rawdata/1145.bmp 1 120 130 58 72
+rawdata/1146.bmp 1 123 132 57 73
+rawdata/1147.bmp 1 125 132 57 73
+rawdata/1148.bmp 1 127 129 59 76
+rawdata/1149.bmp 1 128 128 61 76
+rawdata/1150.bmp 1 132 126 59 76
+rawdata/1151.bmp 1 134 130 58 67
+rawdata/1152.bmp 1 146 132 38 67
+rawdata/1153.bmp 1 147 134 41 67
+rawdata/1154.bmp 1 137 133 66 67
+rawdata/1155.bmp 1 139 128 66 76
+rawdata/1156.bmp 1 140 127 68 76
+rawdata/1157.bmp 1 140 128 69 76
+rawdata/1158.bmp 1 141 129 65 76
+rawdata/1159.bmp 1 144 126 63 77
+rawdata/1160.bmp 1 162 129 34 68
+rawdata/1161.bmp 1 167 130 36 69
+rawdata/1162.bmp 1 172 129 38 69
+rawdata/1163.bmp 1 174 130 39 69
+rawdata/1164.bmp 1 171 130 46 68
+rawdata/1165.bmp 1 173 131 46 68
+rawdata/1166.bmp 1 173 132 48 67
+rawdata/1167.bmp 1 175 134 47 67
+rawdata/1168.bmp 1 177 133 47 67
+rawdata/1169.bmp 1 180 133 48 67
+rawdata/1170.bmp 1 188 131 45 67
+rawdata/1171.bmp 1 193 131 33 67
+rawdata/1172.bmp 1 194 127 35 67
+rawdata/1173.bmp 1 193 128 38 69
+rawdata/1174.bmp 1 192 130 44 70
+rawdata/1175.bmp 1 196 131 44 70
+rawdata/1176.bmp 1 195 131 45 70
+rawdata/1177.bmp 1 197 132 44 69
+rawdata/1178.bmp 1 200 132 43 68
+rawdata/1179.bmp 1 199 132 47 68
+rawdata/1180.bmp 1 204 131 44 68
+rawdata/1181.bmp 1 204 131 44 69
+rawdata/1182.bmp 1 205 129 44 69
+rawdata/1183.bmp 1 208 129 43 69
+rawdata/1184.bmp 1 210 129 43 69
+rawdata/1185.bmp 1 213 130 43 69
+rawdata/1186.bmp 1 212 129 44 70
+rawdata/1187.bmp 1 212 128 47 70
+rawdata/1188.bmp 2 107 122 31 72 213 130 47 69
+rawdata/1189.bmp 2 109 121 33 73 212 128 50 70
+rawdata/1190.bmp 1 214 131 52 69
+rawdata/1191.bmp 1 213 129 52 70
+rawdata/1192.bmp 2 117 118 28 73 213 130 54 70
+rawdata/1193.bmp 2 120 118 23 72 215 130 53 70
+rawdata/1194.bmp 2 123 116 23 72 216 131 53 70
+rawdata/1195.bmp 2 126 114 19 73 222 130 43 70
+rawdata/1196.bmp 2 126 113 17 73 223 129 43 70
+rawdata/1197.bmp 3 124 111 18 73 224 128 43 70 150 98 23 99
+rawdata/1198.bmp 3 35 110 20 74 228 128 36 70 148 101 24 97
+rawdata/1199.bmp 3 33 121 23 75 230 132 36 70 148 102 25 94
+rawdata/1200.bmp 3 41 121 26 75 236 131 27 70 145 103 31 92
+rawdata/1201.bmp 3 48 121 27 74 238 132 24 70 145 104 32 91
+rawdata/1202.bmp 3 50 122 28 73 240 131 23 70 145 104 32 89
+rawdata/1203.bmp 3 52 121 28 73 238 130 26 70 147 104 27 89
+rawdata/1204.bmp 3 53 121 28 73 239 130 27 70 146 104 28 91
+rawdata/1205.bmp 3 55 121 28 73 238 131 29 70 144 102 33 94
+rawdata/1206.bmp 3 57 122 26 73 237 130 32 70 140 102 39 97
+rawdata/1207.bmp 3 58 122 26 74 238 130 33 70 136 100 46 100
+rawdata/1208.bmp 3 64 124 16 75 237 130 34 70 134 99 51 100
+rawdata/1209.bmp 3 64 124 19 76 238 131 34 70 131 99 57 100
+rawdata/1210.bmp 3 63 124 22 75 239 132 34 70 126 101 66 100
+rawdata/1211.bmp 3 64 123 25 76 240 131 34 70 121 102 76 98
+rawdata/1212.bmp 3 48 124 58 76 229 120 58 88 111 104 96 97
+rawdata/1213.bmp 3 64 125 29 76 230 118 58 92 120 103 80 96
+rawdata/1214.bmp 3 62 124 32 76 234 117 52 90 140 111 41 79
+rawdata/1215.bmp 3 50 124 58 76 238 120 46 87 134 111 55 79
+rawdata/1216.bmp 3 51 124 57 76 242 122 40 84 135 111 52 79
+rawdata/1217.bmp 3 52 124 56 76 246 125 35 80 138 110 48 78
+rawdata/1218.bmp 3 67 121 26 76 246 129 36 75 149 110 26 77
+rawdata/1219.bmp 3 70 119 23 76 245 131 39 70 146 111 34 76
+rawdata/1220.bmp 3 72 118 21 76 245 130 41 70 145 113 36 75
+rawdata/1221.bmp 3 71 121 21 76 244 129 43 70 142 115 41 74
+rawdata/1222.bmp 3 70 122 23 76 246 130 38 70 142 117 41 74
+rawdata/1223.bmp 3 70 123 25 76 247 128 37 70 142 117 41 74
+rawdata/1224.bmp 3 56 121 53 76 248 126 33 70 141 117 41 75
+rawdata/1225.bmp 3 56 120 55 76 248 123 32 70 141 116 40 77
+rawdata/1226.bmp 3 55 120 56 76 248 122 33 70 141 117 39 76
+rawdata/1227.bmp 3 56 120 56 76 249 121 33 71 140 118 41 76
+rawdata/1228.bmp 3 55 120 58 76 250 120 33 70 139 120 40 75
+rawdata/1229.bmp 3 57 120 56 76 250 122 34 69 138 121 43 74
+rawdata/1230.bmp 3 69 122 32 76 253 124 33 69 137 122 43 74
+rawdata/1231.bmp 3 70 122 32 78 255 127 32 69 142 122 33 73
+rawdata/1232.bmp 3 71 123 33 78 256 129 32 69 142 121 33 72
+rawdata/1233.bmp 3 71 123 35 78 256 129 33 69 141 120 34 72
+rawdata/1234.bmp 3 71 124 37 78 256 129 33 68 141 120 34 71
+rawdata/1235.bmp 3 74 125 35 79 257 129 33 68 141 120 35 71
+rawdata/1236.bmp 3 75 123 37 80 257 128 33 68 141 120 34 70
+rawdata/1237.bmp 2 75 124 38 80 257 128 33 68
+rawdata/1238.bmp 1 257 128 33 68
+rawdata/1239.bmp 1 257 127 33 68
+rawdata/1240.bmp 2 26 79 145 168 271 159 4 6
+rawdata/1241.bmp 1 89 126 23 77
+rawdata/1242.bmp 0
+rawdata/1243.bmp 0
+rawdata/1244.bmp 1 73 121 62 81
+rawdata/1245.bmp 1 76 119 60 80
+rawdata/1246.bmp 1 78 120 61 81
+rawdata/1247.bmp 1 107 119 61 81
+rawdata/1248.bmp 1 106 119 62 80
+rawdata/1249.bmp 1 103 120 61 80
+rawdata/1250.bmp 2 103 120 58 80 305 98 37 67
+rawdata/1251.bmp 2 177 110 57 80 305 98 37 66
+rawdata/1252.bmp 2 178 110 54 81 304 99 38 65
+rawdata/1253.bmp 2 161 119 54 80 260 125 39 64
+rawdata/1254.bmp 2 145 120 50 81 253 131 40 64
+rawdata/1255.bmp 2 97 116 50 81 253 132 38 64
+rawdata/1256.bmp 2 104 118 51 81 252 129 36 63
+rawdata/1257.bmp 2 110 119 51 81 253 134 37 63
+rawdata/1258.bmp 2 114 119 53 81 250 134 41 62
+rawdata/1259.bmp 2 116 119 54 81 254 143 46 57
+rawdata/1260.bmp 2 118 118 55 81 247 140 51 56
+rawdata/1261.bmp 1 241 139 54 55
+rawdata/1262.bmp 1 250 139 33 55
+rawdata/1263.bmp 2 112 119 75 81 248 139 32 55
+rawdata/1264.bmp 2 116 119 69 81 246 137 33 54
+rawdata/1265.bmp 2 116 119 66 81 245 138 33 54
+rawdata/1266.bmp 2 116 121 64 81 244 137 33 55
+rawdata/1267.bmp 2 118 122 61 81 241 137 34 54
+rawdata/1268.bmp 2 118 123 63 81 239 136 35 54
+rawdata/1269.bmp 2 118 123 64 81 233 133 39 55
+rawdata/1270.bmp 1 119 123 65 81
+rawdata/1271.bmp 0
+rawdata/1272.bmp 0
+rawdata/1273.bmp 0
+rawdata/1274.bmp 0
+rawdata/1275.bmp 0
+rawdata/1276.bmp 0
+rawdata/1277.bmp 0
+rawdata/1278.bmp 0
+rawdata/1279.bmp 0
+rawdata/1280.bmp 0
+rawdata/1281.bmp 0
+rawdata/1282.bmp 0
+rawdata/1283.bmp 0
+rawdata/1284.bmp 0
+rawdata/1285.bmp 0
+rawdata/1286.bmp 0
+rawdata/1287.bmp 0
+rawdata/1288.bmp 0
+rawdata/1289.bmp 0
+rawdata/1290.bmp 0
+rawdata/1291.bmp 0
+rawdata/1292.bmp 0
+rawdata/1293.bmp 0
+rawdata/1294.bmp 0
+rawdata/1295.bmp 0
+rawdata/1296.bmp 0
+rawdata/1297.bmp 0
+rawdata/1298.bmp 0
+rawdata/1299.bmp 0
+rawdata/1300.bmp 0
+rawdata/1301.bmp 0
+rawdata/1302.bmp 0
+rawdata/1303.bmp 0
+rawdata/1304.bmp 0
+rawdata/1305.bmp 0
+rawdata/1306.bmp 0
+rawdata/1307.bmp 1 171 117 64 86
+rawdata/1308.bmp 1 174 118 59 86
+rawdata/1309.bmp 1 161 119 65 84
+rawdata/1310.bmp 1 151 120 74 82
+rawdata/1311.bmp 1 147 122 76 79
+rawdata/1312.bmp 1 145 120 75 81
+rawdata/1313.bmp 1 143 121 76 79
+rawdata/1314.bmp 0
+rawdata/1315.bmp 0
+rawdata/1316.bmp 1 251 124 41 73
+rawdata/1317.bmp 1 252 122 42 73
+rawdata/1318.bmp 1 254 121 43 73
+rawdata/1319.bmp 1 256 121 43 74
+rawdata/1320.bmp 1 259 120 39 75
+rawdata/1321.bmp 1 261 120 39 75
+rawdata/1322.bmp 1 261 120 40 75
+rawdata/1323.bmp 2 81 115 92 93 262 120 42 75
+rawdata/1324.bmp 2 80 112 94 99 264 120 42 75
+rawdata/1325.bmp 2 76 111 98 104 266 120 43 75
+rawdata/1326.bmp 2 71 110 105 107 268 122 43 75
+rawdata/1327.bmp 2 68 109 110 111 267 122 47 74
+rawdata/1328.bmp 1 268 121 46 75
+rawdata/1329.bmp 1 271 121 45 75
+rawdata/1330.bmp 1 271 120 46 75
+rawdata/1331.bmp 1 272 120 46 75
+rawdata/1332.bmp 1 274 119 45 75
+rawdata/1333.bmp 1 275 119 45 76
+rawdata/1334.bmp 1 276 120 45 75
+rawdata/1335.bmp 1 279 119 40 76
+rawdata/1336.bmp 1 280 118 40 76
+rawdata/1337.bmp 1 281 119 40 77
+rawdata/1338.bmp 1 282 121 40 76
+rawdata/1339.bmp 1 285 122 38 77
+rawdata/1340.bmp 1 291 121 31 77
+rawdata/1341.bmp 1 277 113 58 87
+rawdata/1342.bmp 1 281 116 49 81
+rawdata/1343.bmp 1 283 118 46 77
+rawdata/1344.bmp 1 284 117 44 78
+rawdata/1345.bmp 1 288 117 38 78
+rawdata/1346.bmp 1 288 115 38 78
+rawdata/1347.bmp 1 290 115 35 79
+rawdata/1348.bmp 1 290 115 32 79
+rawdata/1349.bmp 1 292 116 29 79
+rawdata/1350.bmp 1 284 103 33 79
+rawdata/1351.bmp 1 284 103 33 79
+rawdata/1352.bmp 1 287 113 31 79
+rawdata/1353.bmp 1 288 115 31 81
+rawdata/1354.bmp 1 288 116 31 81
+rawdata/1355.bmp 1 285 115 35 82
+rawdata/1356.bmp 1 278 114 44 86
+rawdata/1357.bmp 1 274 111 52 91
+rawdata/1358.bmp 1 272 111 59 94
+rawdata/1359.bmp 1 267 112 67 96
+rawdata/1360.bmp 1 264 111 73 98
+rawdata/1361.bmp 1 259 110 80 99
+rawdata/1362.bmp 1 256 109 86 100
+rawdata/1363.bmp 1 254 109 91 101
+rawdata/1364.bmp 1 253 107 90 100
+rawdata/1365.bmp 1 278 114 38 84
+rawdata/1366.bmp 1 279 111 33 85
+rawdata/1367.bmp 1 280 110 28 85
+rawdata/1368.bmp 1 281 110 22 85
+rawdata/1369.bmp 1 280 110 24 84
+rawdata/1370.bmp 1 278 112 26 83
+rawdata/1371.bmp 1 278 113 26 83
+rawdata/1372.bmp 1 277 113 29 82
+rawdata/1373.bmp 1 274 113 33 81
+rawdata/1374.bmp 1 273 113 33 80
+rawdata/1375.bmp 1 273 117 35 79
+rawdata/1376.bmp 1 270 120 40 77
+rawdata/1377.bmp 1 267 118 46 80
+rawdata/1378.bmp 1 267 117 44 82
+rawdata/1379.bmp 1 267 117 46 83
+rawdata/1380.bmp 1 263 117 52 84
+rawdata/1381.bmp 2 102 121 18 73 264 119 50 84
+rawdata/1382.bmp 2 101 122 20 73 263 119 50 85
+rawdata/1383.bmp 2 100 123 20 73 260 120 55 84
+rawdata/1384.bmp 2 103 122 20 73 262 122 48 83
+rawdata/1385.bmp 2 103 123 20 73 261 122 49 83
+rawdata/1386.bmp 2 105 123 19 73 260 121 46 85
+rawdata/1387.bmp 2 102 123 18 73 258 121 46 87
+rawdata/1388.bmp 2 102 124 19 73 252 119 53 89
+rawdata/1389.bmp 2 100 124 18 73 248 118 54 91
+rawdata/1390.bmp 3 57 124 20 73 246 117 54 92 137 128 30 65
+rawdata/1391.bmp 3 57 124 21 73 244 117 53 93 137 127 30 66
+rawdata/1392.bmp 3 57 127 20 73 243 116 53 93 126 120 57 77
+rawdata/1393.bmp 3 56 127 22 73 242 118 45 91 126 120 58 77
+rawdata/1394.bmp 3 58 128 18 72 242 121 39 91 126 120 59 78
+rawdata/1395.bmp 2 58 127 18 72 241 123 32 88
+rawdata/1396.bmp 2 59 129 18 71 212 119 83 90
+rawdata/1397.bmp 2 59 129 17 71 210 118 81 91
+rawdata/1398.bmp 2 58 128 21 71 207 119 81 91
+rawdata/1399.bmp 2 57 128 23 70 203 115 80 94
+rawdata/1400.bmp 2 57 129 25 68 201 114 78 95
+rawdata/1401.bmp 2 55 130 28 68 197 111 79 96
+rawdata/1402.bmp 2 55 129 30 68 196 110 75 96
+rawdata/1403.bmp 2 55 130 30 67 195 109 66 96
+rawdata/1404.bmp 2 56 130 30 67 187 110 77 97
+rawdata/1405.bmp 2 57 128 30 67 155 113 73 96
+rawdata/1406.bmp 2 58 128 30 67 163 113 56 96
+rawdata/1407.bmp 2 59 129 30 67 166 113 58 97
+rawdata/1408.bmp 2 60 129 28 67 169 116 55 97
+rawdata/1409.bmp 1 160 113 65 101
+rawdata/1410.bmp 0
+rawdata/1411.bmp 0
+rawdata/1412.bmp 1 131 111 102 102
+rawdata/1413.bmp 0
+rawdata/1414.bmp 0
+rawdata/1415.bmp 0
+rawdata/1416.bmp 0
+rawdata/1417.bmp 0
+rawdata/1418.bmp 1 112 117 97 99
+rawdata/1419.bmp 1 92 115 96 102
+rawdata/1420.bmp 0
+rawdata/1421.bmp 0
+rawdata/1422.bmp 0
+rawdata/1423.bmp 0
+rawdata/1424.bmp 0
+rawdata/1425.bmp 0
+rawdata/1426.bmp 0
+rawdata/1427.bmp 0
+rawdata/1428.bmp 0
+rawdata/1429.bmp 0
+rawdata/1430.bmp 0
+rawdata/1431.bmp 0
+rawdata/1432.bmp 0
+rawdata/1433.bmp 0
+rawdata/1434.bmp 0
+rawdata/1435.bmp 0
+rawdata/1436.bmp 0
+rawdata/1437.bmp 0
+rawdata/1438.bmp 0
+rawdata/1439.bmp 0
+rawdata/1440.bmp 0
+rawdata/1441.bmp 0
+rawdata/1442.bmp 0
+rawdata/1443.bmp 0
+rawdata/1444.bmp 0
+rawdata/1445.bmp 0
+rawdata/1446.bmp 0
+rawdata/1447.bmp 0
+rawdata/1448.bmp 0
+rawdata/1449.bmp 0
+rawdata/1450.bmp 0
+rawdata/1451.bmp 0
+rawdata/1452.bmp 0
+rawdata/1453.bmp 0
+rawdata/1454.bmp 0
+rawdata/1455.bmp 0
+rawdata/1456.bmp 0
+rawdata/1457.bmp 0
+rawdata/1458.bmp 0
+rawdata/1459.bmp 0
+rawdata/1460.bmp 0
+rawdata/1461.bmp 0
+rawdata/1462.bmp 0
+rawdata/1463.bmp 0
+rawdata/1464.bmp 0
+rawdata/1465.bmp 0
+rawdata/1466.bmp 0
+rawdata/1467.bmp 0
+rawdata/1468.bmp 0
+rawdata/1469.bmp 0
+rawdata/1470.bmp 0
+rawdata/1471.bmp 0
+rawdata/1472.bmp 0
+rawdata/1473.bmp 0
+rawdata/1474.bmp 0
+rawdata/1475.bmp 0
+rawdata/1476.bmp 0
+rawdata/1477.bmp 0
+rawdata/1478.bmp 0
+rawdata/1479.bmp 0
+rawdata/1480.bmp 0
+rawdata/1481.bmp 0
+rawdata/1482.bmp 0
+rawdata/1483.bmp 0
+rawdata/1484.bmp 0
+rawdata/1485.bmp 0
+rawdata/1486.bmp 0
+rawdata/1487.bmp 0
+rawdata/1488.bmp 0
+rawdata/1489.bmp 0
+rawdata/1490.bmp 0
+rawdata/1491.bmp 0
+rawdata/1492.bmp 0
+rawdata/1493.bmp 0
+rawdata/1494.bmp 0
+rawdata/1495.bmp 0
+rawdata/1496.bmp 0
+rawdata/1497.bmp 0
+rawdata/1498.bmp 0
+rawdata/1499.bmp 0
+rawdata/1500.bmp 1 187 105 26 68
+rawdata/1501.bmp 1 209 131 31 68
+rawdata/1502.bmp 1 209 142 31 68
+rawdata/1503.bmp 1 210 146 30 68
+rawdata/1504.bmp 1 209 148 32 68
+rawdata/1505.bmp 1 208 149 34 69
+rawdata/1506.bmp 1 209 150 38 70
+rawdata/1507.bmp 1 209 151 38 70
+rawdata/1508.bmp 1 209 150 40 70
+rawdata/1509.bmp 1 214 121 42 70
+rawdata/1510.bmp 1 214 121 42 70
+rawdata/1511.bmp 1 211 127 42 70
+rawdata/1512.bmp 1 214 127 42 70
+rawdata/1513.bmp 1 222 127 26 70
+rawdata/1514.bmp 1 224 126 24 70
+rawdata/1515.bmp 1 225 127 23 70
+rawdata/1516.bmp 1 226 127 23 70
+rawdata/1517.bmp 1 229 128 23 70
+rawdata/1518.bmp 1 229 128 23 70
+rawdata/1519.bmp 1 230 128 23 70
+rawdata/1520.bmp 1 231 128 23 70
+rawdata/1521.bmp 1 231 129 23 70
+rawdata/1522.bmp 1 233 128 23 70
+rawdata/1523.bmp 1 233 128 23 70
+rawdata/1524.bmp 1 233 127 23 70
+rawdata/1525.bmp 1 234 128 23 70
+rawdata/1526.bmp 1 234 128 23 70
+rawdata/1527.bmp 1 236 128 23 70
+rawdata/1528.bmp 1 235 128 23 70
+rawdata/1529.bmp 1 236 129 23 70
+rawdata/1530.bmp 1 236 129 23 70
+rawdata/1531.bmp 1 236 129 22 70
+rawdata/1532.bmp 1 236 129 22 70
+rawdata/1533.bmp 1 235 131 22 70
+rawdata/1534.bmp 1 236 130 21 70
+rawdata/1535.bmp 1 236 131 21 70
+rawdata/1536.bmp 1 237 131 19 70
+rawdata/1537.bmp 1 237 130 19 70
+rawdata/1538.bmp 1 237 130 19 70
+rawdata/1539.bmp 1 236 130 19 70
+rawdata/1540.bmp 2 88 118 72 83 236 130 19 70
+rawdata/1541.bmp 2 90 118 69 84 235 130 19 70
+rawdata/1542.bmp 2 91 118 68 84 235 129 19 70
+rawdata/1543.bmp 2 93 119 66 83 235 130 19 70
+rawdata/1544.bmp 2 95 119 65 82 235 129 19 70
+rawdata/1545.bmp 2 95 119 66 82 234 129 19 70
+rawdata/1546.bmp 2 101 117 57 84 234 128 19 70
+rawdata/1547.bmp 2 106 114 52 86 234 128 19 70
+rawdata/1548.bmp 2 107 112 50 88 234 128 19 70
+rawdata/1549.bmp 2 105 113 53 88 234 128 19 70
+rawdata/1550.bmp 2 102 113 61 89 234 128 19 70
+rawdata/1551.bmp 2 102 112 64 89 234 128 19 70
+rawdata/1552.bmp 2 104 112 65 89 234 128 19 70
+rawdata/1553.bmp 2 106 113 63 88 234 128 19 70
+rawdata/1554.bmp 2 106 116 67 87 234 128 19 70
+rawdata/1555.bmp 2 107 115 69 87 234 128 19 70
+rawdata/1556.bmp 2 104 115 77 88 234 128 19 70
+rawdata/1557.bmp 1 234 128 19 70
+rawdata/1558.bmp 1 223 127 40 70
+rawdata/1559.bmp 0
+rawdata/1560.bmp 0
+rawdata/1561.bmp 0
+rawdata/1562.bmp 0
+rawdata/1563.bmp 0
+rawdata/1564.bmp 0
+rawdata/1565.bmp 0
+rawdata/1566.bmp 0
+rawdata/1567.bmp 0
+rawdata/1568.bmp 0
+rawdata/1569.bmp 0
+rawdata/1570.bmp 0
+rawdata/1571.bmp 0
+rawdata/1572.bmp 1 166 116 61 92
+rawdata/1573.bmp 1 167 117 64 91
+rawdata/1574.bmp 1 167 117 62 91
+rawdata/1575.bmp 1 168 117 64 91
+rawdata/1576.bmp 1 166 117 65 91
+rawdata/1577.bmp 1 157 115 69 92
+rawdata/1578.bmp 0
+rawdata/1579.bmp 0
+rawdata/1580.bmp 0
+rawdata/1581.bmp 1 95 128 31 77
+rawdata/1582.bmp 1 96 119 26 77
+rawdata/1583.bmp 1 93 119 28 77
+rawdata/1584.bmp 1 91 120 28 77
+rawdata/1585.bmp 1 90 120 29 79
+rawdata/1586.bmp 1 86 119 33 81
+rawdata/1587.bmp 1 85 118 32 82
+rawdata/1588.bmp 1 83 121 35 76
+rawdata/1589.bmp 1 82 132 34 55
+rawdata/1590.bmp 1 83 137 30 44
+rawdata/1591.bmp 1 84 139 29 37
+rawdata/1592.bmp 1 83 141 29 34
+rawdata/1593.bmp 1 82 145 28 31
+rawdata/1594.bmp 1 80 144 30 32
+rawdata/1595.bmp 1 79 144 33 35
+rawdata/1596.bmp 1 56 109 78 106
+rawdata/1597.bmp 1 55 104 79 112
+rawdata/1598.bmp 1 52 100 82 119
+rawdata/1599.bmp 1 44 99 98 127
+rawdata/1600.bmp 1 61 131 62 88
+rawdata/1601.bmp 1 59 141 63 86
+rawdata/1602.bmp 2 59 145 61 86 260 121 43 91
+rawdata/1603.bmp 2 60 144 58 88 259 121 47 91
+rawdata/1604.bmp 2 67 143 45 90 260 122 44 91
+rawdata/1605.bmp 2 74 110 48 91 262 121 44 91
+rawdata/1606.bmp 2 81 110 34 91 264 121 44 91
+rawdata/1607.bmp 2 79 108 35 91 265 120 44 91
+rawdata/1608.bmp 2 79 109 33 91 266 120 44 91
+rawdata/1609.bmp 3 78 111 33 90 269 118 45 92 128 64 60 65
+rawdata/1610.bmp 3 76 115 31 90 273 118 45 92 146 69 57 68
+rawdata/1611.bmp 3 71 115 40 92 280 117 45 92 165 83 54 68
+rawdata/1612.bmp 3 74 114 39 94 296 117 44 92 175 106 52 67
+rawdata/1613.bmp 3 74 115 39 95 312 113 49 90 178 122 51 68
+rawdata/1614.bmp 3 74 116 39 97 305 110 56 98 179 130 50 68
+rawdata/1615.bmp 3 75 114 39 97 306 112 50 92 178 131 49 68
+rawdata/1616.bmp 3 70 112 50 98 306 112 47 91 177 133 48 69
+rawdata/1617.bmp 3 71 115 51 98 303 109 50 92 177 132 47 69
+rawdata/1618.bmp 3 71 119 53 97 305 110 46 91 178 136 45 69
+rawdata/1619.bmp 3 71 121 56 94 303 109 49 91 176 135 44 68
+rawdata/1620.bmp 3 71 122 58 94 306 109 43 90 176 133 43 68
+rawdata/1621.bmp 3 72 121 59 94 304 109 46 89 174 130 42 68
+rawdata/1622.bmp 3 72 120 58 94 305 110 46 89 173 129 41 68
+rawdata/1623.bmp 3 72 117 60 95 307 97 46 89 172 128 40 69
+rawdata/1624.bmp 3 71 114 62 97 307 96 46 90 171 127 38 68
+rawdata/1625.bmp 3 72 113 64 97 303 107 46 90 171 126 37 67
+rawdata/1626.bmp 3 73 113 64 97 306 110 44 91 170 125 36 69
+rawdata/1627.bmp 3 72 113 66 96 308 111 42 91 170 128 35 69
+rawdata/1628.bmp 3 76 117 60 95 307 112 44 91 168 128 34 70
+rawdata/1629.bmp 3 79 119 57 94 308 112 43 91 168 129 33 70
+rawdata/1630.bmp 3 80 119 56 94 304 114 49 91 161 129 44 70
+rawdata/1631.bmp 3 81 118 54 94 300 115 59 91 160 128 44 70
+rawdata/1632.bmp 3 85 118 48 94 295 116 69 90 159 128 44 69
+rawdata/1633.bmp 3 84 116 52 94 289 116 80 90 165 128 28 69
+rawdata/1634.bmp 3 87 116 47 93 284 117 90 90 165 128 26 69
+rawdata/1635.bmp 1 89 116 45 92
+rawdata/1636.bmp 0
+rawdata/1637.bmp 1 307 115 42 91
+rawdata/1638.bmp 1 307 114 41 89
+rawdata/1639.bmp 1 306 114 41 89
+rawdata/1640.bmp 1 305 114 41 88
+rawdata/1641.bmp 1 303 114 41 88
+rawdata/1642.bmp 1 302 114 41 88
+rawdata/1643.bmp 1 302 114 40 88
+rawdata/1644.bmp 2 75 121 86 86 300 114 40 88
+rawdata/1645.bmp 2 111 124 83 85 298 114 41 88
+rawdata/1646.bmp 2 118 124 69 85 294 115 42 88
+rawdata/1647.bmp 2 113 122 63 85 304 116 41 88
+rawdata/1648.bmp 2 116 124 50 85 307 116 39 88
+rawdata/1649.bmp 2 115 125 52 87 312 117 28 87
+rawdata/1650.bmp 2 115 123 53 88 312 117 29 86
+rawdata/1651.bmp 2 119 124 50 88 311 117 30 87
+rawdata/1652.bmp 2 122 125 49 87 311 117 30 87
+rawdata/1653.bmp 2 120 125 52 86 311 117 30 87
+rawdata/1654.bmp 2 119 125 54 84 312 117 31 87
+rawdata/1655.bmp 2 119 127 54 82 312 116 31 87
+rawdata/1656.bmp 2 119 127 57 83 311 117 34 87
+rawdata/1657.bmp 2 119 124 60 84 310 117 37 87
+rawdata/1658.bmp 2 119 122 63 84 309 117 40 86
+rawdata/1659.bmp 2 119 122 65 84 309 118 40 85
+rawdata/1660.bmp 2 119 125 67 82 310 118 41 85
+rawdata/1661.bmp 2 118 126 70 81 312 118 37 85
+rawdata/1662.bmp 2 118 126 74 80 314 118 35 85
+rawdata/1663.bmp 2 120 125 74 80 314 117 35 85
+rawdata/1664.bmp 2 121 124 74 81 314 116 35 85
+rawdata/1665.bmp 2 122 123 74 81 315 115 35 85
+rawdata/1666.bmp 2 126 124 71 81 315 114 34 85
+rawdata/1667.bmp 2 127 125 72 79 316 113 32 85
+rawdata/1668.bmp 2 127 125 72 79 317 113 32 85
+rawdata/1669.bmp 2 129 126 72 76 318 114 31 85
+rawdata/1670.bmp 2 129 126 72 74 318 115 31 85
+rawdata/1671.bmp 2 131 125 72 74 318 115 30 85
+rawdata/1672.bmp 2 133 126 71 73 313 115 41 86
+rawdata/1673.bmp 2 135 124 71 73 313 114 41 86
+rawdata/1674.bmp 2 135 124 71 72 320 115 26 85
+rawdata/1675.bmp 2 135 123 70 70 320 115 26 85
+rawdata/1676.bmp 1 320 115 28 85
+rawdata/1677.bmp 2 139 120 67 72 321 115 27 85
+rawdata/1678.bmp 2 142 122 67 72 319 114 27 85
+rawdata/1679.bmp 2 140 122 71 73 313 113 38 86
+rawdata/1680.bmp 2 142 122 67 73 313 113 39 86
+rawdata/1681.bmp 2 143 123 64 72 313 113 38 86
+rawdata/1682.bmp 2 145 125 62 70 313 113 37 86
+rawdata/1683.bmp 2 146 126 62 70 311 116 37 86
+rawdata/1684.bmp 1 310 115 38 86
+rawdata/1685.bmp 2 147 127 61 70 310 115 39 88
+rawdata/1686.bmp 2 147 127 61 70 308 115 40 88
+rawdata/1687.bmp 2 147 127 61 70 308 114 41 90
+rawdata/1688.bmp 2 150 125 60 70 306 114 43 90
+rawdata/1689.bmp 2 150 125 60 70 305 114 44 90
+rawdata/1690.bmp 2 150 125 60 71 304 115 45 89
+rawdata/1691.bmp 2 150 124 60 71 302 116 47 89
+rawdata/1692.bmp 2 151 125 60 71 301 116 47 89
+rawdata/1693.bmp 2 150 128 60 70 300 115 47 89
+rawdata/1694.bmp 2 150 128 60 71 301 115 46 89
+rawdata/1695.bmp 2 150 129 61 70 303 114 43 91
+rawdata/1696.bmp 2 151 129 60 70 304 114 41 90
+rawdata/1697.bmp 2 151 130 60 68 306 113 39 92
+rawdata/1698.bmp 2 153 130 60 68 306 115 39 91
+rawdata/1699.bmp 2 154 132 60 67 311 114 31 92
+rawdata/1700.bmp 2 154 131 60 66 310 115 32 92
+rawdata/1701.bmp 2 155 132 60 66 311 115 32 92
+rawdata/1702.bmp 2 155 132 60 66 312 116 32 92
+rawdata/1703.bmp 2 157 132 60 66 313 117 32 91
+rawdata/1704.bmp 2 158 132 60 66 314 118 33 91
+rawdata/1705.bmp 2 159 133 60 66 315 118 33 91
+rawdata/1706.bmp 2 160 133 60 66 315 118 33 91
+rawdata/1707.bmp 2 159 132 60 67 316 117 33 91
+rawdata/1708.bmp 2 160 132 60 68 317 116 33 91
+rawdata/1709.bmp 2 160 133 60 68 318 117 33 91
+rawdata/1710.bmp 2 161 132 60 68 318 117 34 91
+rawdata/1711.bmp 2 162 134 60 67 318 115 35 91
+rawdata/1712.bmp 2 162 134 60 67 319 115 35 91
+rawdata/1713.bmp 2 161 134 64 67 319 114 35 90
+rawdata/1714.bmp 2 161 133 66 67 320 112 35 90
+rawdata/1715.bmp 2 161 133 66 67 320 112 35 91
+rawdata/1716.bmp 2 162 133 66 67 320 111 35 90
+rawdata/1717.bmp 2 162 132 66 67 321 111 35 90
+rawdata/1718.bmp 2 163 131 66 67 320 112 35 90
+rawdata/1719.bmp 1 320 112 36 91
+rawdata/1720.bmp 1 319 112 36 90
+rawdata/1721.bmp 1 320 112 36 91
+rawdata/1722.bmp 1 320 112 36 91
+rawdata/1723.bmp 1 320 112 36 91
+rawdata/1724.bmp 1 322 112 33 91
+rawdata/1725.bmp 1 323 112 33 91
+rawdata/1726.bmp 1 323 112 33 91
+rawdata/1727.bmp 1 322 112 35 90
+rawdata/1728.bmp 1 323 112 33 90
+rawdata/1729.bmp 1 323 113 34 91
+rawdata/1730.bmp 1 321 113 36 90
+rawdata/1731.bmp 1 322 114 36 91
+rawdata/1732.bmp 1 323 113 35 90
+rawdata/1733.bmp 2 185 153 21 31 323 113 35 90
+rawdata/1734.bmp 2 183 157 20 22 324 113 33 90
+rawdata/1735.bmp 2 184 154 20 25 325 112 33 90
+rawdata/1736.bmp 2 184 151 21 27 325 112 32 90
+rawdata/1737.bmp 2 183 148 20 29 325 112 33 90
+rawdata/1738.bmp 2 180 145 24 30 326 113 30 89
+rawdata/1739.bmp 2 180 147 23 27 328 113 29 89
+rawdata/1740.bmp 2 188 156 6 7 341 154 3 5
+rawdata/1741.bmp 1 178 144 24 28
+rawdata/1742.bmp 1 157 142 27 33
+rawdata/1743.bmp 1 154 125 32 67
+rawdata/1744.bmp 1 142 106 31 68
+rawdata/1745.bmp 1 140 106 30 69
+rawdata/1746.bmp 1 140 107 27 69
+rawdata/1747.bmp 1 136 107 30 69
+rawdata/1748.bmp 1 135 109 31 69
+rawdata/1749.bmp 1 135 107 34 70
+rawdata/1750.bmp 1 122 111 44 71
+rawdata/1751.bmp 1 120 112 44 72
+rawdata/1752.bmp 1 118 130 44 72
+rawdata/1753.bmp 1 112 130 56 72
+rawdata/1754.bmp 1 118 119 44 72
+rawdata/1755.bmp 1 111 120 54 71
+rawdata/1756.bmp 1 109 120 56 71
+rawdata/1757.bmp 1 109 118 54 70
+rawdata/1758.bmp 1 107 117 54 76
+rawdata/1759.bmp 1 107 115 54 82
+rawdata/1760.bmp 1 106 112 54 89
+rawdata/1761.bmp 1 105 109 54 97
+rawdata/1762.bmp 1 105 103 54 106
+rawdata/1763.bmp 1 104 100 54 112
+rawdata/1764.bmp 1 98 100 64 116
+rawdata/1765.bmp 1 100 119 61 78
+rawdata/1766.bmp 1 99 120 61 78
+rawdata/1767.bmp 1 98 119 61 78
+rawdata/1768.bmp 1 97 121 61 76
+rawdata/1769.bmp 1 97 119 61 74
+rawdata/1770.bmp 1 96 117 61 73
+rawdata/1771.bmp 1 97 113 61 73
+rawdata/1772.bmp 2 96 113 61 74 215 90 145 146
+rawdata/1773.bmp 2 96 113 61 75 216 90 138 147
+rawdata/1774.bmp 2 95 111 61 76 221 88 132 148
+rawdata/1775.bmp 2 93 113 61 76 223 88 127 147
+rawdata/1776.bmp 1 91 116 60 76
+rawdata/1777.bmp 1 92 114 59 76
+rawdata/1778.bmp 1 91 115 59 76
+rawdata/1779.bmp 1 90 119 59 76
+rawdata/1780.bmp 1 88 123 58 76
+rawdata/1781.bmp 1 87 125 58 76
+rawdata/1782.bmp 1 86 126 58 75
+rawdata/1783.bmp 1 85 126 58 75
+rawdata/1784.bmp 1 101 124 25 76
+rawdata/1785.bmp 1 101 123 25 76
+rawdata/1786.bmp 1 100 122 25 75
+rawdata/1787.bmp 1 92 124 38 75
+rawdata/1788.bmp 1 93 124 37 75
+rawdata/1789.bmp 1 92 125 36 75
+rawdata/1790.bmp 1 96 126 28 74
+rawdata/1791.bmp 1 92 129 35 73
+rawdata/1792.bmp 1 93 129 33 73
+rawdata/1793.bmp 1 93 128 30 73
+rawdata/1794.bmp 1 92 129 31 73
+rawdata/1795.bmp 1 91 127 30 73
+rawdata/1796.bmp 1 91 127 30 73
+rawdata/1797.bmp 1 91 125 29 73
+rawdata/1798.bmp 1 90 123 28 73
+rawdata/1799.bmp 1 89 120 29 73
+rawdata/1800.bmp 1 89 119 26 73
+rawdata/1801.bmp 1 88 120 26 73
+rawdata/1802.bmp 1 87 124 26 73
+rawdata/1803.bmp 1 87 125 25 73
+rawdata/1804.bmp 1 85 125 27 73
+rawdata/1805.bmp 1 85 125 26 73
+rawdata/1806.bmp 1 83 124 28 73
+rawdata/1807.bmp 1 82 125 28 73
+rawdata/1808.bmp 1 83 125 27 73
+rawdata/1809.bmp 1 83 124 24 73
+rawdata/1810.bmp 1 82 124 26 72
+rawdata/1811.bmp 1 84 125 23 72
+rawdata/1812.bmp 1 83 124 23 73
+rawdata/1813.bmp 1 82 124 22 73
+rawdata/1814.bmp 1 81 123 23 73
+rawdata/1815.bmp 1 80 123 23 72
+rawdata/1816.bmp 1 80 124 22 71
+rawdata/1817.bmp 1 80 123 22 70
+rawdata/1818.bmp 1 80 124 22 69
+rawdata/1819.bmp 1 80 123 23 69
+rawdata/1820.bmp 1 80 123 23 69
+rawdata/1821.bmp 1 80 124 23 69
+rawdata/1822.bmp 1 80 124 22 68
+rawdata/1823.bmp 1 80 122 23 70
+rawdata/1824.bmp 1 79 123 24 69
+rawdata/1825.bmp 1 80 123 22 70
+rawdata/1826.bmp 1 80 123 22 70
+rawdata/1827.bmp 1 80 124 24 70
+rawdata/1828.bmp 1 79 124 26 70
+rawdata/1829.bmp 1 79 123 26 70
+rawdata/1830.bmp 1 82 123 23 70
+rawdata/1831.bmp 1 81 122 25 70
+rawdata/1832.bmp 1 81 122 25 70
+rawdata/1833.bmp 1 82 121 25 70
+rawdata/1834.bmp 1 81 121 25 70
+rawdata/1835.bmp 1 83 122 23 70
+rawdata/1836.bmp 1 82 123 24 70
+rawdata/1837.bmp 1 81 124 28 70
+rawdata/1838.bmp 1 81 124 29 70
+rawdata/1839.bmp 1 81 123 29 70
+rawdata/1840.bmp 1 81 123 29 70
+rawdata/1841.bmp 1 80 124 30 70
+rawdata/1842.bmp 1 81 123 30 70
+rawdata/1843.bmp 1 81 124 32 70
+rawdata/1844.bmp 1 82 125 32 70
+rawdata/1845.bmp 1 82 124 32 70
+rawdata/1846.bmp 1 84 126 28 71
+rawdata/1847.bmp 1 84 127 29 71
+rawdata/1848.bmp 1 85 126 28 71
+rawdata/1849.bmp 1 86 126 28 71
+rawdata/1850.bmp 1 85 126 30 71
+rawdata/1851.bmp 1 86 124 29 72
+rawdata/1852.bmp 1 86 125 30 72
+rawdata/1853.bmp 1 87 123 29 72
+rawdata/1854.bmp 1 89 123 26 72
+rawdata/1855.bmp 1 89 123 27 72
+rawdata/1856.bmp 1 89 123 26 72
+rawdata/1857.bmp 1 90 122 26 72
+rawdata/1858.bmp 1 91 121 25 72
+rawdata/1859.bmp 1 95 121 16 72
+rawdata/1860.bmp 1 95 121 16 72
+rawdata/1861.bmp 1 94 122 19 72
+rawdata/1862.bmp 1 95 122 16 72
+rawdata/1863.bmp 1 95 122 16 72
+rawdata/1864.bmp 1 94 122 18 72
+rawdata/1865.bmp 1 93 122 18 72
+rawdata/1866.bmp 1 94 123 18 72
+rawdata/1867.bmp 1 94 122 19 72
+rawdata/1868.bmp 1 94 123 19 72
+rawdata/1869.bmp 1 94 124 19 72
+rawdata/1870.bmp 1 95 123 19 72
+rawdata/1871.bmp 1 95 123 18 72
+rawdata/1872.bmp 1 95 124 18 72
+rawdata/1873.bmp 1 96 123 17 72
+rawdata/1874.bmp 1 96 123 17 72
+rawdata/1875.bmp 1 96 124 17 73
+rawdata/1876.bmp 1 97 124 17 73
+rawdata/1877.bmp 1 95 123 20 74
+rawdata/1878.bmp 1 95 124 21 74
+rawdata/1879.bmp 1 93 124 25 75
+rawdata/1880.bmp 1 93 124 26 74
+rawdata/1881.bmp 1 93 124 27 74
+rawdata/1882.bmp 1 93 124 27 75
+rawdata/1883.bmp 1 94 123 25 75
+rawdata/1884.bmp 1 93 124 26 75
+rawdata/1885.bmp 1 93 123 27 75
+rawdata/1886.bmp 1 95 124 25 75
+rawdata/1887.bmp 1 95 124 25 74
+rawdata/1888.bmp 1 94 124 25 74
+rawdata/1889.bmp 1 94 124 25 75
+rawdata/1890.bmp 1 93 124 26 75
+rawdata/1891.bmp 1 93 123 25 76
+rawdata/1892.bmp 1 94 122 23 76
+rawdata/1893.bmp 1 94 122 21 76
+rawdata/1894.bmp 1 95 123 17 76
+rawdata/1895.bmp 1 95 122 17 76
+rawdata/1896.bmp 1 95 122 16 76
+rawdata/1897.bmp 1 94 123 16 77
+rawdata/1898.bmp 1 92 123 18 76
+rawdata/1899.bmp 1 91 123 19 76
+rawdata/1900.bmp 1 90 123 19 76
+rawdata/1901.bmp 1 89 123 21 76
+rawdata/1902.bmp 1 87 124 23 75
+rawdata/1903.bmp 1 85 123 24 75
+rawdata/1904.bmp 1 84 123 25 75
+rawdata/1905.bmp 1 82 121 26 74
+rawdata/1906.bmp 1 82 120 26 74
+rawdata/1907.bmp 1 81 119 27 74
+rawdata/1908.bmp 1 81 119 25 74
+rawdata/1909.bmp 1 80 120 25 74
+rawdata/1910.bmp 1 79 120 24 74
+rawdata/1911.bmp 1 80 119 23 77
+rawdata/1912.bmp 1 79 121 23 77
+rawdata/1913.bmp 1 79 121 23 76
+rawdata/1914.bmp 1 79 121 23 77
+rawdata/1915.bmp 1 78 124 23 77
+rawdata/1916.bmp 1 78 123 23 77
+rawdata/1917.bmp 1 79 124 21 77
+rawdata/1918.bmp 1 79 124 20 77
+rawdata/1919.bmp 1 80 123 19 76
+rawdata/1920.bmp 1 80 124 19 76
+rawdata/1921.bmp 1 78 123 20 76
+rawdata/1922.bmp 1 78 124 21 77
+rawdata/1923.bmp 1 76 123 24 76
+rawdata/1924.bmp 1 76 122 24 76
+rawdata/1925.bmp 1 74 122 28 76
+rawdata/1926.bmp 1 75 122 29 75
+rawdata/1927.bmp 1 73 121 32 75
+rawdata/1928.bmp 1 73 121 32 75
+rawdata/1929.bmp 1 74 120 32 77
+rawdata/1930.bmp 1 75 121 32 77
+rawdata/1931.bmp 1 77 121 31 77
+rawdata/1932.bmp 1 80 123 27 77
+rawdata/1933.bmp 1 82 124 25 77
+rawdata/1934.bmp 1 84 125 22 77
+rawdata/1935.bmp 1 85 125 22 76
+rawdata/1936.bmp 1 87 123 22 78
+rawdata/1937.bmp 1 87 124 25 78
+rawdata/1938.bmp 1 88 124 27 78
+rawdata/1939.bmp 1 88 124 29 78
+rawdata/1940.bmp 1 90 124 27 78
+rawdata/1941.bmp 1 90 125 28 77
+rawdata/1942.bmp 1 91 123 26 78
+rawdata/1943.bmp 1 94 124 25 78
+rawdata/1944.bmp 1 95 123 25 78
+rawdata/1945.bmp 1 98 123 21 78
+rawdata/1946.bmp 1 99 122 20 78
+rawdata/1947.bmp 1 102 120 19 78
+rawdata/1948.bmp 1 104 123 18 79
+rawdata/1949.bmp 1 104 125 21 79
+rawdata/1950.bmp 1 103 127 25 79
+rawdata/1951.bmp 1 106 126 21 79
+rawdata/1952.bmp 1 101 126 33 79
+rawdata/1953.bmp 1 106 125 24 79
+rawdata/1954.bmp 1 103 125 31 79
+rawdata/1955.bmp 1 107 125 25 78
+rawdata/1956.bmp 1 105 124 31 79
+rawdata/1957.bmp 1 108 123 24 78
+rawdata/1958.bmp 1 107 122 28 78
+rawdata/1959.bmp 1 110 121 24 77
+rawdata/1960.bmp 2 111 120 25 76 250 122 34 82
+rawdata/1961.bmp 2 111 121 25 76 247 122 34 82
+rawdata/1962.bmp 2 110 122 29 76 246 121 34 82
+rawdata/1963.bmp 2 107 123 35 76 249 122 32 82
+rawdata/1964.bmp 2 105 124 38 75 251 122 32 82
+rawdata/1965.bmp 2 104 125 42 74 253 122 33 82
+rawdata/1966.bmp 2 103 125 44 74 255 121 32 82
+rawdata/1967.bmp 2 106 125 41 73 257 121 32 82
+rawdata/1968.bmp 2 105 124 42 73 259 122 32 82
+rawdata/1969.bmp 3 105 124 44 73 209 122 37 82 310 126 33 74
+rawdata/1970.bmp 3 105 124 47 72 211 122 32 82 308 126 36 74
+rawdata/1971.bmp 3 105 126 48 71 204 126 37 82 310 121 36 73
+rawdata/1972.bmp 3 107 125 46 72 197 127 49 82 310 122 36 73
+rawdata/1973.bmp 3 110 126 45 72 198 127 47 82 310 122 36 73
+rawdata/1974.bmp 3 112 128 47 72 199 127 45 82 307 123 42 73
+rawdata/1975.bmp 3 112 129 48 73 199 126 43 82 307 123 40 72
+rawdata/1976.bmp 3 116 129 47 73 201 126 41 82 301 122 42 71
+rawdata/1977.bmp 3 118 128 46 75 199 127 39 82 309 124 40 70
+rawdata/1978.bmp 2 120 128 46 74 309 124 36 70
+rawdata/1979.bmp 2 107 124 76 82 309 125 31 70
+rawdata/1980.bmp 2 111 123 72 82 306 125 32 70
+rawdata/1981.bmp 2 116 122 70 82 302 125 37 70
+rawdata/1982.bmp 2 122 119 67 82 299 125 38 72
+rawdata/1983.bmp 2 128 117 62 82 295 125 44 73
+rawdata/1984.bmp 2 133 120 57 82 295 125 42 73
+rawdata/1985.bmp 2 138 122 54 82 293 125 41 73
+rawdata/1986.bmp 2 142 122 54 82 294 127 36 73
+rawdata/1987.bmp 2 145 122 55 83 295 129 29 70
+rawdata/1988.bmp 2 171 125 62 83 271 127 72 75
+rawdata/1989.bmp 1 176 125 52 82
+rawdata/1990.bmp 1 196 161 4 7
+rawdata/1991.bmp 0
+rawdata/1992.bmp 0
+rawdata/1993.bmp 0
+rawdata/1994.bmp 1 168 126 78 82
+rawdata/1995.bmp 1 170 126 78 82
+rawdata/1996.bmp 1 172 125 79 83
+rawdata/1997.bmp 0
+rawdata/1998.bmp 0
+rawdata/1999.bmp 0
+rawdata/2000.bmp 0
+rawdata/2001.bmp 0
+rawdata/2002.bmp 0
+rawdata/2003.bmp 0
+rawdata/2004.bmp 0
+rawdata/2005.bmp 0
+rawdata/2006.bmp 0
+rawdata/2007.bmp 0
+rawdata/2008.bmp 0
+rawdata/2009.bmp 0
+rawdata/2010.bmp 0
+rawdata/2011.bmp 0
+rawdata/2012.bmp 0
+rawdata/2013.bmp 0
+rawdata/2014.bmp 0
+rawdata/2015.bmp 0
+rawdata/2016.bmp 0
+rawdata/2017.bmp 0
+rawdata/2018.bmp 0
+rawdata/2019.bmp 0
+rawdata/2020.bmp 0
+rawdata/2021.bmp 0
+rawdata/2022.bmp 0
+rawdata/2023.bmp 0
+rawdata/2024.bmp 0
+rawdata/2025.bmp 0
+rawdata/2026.bmp 0
+rawdata/2027.bmp 0
+rawdata/2028.bmp 0
+rawdata/2029.bmp 0
+rawdata/2030.bmp 0
+rawdata/2031.bmp 0
+rawdata/2032.bmp 0
+rawdata/2033.bmp 0
+rawdata/2034.bmp 0
+rawdata/2035.bmp 0
+rawdata/2036.bmp 0
+rawdata/2037.bmp 0
+rawdata/2038.bmp 0
+rawdata/2039.bmp 0
+rawdata/2040.bmp 0
+rawdata/2041.bmp 0
+rawdata/2042.bmp 0
+rawdata/2043.bmp 0
+rawdata/2044.bmp 0
+rawdata/2045.bmp 0
+rawdata/2046.bmp 0
+rawdata/2047.bmp 0
+rawdata/2048.bmp 0
+rawdata/2049.bmp 0
+rawdata/2050.bmp 0
+rawdata/2051.bmp 0
+rawdata/2052.bmp 0
+rawdata/2053.bmp 0
+rawdata/2054.bmp 0
+rawdata/2055.bmp 0
+rawdata/2056.bmp 0
+rawdata/2057.bmp 0
+rawdata/2058.bmp 0
+rawdata/2059.bmp 0
+rawdata/2060.bmp 0
+rawdata/2061.bmp 0
+rawdata/2062.bmp 0
+rawdata/2063.bmp 0
+rawdata/2064.bmp 0
+rawdata/2065.bmp 0
+rawdata/2066.bmp 0
+rawdata/2067.bmp 0
+rawdata/2068.bmp 0
+rawdata/2069.bmp 0
+rawdata/2070.bmp 0
+rawdata/2071.bmp 0
+rawdata/2072.bmp 0
+rawdata/2073.bmp 0
+rawdata/2074.bmp 0
+rawdata/2075.bmp 1 292 134 19 75
+rawdata/2076.bmp 1 292 123 19 75
+rawdata/2077.bmp 1 290 123 23 75
+rawdata/2078.bmp 1 288 124 28 75
+rawdata/2079.bmp 1 290 123 26 75
+rawdata/2080.bmp 1 288 124 32 75
+rawdata/2081.bmp 2 131 125 31 70 290 124 30 75
+rawdata/2082.bmp 2 140 125 29 70 290 124 32 75
+rawdata/2083.bmp 2 145 125 27 70 290 124 34 75
+rawdata/2084.bmp 2 143 127 27 70 291 124 34 75
+rawdata/2085.bmp 2 140 128 27 71 293 123 33 75
+rawdata/2086.bmp 2 139 128 27 70 294 122 33 74
+rawdata/2087.bmp 2 135 128 33 70 295 120 33 74
+rawdata/2088.bmp 2 132 127 32 70 297 123 33 74
+rawdata/2089.bmp 2 130 127 32 70 299 125 32 74
+rawdata/2090.bmp 3 75 126 32 71 301 125 30 76 182 124 27 74
+rawdata/2091.bmp 3 75 125 33 71 303 126 29 75 181 123 28 74
+rawdata/2092.bmp 3 54 121 31 71 304 125 29 76 197 127 29 75
+rawdata/2093.bmp 3 53 120 31 70 306 126 27 76 198 126 28 74
+rawdata/2094.bmp 3 52 120 31 70 307 126 26 76 199 127 29 74
+rawdata/2095.bmp 3 50 119 32 70 305 125 32 76 199 126 29 74
+rawdata/2096.bmp 3 50 120 33 70 305 125 35 76 200 126 28 73
+rawdata/2097.bmp 3 51 120 33 70 305 126 37 76 194 124 28 74
+rawdata/2098.bmp 3 46 120 32 70 307 126 35 77 207 127 28 73
+rawdata/2099.bmp 3 45 121 33 70 308 127 35 77 206 126 27 73
+rawdata/2100.bmp 3 44 120 35 70 304 126 42 77 205 127 27 73
+rawdata/2101.bmp 3 44 120 35 71 308 125 36 77 207 127 21 72
+rawdata/2102.bmp 3 43 119 34 70 311 125 32 77 206 129 23 71
+rawdata/2103.bmp 3 43 119 34 70 312 124 32 76 206 129 22 71
+rawdata/2104.bmp 3 44 120 32 70 314 123 30 76 207 129 21 70
+rawdata/2105.bmp 3 44 119 32 70 316 122 27 76 206 129 21 70
+rawdata/2106.bmp 3 45 120 31 70 317 120 27 76 206 128 21 70
+rawdata/2107.bmp 3 45 121 30 70 318 119 27 76 205 128 20 70
+rawdata/2108.bmp 3 45 121 30 70 318 119 27 76 205 127 21 70
+rawdata/2109.bmp 3 47 121 26 70 318 118 27 76 204 127 23 70
+rawdata/2110.bmp 3 48 122 25 70 318 118 27 76 198 126 34 70
+rawdata/2111.bmp 3 48 122 25 70 319 119 25 76 198 127 34 70
+rawdata/2112.bmp 3 49 123 25 70 319 119 25 76 199 126 33 69
+rawdata/2113.bmp 3 48 122 26 70 319 119 25 77 198 127 33 69
+rawdata/2114.bmp 3 48 121 27 70 318 120 25 77 203 128 22 69
+rawdata/2115.bmp 3 48 120 28 73 318 121 25 77 198 128 32 69
+rawdata/2116.bmp 3 49 119 28 72 313 122 32 77 198 129 31 69
+rawdata/2117.bmp 3 49 118 28 72 313 122 32 77 198 130 30 68
+rawdata/2118.bmp 3 50 118 27 72 313 122 32 77 197 131 30 69
+rawdata/2119.bmp 3 51 118 27 72 313 122 32 77 196 130 30 68
+rawdata/2120.bmp 3 52 117 27 72 313 122 31 77 195 130 30 68
+rawdata/2121.bmp 3 52 117 27 72 313 122 31 77 195 130 30 68
+rawdata/2122.bmp 3 53 117 27 72 313 122 31 77 194 130 30 68
+rawdata/2123.bmp 3 53 118 27 73 313 123 30 77 193 130 30 68
+rawdata/2124.bmp 3 52 117 28 74 314 124 29 77 192 130 30 68
+rawdata/2125.bmp 3 56 118 23 74 314 124 28 77 192 131 30 67
+rawdata/2126.bmp 3 57 120 23 74 315 124 26 77 191 132 30 67
+rawdata/2127.bmp 3 55 118 25 74 315 125 25 77 190 131 30 67
+rawdata/2128.bmp 3 54 118 26 75 315 125 25 77 189 130 30 67
+rawdata/2129.bmp 3 53 117 28 75 315 124 24 77 188 128 30 67
+rawdata/2130.bmp 3 54 116 28 75 315 123 23 77 187 127 30 67
+rawdata/2131.bmp 3 55 116 27 75 314 122 23 77 184 128 34 67
+rawdata/2132.bmp 3 54 115 28 74 313 122 25 77 183 130 34 67
+rawdata/2133.bmp 3 54 116 29 73 310 122 28 77 181 133 36 66
+rawdata/2134.bmp 3 55 114 29 74 310 122 29 77 181 133 37 66
+rawdata/2135.bmp 3 55 115 29 74 308 121 30 77 179 133 39 66
+rawdata/2136.bmp 3 55 115 31 74 307 122 30 77 178 132 40 66
+rawdata/2137.bmp 3 55 116 31 74 308 121 29 77 177 131 40 66
+rawdata/2138.bmp 3 54 118 32 74 307 122 29 77 176 129 40 66
+rawdata/2139.bmp 3 55 119 33 74 306 123 28 77 175 127 40 66
+rawdata/2140.bmp 3 56 121 33 74 306 125 26 77 174 126 40 66
+rawdata/2141.bmp 3 56 121 33 74 307 125 24 77 174 127 40 66
+rawdata/2142.bmp 3 56 120 33 74 308 125 21 77 173 127 41 66
+rawdata/2143.bmp 3 57 119 33 75 308 124 18 77 172 129 41 66
+rawdata/2144.bmp 3 56 119 34 75 308 125 16 77 170 129 42 66
+rawdata/2145.bmp 3 55 118 38 76 308 125 15 77 169 130 43 66
+rawdata/2146.bmp 3 54 117 42 76 304 125 20 77 168 130 44 66
+rawdata/2147.bmp 3 51 118 49 76 301 125 24 75 166 131 47 65
+rawdata/2148.bmp 3 48 117 55 76 300 125 25 75 163 131 50 66
+rawdata/2149.bmp 2 49 118 55 77 299 125 25 75
+rawdata/2150.bmp 2 53 117 46 76 298 124 25 75
+rawdata/2151.bmp 2 54 117 46 77 297 123 25 75
+rawdata/2152.bmp 2 55 115 46 78 296 123 24 75
+rawdata/2153.bmp 2 55 115 46 79 294 121 24 76
+rawdata/2154.bmp 2 57 115 45 79 294 120 23 76
+rawdata/2155.bmp 2 58 115 44 79 294 120 21 76
+rawdata/2156.bmp 3 59 114 42 79 294 122 19 75 150 127 63 66
+rawdata/2157.bmp 3 62 114 39 79 294 124 16 75 150 128 61 66
+rawdata/2158.bmp 3 65 113 35 79 293 125 17 75 148 132 62 65
+rawdata/2159.bmp 3 75 112 17 79 292 124 17 75 146 132 64 65
+rawdata/2160.bmp 2 73 113 18 79 290 125 18 74
+rawdata/2161.bmp 2 73 114 18 79 289 125 18 74
+rawdata/2162.bmp 2 73 113 18 79 287 125 20 73
+rawdata/2163.bmp 2 73 113 21 79 285 125 22 73
+rawdata/2164.bmp 2 72 112 22 79 282 125 27 73
+rawdata/2165.bmp 2 70 111 27 80 279 124 31 73
+rawdata/2166.bmp 2 71 110 27 80 278 123 31 73
+rawdata/2167.bmp 2 70 111 29 80 278 123 29 73
+rawdata/2168.bmp 2 69 111 29 80 274 121 34 73
+rawdata/2169.bmp 2 69 112 28 80 276 121 29 73
+rawdata/2170.bmp 2 66 113 32 79 275 124 28 73
+rawdata/2171.bmp 3 66 113 32 79 274 126 28 73 131 128 66 66
+rawdata/2172.bmp 2 66 113 33 79 272 126 33 73
+rawdata/2173.bmp 2 66 113 33 79 272 127 31 73
+rawdata/2174.bmp 2 65 115 33 79 269 126 34 73
+rawdata/2175.bmp 2 64 116 32 79 267 127 37 71
+rawdata/2176.bmp 2 62 118 32 79 253 128 58 71
+rawdata/2177.bmp 2 62 118 33 79 256 127 52 70
+rawdata/2178.bmp 2 62 119 33 79 256 128 49 70
+rawdata/2179.bmp 2 63 118 30 80 258 127 42 70
+rawdata/2180.bmp 2 64 118 26 80 261 126 31 70
+rawdata/2181.bmp 2 63 119 26 80 247 129 53 70
+rawdata/2182.bmp 2 63 119 26 80 247 128 52 70
+rawdata/2183.bmp 2 64 118 25 82 246 127 51 70
+rawdata/2184.bmp 2 64 118 23 82 244 126 53 70
+rawdata/2185.bmp 3 63 118 24 82 242 126 53 70 145 128 26 67
+rawdata/2186.bmp 3 63 118 22 82 237 127 53 69 142 130 24 67
+rawdata/2187.bmp 3 64 118 21 83 237 127 52 69 144 130 21 67
+rawdata/2188.bmp 3 63 116 22 84 235 127 52 69 139 129 23 68
+rawdata/2189.bmp 3 63 116 23 84 233 123 51 70 137 129 21 68
+rawdata/2190.bmp 3 63 116 22 83 233 122 49 69 136 130 21 68
+rawdata/2191.bmp 3 62 115 22 83 233 127 47 69 135 130 20 68
+rawdata/2192.bmp 3 62 115 22 83 234 127 44 69 135 129 20 68
+rawdata/2193.bmp 3 62 115 23 83 235 128 43 69 134 128 20 69
+rawdata/2194.bmp 3 63 114 21 83 234 129 42 70 134 129 21 69
+rawdata/2195.bmp 3 62 114 20 83 234 129 41 70 132 129 21 69
+rawdata/2196.bmp 3 61 112 23 84 233 129 41 71 130 129 23 69
+rawdata/2197.bmp 3 59 113 26 84 232 130 40 71 129 129 23 69
+rawdata/2198.bmp 3 58 112 29 85 232 130 39 72 128 129 23 69
+rawdata/2199.bmp 3 58 113 30 85 232 130 39 72 126 129 24 69
+rawdata/2200.bmp 3 58 112 31 85 231 129 39 75 126 129 25 69
+rawdata/2201.bmp 3 57 113 33 85 231 123 39 81 126 129 25 68
+rawdata/2202.bmp 3 58 112 33 85 227 122 45 84 125 129 26 68
+rawdata/2203.bmp 3 57 113 35 85 225 118 47 87 99 121 78 85
+rawdata/2204.bmp 3 55 113 39 85 228 125 39 72 99 119 78 88
+rawdata/2205.bmp 3 56 113 39 85 226 124 40 72 103 118 71 91
+rawdata/2206.bmp 3 55 113 41 85 226 124 41 72 107 117 63 94
+rawdata/2207.bmp 3 55 114 42 85 224 125 43 71 110 117 56 95
+rawdata/2208.bmp 3 55 114 43 85 222 123 45 71 114 117 50 95
+rawdata/2209.bmp 3 55 115 44 85 219 121 48 70 119 117 40 95
+rawdata/2210.bmp 3 55 114 45 85 218 120 51 70 120 117 38 94
+rawdata/2211.bmp 3 61 114 32 85 217 120 51 69 120 117 40 93
+rawdata/2212.bmp 3 57 114 41 85 215 118 52 68 120 119 41 90
+rawdata/2213.bmp 2 62 115 30 85 217 117 51 70
+rawdata/2214.bmp 2 64 114 28 85 219 119 50 70
+rawdata/2215.bmp 2 66 113 24 85 234 120 23 70
+rawdata/2216.bmp 2 59 112 38 84 234 122 22 70
+rawdata/2217.bmp 2 60 112 37 85 235 123 21 71
+rawdata/2218.bmp 3 62 112 33 85 236 124 21 70 121 129 59 61
+rawdata/2219.bmp 3 64 111 28 85 236 123 22 70 122 127 58 61
+rawdata/2220.bmp 3 68 109 23 85 235 125 25 70 123 127 58 61
+rawdata/2221.bmp 3 70 108 18 85 234 123 28 70 123 124 58 62
+rawdata/2222.bmp 3 66 105 27 91 234 127 29 69 125 126 54 61
+rawdata/2223.bmp 3 68 105 23 91 234 125 31 69 127 129 52 61
+rawdata/2224.bmp 3 67 107 24 85 235 125 31 68 134 130 42 61
+rawdata/2225.bmp 3 65 106 28 84 236 123 31 68 136 132 42 60
+rawdata/2226.bmp 3 64 106 32 84 237 125 31 67 142 134 41 60
+rawdata/2227.bmp 3 64 105 36 85 238 126 31 68 151 137 31 61
+rawdata/2228.bmp 2 65 103 38 86 239 128 31 69
+rawdata/2229.bmp 1 64 104 40 87
+rawdata/2230.bmp 1 62 107 41 87
+rawdata/2231.bmp 1 59 110 42 90
+rawdata/2232.bmp 1 59 109 41 95
+rawdata/2233.bmp 1 58 110 40 99
+rawdata/2234.bmp 1 60 107 39 102
+rawdata/2235.bmp 1 59 103 41 105
+rawdata/2236.bmp 1 59 100 40 108
+rawdata/2237.bmp 1 59 99 41 109
+rawdata/2238.bmp 1 58 98 43 109
+rawdata/2239.bmp 1 57 96 44 110
+rawdata/2240.bmp 2 38 78 82 146 231 163 4 6
+rawdata/2241.bmp 1 66 114 25 74
+rawdata/2242.bmp 1 60 128 34 46
+rawdata/2243.bmp 0
+rawdata/2244.bmp 0
+rawdata/2245.bmp 1 201 133 66 66
+rawdata/2246.bmp 1 203 133 62 66
+rawdata/2247.bmp 1 211 132 45 66
+rawdata/2248.bmp 1 210 131 44 67
+rawdata/2249.bmp 1 210 130 44 68
+rawdata/2250.bmp 1 185 112 42 68
+rawdata/2251.bmp 2 33 114 63 97 230 118 43 69
+rawdata/2252.bmp 2 29 114 66 99 234 123 43 69
+rawdata/2253.bmp 2 35 148 65 99 233 123 44 68
+rawdata/2254.bmp 2 33 151 65 100 211 129 44 68
+rawdata/2255.bmp 2 31 149 65 101 198 130 66 68
+rawdata/2256.bmp 2 25 146 64 101 195 132 68 68
+rawdata/2257.bmp 1 23 145 62 100
+rawdata/2258.bmp 1 21 146 57 98
+rawdata/2259.bmp 1 23 148 51 97
+rawdata/2260.bmp 1 21 121 51 95
+rawdata/2261.bmp 1 21 121 50 95
+rawdata/2262.bmp 1 21 115 50 97
+rawdata/2263.bmp 1 18 118 48 97
+rawdata/2264.bmp 1 20 115 46 100
+rawdata/2265.bmp 1 21 116 43 99
+rawdata/2266.bmp 1 21 115 39 100
+rawdata/2267.bmp 1 22 117 34 98
+rawdata/2268.bmp 1 23 121 26 93
+rawdata/2269.bmp 1 24 126 16 83
+rawdata/2270.bmp 1 22 157 14 20
+rawdata/2271.bmp 1 17 158 14 19
+rawdata/2272.bmp 1 15 159 12 19
+rawdata/2273.bmp 1 15 159 9 21
+rawdata/2274.bmp 1 13 160 5 16
+rawdata/2275.bmp 0
+rawdata/2276.bmp 0
+rawdata/2277.bmp 0
+rawdata/2278.bmp 0
+rawdata/2279.bmp 0
+rawdata/2280.bmp 0
+rawdata/2281.bmp 0
+rawdata/2282.bmp 0
+rawdata/2283.bmp 0
+rawdata/2284.bmp 0
+rawdata/2285.bmp 0
+rawdata/2286.bmp 0
+rawdata/2287.bmp 0
+rawdata/2288.bmp 0
+rawdata/2289.bmp 0
+rawdata/2290.bmp 0
+rawdata/2291.bmp 0
+rawdata/2292.bmp 0
+rawdata/2293.bmp 0
+rawdata/2294.bmp 0
+rawdata/2295.bmp 0
+rawdata/2296.bmp 1 176 128 63 67
+rawdata/2297.bmp 1 177 129 59 67
+rawdata/2298.bmp 1 174 128 58 67
+rawdata/2299.bmp 1 172 127 57 68
+rawdata/2300.bmp 1 175 129 56 67
+rawdata/2301.bmp 1 181 131 52 67
+rawdata/2302.bmp 1 179 130 50 66
+rawdata/2303.bmp 1 181 131 47 65
+rawdata/2304.bmp 1 179 130 44 65
+rawdata/2305.bmp 1 175 131 44 65
+rawdata/2306.bmp 1 172 129 44 66
+rawdata/2307.bmp 1 173 128 41 66
+rawdata/2308.bmp 1 171 126 41 66
+rawdata/2309.bmp 1 173 129 38 65
+rawdata/2310.bmp 1 173 130 36 64
+rawdata/2311.bmp 1 172 130 34 64
+rawdata/2312.bmp 1 172 129 31 64
+rawdata/2313.bmp 1 171 130 30 63
+rawdata/2314.bmp 1 169 130 33 63
+rawdata/2315.bmp 1 168 129 35 63
+rawdata/2316.bmp 1 166 128 37 64
+rawdata/2317.bmp 1 165 128 38 64
+rawdata/2318.bmp 1 164 128 38 64
+rawdata/2319.bmp 1 163 129 37 64
+rawdata/2320.bmp 1 163 128 35 65
+rawdata/2321.bmp 1 164 129 33 64
+rawdata/2322.bmp 1 162 130 36 65
+rawdata/2323.bmp 1 161 129 37 65
+rawdata/2324.bmp 1 160 129 39 65
+rawdata/2325.bmp 1 159 128 40 66
+rawdata/2326.bmp 1 158 128 42 68
+rawdata/2327.bmp 1 158 127 42 68
+rawdata/2328.bmp 1 158 127 43 67
+rawdata/2329.bmp 1 157 128 44 67
+rawdata/2330.bmp 1 157 128 45 67
+rawdata/2331.bmp 1 158 128 45 67
+rawdata/2332.bmp 1 158 128 45 67
+rawdata/2333.bmp 1 159 128 45 67
+rawdata/2334.bmp 1 159 129 44 67
+rawdata/2335.bmp 1 160 129 45 67
+rawdata/2336.bmp 1 160 129 46 67
+rawdata/2337.bmp 1 163 130 46 67
+rawdata/2338.bmp 1 163 130 44 67
+rawdata/2339.bmp 1 166 130 41 67
+rawdata/2340.bmp 1 169 128 38 68
+rawdata/2341.bmp 1 168 128 42 69
+rawdata/2342.bmp 1 172 126 42 69
+rawdata/2343.bmp 1 172 126 42 69
+rawdata/2344.bmp 1 174 127 43 69
+rawdata/2345.bmp 1 175 127 44 69
+rawdata/2346.bmp 1 174 128 49 69
+rawdata/2347.bmp 1 177 129 49 69
+rawdata/2348.bmp 1 176 129 49 69
+rawdata/2349.bmp 1 176 128 49 69
+rawdata/2350.bmp 1 176 127 48 69
+rawdata/2351.bmp 1 177 128 47 68
+rawdata/2352.bmp 1 178 128 42 68
+rawdata/2353.bmp 1 179 129 41 67
+rawdata/2354.bmp 1 180 129 39 68
+rawdata/2355.bmp 1 180 129 39 68
+rawdata/2356.bmp 1 179 129 39 69
+rawdata/2357.bmp 1 177 128 36 69
+rawdata/2358.bmp 1 178 128 36 69
+rawdata/2359.bmp 1 177 128 37 69
+rawdata/2360.bmp 1 176 127 37 69
+rawdata/2361.bmp 1 174 127 39 70
+rawdata/2362.bmp 1 171 127 40 70
+rawdata/2363.bmp 1 171 127 38 70
+rawdata/2364.bmp 1 168 128 40 70
+rawdata/2365.bmp 1 167 127 40 70
+rawdata/2366.bmp 1 165 127 40 69
+rawdata/2367.bmp 1 163 126 41 70
+rawdata/2368.bmp 1 163 125 39 70
+rawdata/2369.bmp 1 160 126 42 71
+rawdata/2370.bmp 1 159 127 43 71
+rawdata/2371.bmp 1 157 124 45 72
+rawdata/2372.bmp 1 155 124 45 72
+rawdata/2373.bmp 1 153 126 44 73
+rawdata/2374.bmp 1 151 127 45 73
+rawdata/2375.bmp 1 149 127 45 73
+rawdata/2376.bmp 1 148 126 45 73
+rawdata/2377.bmp 1 147 126 43 73
+rawdata/2378.bmp 1 146 127 43 73
+rawdata/2379.bmp 1 144 128 42 73
+rawdata/2380.bmp 1 143 128 42 73
+rawdata/2381.bmp 1 141 127 42 74
+rawdata/2382.bmp 1 140 126 42 75
+rawdata/2383.bmp 1 138 125 44 75
+rawdata/2384.bmp 1 136 125 46 75
+rawdata/2385.bmp 1 135 126 49 75
+rawdata/2386.bmp 1 133 126 52 75
+rawdata/2387.bmp 1 131 124 55 76
+rawdata/2388.bmp 1 130 124 55 77
+rawdata/2389.bmp 1 128 123 57 78
+rawdata/2390.bmp 1 128 122 57 78
+rawdata/2391.bmp 1 126 122 58 78
+rawdata/2392.bmp 1 126 123 58 78
+rawdata/2393.bmp 1 124 124 60 78
+rawdata/2394.bmp 1 121 124 65 78
+rawdata/2395.bmp 1 121 124 64 78
+rawdata/2396.bmp 1 121 124 63 78
+rawdata/2397.bmp 1 120 124 65 78
+rawdata/2398.bmp 1 117 124 68 78
+rawdata/2399.bmp 1 117 125 66 77
+rawdata/2400.bmp 1 117 126 64 77
+rawdata/2401.bmp 1 117 126 65 77
+rawdata/2402.bmp 1 115 127 66 77
+rawdata/2403.bmp 1 120 128 57 77
+rawdata/2404.bmp 1 115 129 65 77
+rawdata/2405.bmp 1 113 129 65 77
+rawdata/2406.bmp 1 111 129 67 77
+rawdata/2407.bmp 1 114 129 58 77
+rawdata/2408.bmp 1 112 127 60 77
+rawdata/2409.bmp 1 110 127 62 77
+rawdata/2410.bmp 1 108 125 64 78
+rawdata/2411.bmp 1 104 126 68 79
+rawdata/2412.bmp 1 99 127 70 79
+rawdata/2413.bmp 1 95 127 74 79
+rawdata/2414.bmp 1 94 127 74 79
+rawdata/2415.bmp 1 94 128 75 79
+rawdata/2416.bmp 1 95 130 73 79
+rawdata/2417.bmp 1 95 131 75 79
+rawdata/2418.bmp 1 94 130 77 79
+rawdata/2419.bmp 0
+rawdata/2420.bmp 0
+rawdata/2421.bmp 0
+rawdata/2422.bmp 0
+rawdata/2423.bmp 0
+rawdata/2424.bmp 0
+rawdata/2425.bmp 0
+rawdata/2426.bmp 0
+rawdata/2427.bmp 0
+rawdata/2428.bmp 0
+rawdata/2429.bmp 0
+rawdata/2430.bmp 0
+rawdata/2431.bmp 0
+rawdata/2432.bmp 0
+rawdata/2433.bmp 0
+rawdata/2434.bmp 0
+rawdata/2435.bmp 0
+rawdata/2436.bmp 0
+rawdata/2437.bmp 0
+rawdata/2438.bmp 0
+rawdata/2439.bmp 0
+rawdata/2440.bmp 0
+rawdata/2441.bmp 0
+rawdata/2442.bmp 1 19 52 11 13
+rawdata/2443.bmp 1 23 46 12 13
+rawdata/2444.bmp 1 30 42 12 13
+rawdata/2445.bmp 1 35 39 13 13
+rawdata/2446.bmp 1 41 37 12 13
+rawdata/2447.bmp 1 47 36 13 13
+rawdata/2448.bmp 1 53 35 13 14
+rawdata/2449.bmp 1 59 35 12 14
+rawdata/2450.bmp 1 66 37 10 13
+rawdata/2451.bmp 0
+rawdata/2452.bmp 0
+rawdata/2453.bmp 0
+rawdata/2454.bmp 0
+rawdata/2455.bmp 0
+rawdata/2456.bmp 0
+rawdata/2457.bmp 0
+rawdata/2458.bmp 0
+rawdata/2459.bmp 0
+rawdata/2460.bmp 0
+rawdata/2461.bmp 0
+rawdata/2462.bmp 0
+rawdata/2463.bmp 0
+rawdata/2464.bmp 0
+rawdata/2465.bmp 0
+rawdata/2466.bmp 0
+rawdata/2467.bmp 0
+rawdata/2468.bmp 0
+rawdata/2469.bmp 0
+rawdata/2470.bmp 0
+rawdata/2471.bmp 0
+rawdata/2472.bmp 0
+rawdata/2473.bmp 0
+rawdata/2474.bmp 0
+rawdata/2475.bmp 0
+rawdata/2476.bmp 0
+rawdata/2477.bmp 0
+rawdata/2478.bmp 0
+rawdata/2479.bmp 0
+rawdata/2480.bmp 0
+rawdata/2481.bmp 0
+rawdata/2482.bmp 1 101 128 71 75
+rawdata/2483.bmp 1 103 127 63 76
+rawdata/2484.bmp 1 101 126 60 76
+rawdata/2485.bmp 1 104 125 57 77
+rawdata/2486.bmp 1 105 126 59 77
+rawdata/2487.bmp 1 107 127 55 78
+rawdata/2488.bmp 1 108 127 50 78
+rawdata/2489.bmp 1 110 126 44 78
+rawdata/2490.bmp 1 65 82 137 164
+rawdata/2491.bmp 1 114 124 35 78
+rawdata/2492.bmp 1 102 123 54 81
+rawdata/2493.bmp 1 98 123 54 81
+rawdata/2494.bmp 1 94 122 56 81
+rawdata/2495.bmp 1 90 123 63 81
+rawdata/2496.bmp 1 87 125 67 79
+rawdata/2497.bmp 1 82 124 73 77
+rawdata/2498.bmp 1 81 125 73 77
+rawdata/2499.bmp 1 77 126 76 77
+rawdata/2500.bmp 0
+rawdata/2501.bmp 0
+rawdata/2502.bmp 0
+rawdata/2503.bmp 0
+rawdata/2504.bmp 0
+rawdata/2505.bmp 0
+rawdata/2506.bmp 0
+rawdata/2507.bmp 0
+rawdata/2508.bmp 0
+rawdata/2509.bmp 0
+rawdata/2510.bmp 0
+rawdata/2511.bmp 0
+rawdata/2512.bmp 0
+rawdata/2513.bmp 0
+rawdata/2514.bmp 0
+rawdata/2515.bmp 0
+rawdata/2516.bmp 0
+rawdata/2517.bmp 0
+rawdata/2518.bmp 0
+rawdata/2519.bmp 0
+rawdata/2520.bmp 0
+rawdata/2521.bmp 0
+rawdata/2522.bmp 0
+rawdata/2523.bmp 1 37 123 62 79
+rawdata/2524.bmp 1 40 123 56 79
+rawdata/2525.bmp 1 46 124 50 78
+rawdata/2526.bmp 1 54 123 45 78
+rawdata/2527.bmp 1 64 124 37 79
+rawdata/2528.bmp 1 63 126 43 79
+rawdata/2529.bmp 1 65 126 38 80
+rawdata/2530.bmp 1 67 126 40 81
+rawdata/2531.bmp 1 66 124 42 82
+rawdata/2532.bmp 2 152 133 51 78 68 124 39 81
+rawdata/2533.bmp 2 153 121 56 78 25 120 37 80
+rawdata/2534.bmp 2 154 123 59 78 14 123 42 79
+rawdata/2535.bmp 2 157 124 60 78 21 123 47 79
+rawdata/2536.bmp 2 159 126 62 77 31 123 41 79
+rawdata/2537.bmp 2 162 127 63 75 36 122 40 78
+rawdata/2538.bmp 2 165 128 63 75 40 122 39 79
+rawdata/2539.bmp 2 179 126 42 74 42 122 39 79
+rawdata/2540.bmp 2 186 126 37 74 42 121 42 78
+rawdata/2541.bmp 2 189 125 39 75 41 119 48 80
+rawdata/2542.bmp 2 193 123 38 75 43 119 50 81
+rawdata/2543.bmp 2 195 123 38 73 44 120 53 80
+rawdata/2544.bmp 2 197 125 39 73 46 122 54 80
+rawdata/2545.bmp 2 198 126 42 73 48 124 54 79
+rawdata/2546.bmp 2 200 125 43 73 49 126 58 79
+rawdata/2547.bmp 2 204 126 41 73 49 126 64 79
+rawdata/2548.bmp 2 207 125 41 73 49 126 68 79
+rawdata/2549.bmp 2 209 122 43 73 51 126 68 79
+rawdata/2550.bmp 2 212 123 43 73 52 124 71 80
+rawdata/2551.bmp 2 218 125 37 73 54 123 71 80
+rawdata/2552.bmp 2 221 124 37 73 56 123 71 81
+rawdata/2553.bmp 2 221 123 40 73 58 123 71 81
+rawdata/2554.bmp 2 224 123 40 73 60 123 71 81
+rawdata/2555.bmp 2 228 125 37 73 60 124 74 81
+rawdata/2556.bmp 2 229 125 38 74 72 124 57 81
+rawdata/2557.bmp 2 232 126 39 74 71 124 63 81
+rawdata/2558.bmp 2 234 124 40 73 70 126 71 81
+rawdata/2559.bmp 2 236 130 40 71 70 125 75 80
+rawdata/2560.bmp 2 245 130 29 71 70 124 79 80
+rawdata/2561.bmp 1 245 128 30 72
+rawdata/2562.bmp 2 247 127 30 70 74 121 79 80
+rawdata/2563.bmp 2 249 125 30 71 75 122 79 80
+rawdata/2564.bmp 2 254 123 23 71 76 122 79 81
+rawdata/2565.bmp 2 254 121 25 71 78 122 79 81
+rawdata/2566.bmp 2 255 119 26 72 79 120 79 82
+rawdata/2567.bmp 2 256 121 26 72 81 120 80 82
+rawdata/2568.bmp 2 258 121 26 72 84 121 81 82
+rawdata/2569.bmp 1 260 120 24 72
+rawdata/2570.bmp 1 262 121 25 72
+rawdata/2571.bmp 1 261 120 28 72
+rawdata/2572.bmp 1 264 120 26 72
+rawdata/2573.bmp 1 265 119 28 73
+rawdata/2574.bmp 1 267 121 27 73
+rawdata/2575.bmp 1 268 122 27 73
+rawdata/2576.bmp 1 269 122 26 74
+rawdata/2577.bmp 1 270 122 27 73
+rawdata/2578.bmp 1 270 122 28 73
+rawdata/2579.bmp 1 269 123 32 73
+rawdata/2580.bmp 1 271 122 31 72
+rawdata/2581.bmp 1 270 122 33 72
+rawdata/2582.bmp 1 269 122 34 72
+rawdata/2583.bmp 1 270 122 34 72
+rawdata/2584.bmp 1 270 123 35 70
+rawdata/2585.bmp 1 270 124 35 69
+rawdata/2586.bmp 1 266 124 42 69
+rawdata/2587.bmp 1 266 124 43 69
+rawdata/2588.bmp 1 266 123 42 71
+rawdata/2589.bmp 1 267 121 40 75
+rawdata/2590.bmp 1 268 118 38 80
+rawdata/2591.bmp 1 267 115 40 87
+rawdata/2592.bmp 1 264 112 44 92
+rawdata/2593.bmp 1 260 109 50 98
+rawdata/2594.bmp 1 260 108 50 102
+rawdata/2595.bmp 2 258 108 51 104 137 129 43 75
+rawdata/2596.bmp 2 268 121 28 78 136 128 43 75
+rawdata/2597.bmp 2 267 123 28 78 137 128 42 75
+rawdata/2598.bmp 2 265 124 30 76 137 127 40 75
+rawdata/2599.bmp 2 263 124 32 74 137 126 39 75
+rawdata/2600.bmp 2 264 121 29 73 138 125 38 75
+rawdata/2601.bmp 2 265 119 25 71 139 123 37 75
+rawdata/2602.bmp 1 140 120 35 78
+rawdata/2603.bmp 1 138 118 34 81
+rawdata/2604.bmp 1 110 118 33 85
+rawdata/2605.bmp 1 111 118 30 88
+rawdata/2606.bmp 1 86 100 54 115
+rawdata/2607.bmp 1 88 99 46 112
+rawdata/2608.bmp 1 92 101 38 109
+rawdata/2609.bmp 1 94 104 32 103
+rawdata/2610.bmp 1 98 106 23 101
+rawdata/2611.bmp 1 98 106 25 100
+rawdata/2612.bmp 2 201 136 67 75 92 106 29 98
+rawdata/2613.bmp 2 210 132 69 75 90 106 31 97
+rawdata/2614.bmp 2 214 126 68 77 88 106 34 94
+rawdata/2615.bmp 2 213 112 65 77 87 104 36 92
+rawdata/2616.bmp 2 212 111 66 78 85 105 38 89
+rawdata/2617.bmp 2 213 121 68 79 84 102 38 88
+rawdata/2618.bmp 2 215 123 65 79 85 103 37 85
+rawdata/2619.bmp 2 216 123 66 79 85 101 35 83
+rawdata/2620.bmp 2 217 124 65 79 84 101 34 82
+rawdata/2621.bmp 2 219 125 62 79 85 103 31 78
+rawdata/2622.bmp 2 217 125 62 79 85 107 29 75
+rawdata/2623.bmp 2 218 124 62 79 86 110 26 75
+rawdata/2624.bmp 2 220 123 56 79 88 111 23 75
+rawdata/2625.bmp 2 222 122 54 78 86 111 24 75
+rawdata/2626.bmp 2 225 121 53 79 85 113 25 75
+rawdata/2627.bmp 2 226 121 54 79 81 114 32 75
+rawdata/2628.bmp 2 228 121 54 79 85 115 25 75
+rawdata/2629.bmp 2 230 119 54 82 82 115 31 75
+rawdata/2630.bmp 2 229 119 56 83 81 116 30 74
+rawdata/2631.bmp 2 229 119 58 84 82 115 29 74
+rawdata/2632.bmp 2 228 119 60 85 81 116 27 74
+rawdata/2633.bmp 2 229 119 60 84 81 117 27 73
+rawdata/2634.bmp 2 231 121 59 83 80 117 27 73
+rawdata/2635.bmp 2 234 121 55 83 78 117 27 73
+rawdata/2636.bmp 2 236 120 52 84 77 113 27 74
+rawdata/2637.bmp 2 238 120 49 84 75 116 28 74
+rawdata/2638.bmp 2 240 120 46 84 71 119 34 73
+rawdata/2639.bmp 2 242 122 45 83 66 117 43 74
+rawdata/2640.bmp 2 243 122 45 83 62 120 51 73
+rawdata/2641.bmp 2 246 121 43 83 57 119 59 74
+rawdata/2642.bmp 2 245 121 45 83 55 120 62 73
+rawdata/2643.bmp 2 246 120 45 83 72 119 28 73
+rawdata/2644.bmp 2 244 120 48 83 75 121 21 69
+rawdata/2645.bmp 2 244 119 49 82 75 121 20 68
+rawdata/2646.bmp 2 242 120 51 82 75 126 21 58
+rawdata/2647.bmp 2 240 120 53 82 75 131 20 45
+rawdata/2648.bmp 2 237 119 56 82 77 135 16 36
+rawdata/2649.bmp 2 236 120 57 82 78 135 15 36
+rawdata/2650.bmp 2 235 121 59 82 78 134 17 36
+rawdata/2651.bmp 2 235 121 59 82 82 132 17 36
+rawdata/2652.bmp 2 237 121 54 82 79 115 24 73
+rawdata/2653.bmp 2 239 122 48 82 74 115 25 73
+rawdata/2654.bmp 2 242 122 42 82 69 116 26 73
+rawdata/2655.bmp 2 244 123 39 82 68 116 26 73
+rawdata/2656.bmp 2 234 122 57 83 70 111 25 73
+rawdata/2657.bmp 2 234 122 52 84 72 106 25 73
+rawdata/2658.bmp 2 236 122 46 84 74 101 24 74
+rawdata/2659.bmp 2 235 122 44 84 74 98 24 75
+rawdata/2660.bmp 2 235 123 42 85 73 98 26 75
+rawdata/2661.bmp 2 233 123 42 85 69 122 26 75
+rawdata/2662.bmp 2 232 123 43 85 68 122 29 75
+rawdata/2663.bmp 2 230 124 45 82 67 118 35 75
+rawdata/2664.bmp 2 229 124 45 82 67 117 35 75
+rawdata/2665.bmp 2 218 104 44 83 66 117 37 74
+rawdata/2666.bmp 2 219 104 43 83 65 118 39 74
+rawdata/2667.bmp 2 224 117 42 84 65 118 39 74
+rawdata/2668.bmp 2 225 118 42 84 67 117 34 74
+rawdata/2669.bmp 2 224 119 42 84 66 118 34 74
+rawdata/2670.bmp 2 224 118 41 84 68 119 31 74
+rawdata/2671.bmp 2 222 118 43 84 68 120 29 75
+rawdata/2672.bmp 2 221 118 43 84 69 120 26 75
+rawdata/2673.bmp 2 218 120 44 83 69 119 26 76
+rawdata/2674.bmp 2 216 121 44 83 68 118 26 76
+rawdata/2675.bmp 2 217 120 43 82 68 118 27 76
+rawdata/2676.bmp 2 217 120 43 82 66 118 30 76
+rawdata/2677.bmp 2 217 120 41 82 63 118 34 76
+rawdata/2678.bmp 2 217 120 39 81 59 119 41 75
+rawdata/2679.bmp 2 216 119 39 81 57 118 41 75
+rawdata/2680.bmp 2 215 119 40 81 55 118 44 75
+rawdata/2681.bmp 2 213 119 42 80 55 119 43 75
+rawdata/2682.bmp 2 211 120 46 79 53 119 44 75
+rawdata/2683.bmp 2 210 121 46 79 52 119 44 74
+rawdata/2684.bmp 2 210 121 46 79 49 116 44 74
+rawdata/2685.bmp 2 211 121 45 78 50 116 44 74
+rawdata/2686.bmp 2 212 122 43 77 49 118 44 75
+rawdata/2687.bmp 2 213 122 39 77 48 120 44 75
+rawdata/2688.bmp 2 210 123 45 76 46 121 44 75
+rawdata/2689.bmp 2 207 126 44 76 43 121 44 76
+rawdata/2690.bmp 2 207 125 45 76 43 120 44 76
+rawdata/2691.bmp 2 207 126 43 76 42 120 44 76
+rawdata/2692.bmp 2 205 127 42 76 41 120 44 76
+rawdata/2693.bmp 2 205 127 39 76 39 120 45 76
+rawdata/2694.bmp 2 202 125 41 76 37 120 47 76
+rawdata/2695.bmp 2 203 125 38 76 35 120 50 77
+rawdata/2696.bmp 2 205 124 35 76 33 120 53 77
+rawdata/2697.bmp 2 204 123 34 76 31 120 56 77
+rawdata/2698.bmp 2 203 126 34 73 28 120 60 77
+rawdata/2699.bmp 2 203 128 33 73 27 120 60 77
+rawdata/2700.bmp 2 201 126 34 76 26 120 61 77
+rawdata/2701.bmp 2 200 126 34 76 25 120 61 77
+rawdata/2702.bmp 2 198 125 36 76 24 119 61 77
+rawdata/2703.bmp 2 196 124 39 77 24 117 61 77
+rawdata/2704.bmp 2 194 123 41 76 23 115 60 77
+rawdata/2705.bmp 2 192 123 43 77 42 123 20 61
+rawdata/2706.bmp 2 191 123 41 76 43 131 17 47
+rawdata/2707.bmp 2 190 124 42 74 42 135 16 42
+rawdata/2708.bmp 2 189 124 43 72 41 137 16 40
+rawdata/2709.bmp 2 186 125 46 71 40 138 17 39
+rawdata/2710.bmp 2 185 123 47 72 40 136 17 40
+rawdata/2711.bmp 2 183 121 49 70 38 137 18 40
+rawdata/2712.bmp 2 180 120 51 70 38 136 19 40
+rawdata/2713.bmp 2 178 119 52 70 36 137 20 39
+rawdata/2714.bmp 2 168 120 69 70 12 118 66 78
+rawdata/2715.bmp 1 9 115 68 78
+rawdata/2716.bmp 1 7 103 71 78
+rawdata/2717.bmp 1 4 98 74 78
+rawdata/2718.bmp 1 3 95 75 78
+rawdata/2719.bmp 1 1 95 78 79
+rawdata/2720.bmp 1 0 96 78 79
+rawdata/2721.bmp 1 0 97 79 79
+rawdata/2722.bmp 1 0 97 79 79
+rawdata/2723.bmp 1 0 120 79 79
+rawdata/2724.bmp 1 0 120 79 79
+rawdata/2725.bmp 0
+rawdata/2726.bmp 0
+rawdata/2727.bmp 0
+rawdata/2728.bmp 0
+rawdata/2729.bmp 0
+rawdata/2730.bmp 0
+rawdata/2731.bmp 1 167 128 35 70
+rawdata/2732.bmp 1 168 129 33 70
+rawdata/2733.bmp 1 167 130 33 68
+rawdata/2734.bmp 2 168 130 28 67 0 116 56 88
+rawdata/2735.bmp 2 167 133 24 58 3 117 46 87
+rawdata/2736.bmp 2 170 140 15 44 7 117 39 86
+rawdata/2737.bmp 2 168 140 18 43 6 115 36 88
+rawdata/2738.bmp 2 166 143 21 34 5 115 35 88
+rawdata/2739.bmp 2 165 143 22 34 5 114 34 88
+rawdata/2740.bmp 2 111 120 70 79 202 155 6 8
+rawdata/2741.bmp 2 8 106 33 88 191 126 28 70
+rawdata/2742.bmp 3 126 148 22 24 7 107 33 87 212 131 22 70
+rawdata/2743.bmp 3 116 126 39 70 6 107 32 86 213 132 25 70
+rawdata/2744.bmp 3 116 127 34 69 5 108 31 86 216 131 21 70
+rawdata/2745.bmp 3 113 126 39 68 4 108 29 86 216 131 22 70
+rawdata/2746.bmp 3 112 122 34 67 3 108 28 87 217 131 23 70
+rawdata/2747.bmp 3 117 125 30 67 3 107 27 88 210 130 25 70
+rawdata/2748.bmp 3 105 110 25 67 3 106 26 88 222 132 26 70
+rawdata/2749.bmp 3 104 108 22 67 2 107 26 88 220 130 30 70
+rawdata/2750.bmp 3 105 109 21 67 2 107 26 88 202 115 25 70
+rawdata/2751.bmp 3 95 77 27 67 17 106 26 90 244 122 25 70
+rawdata/2752.bmp 3 97 120 27 67 1 103 26 93 245 122 22 70
+rawdata/2753.bmp 2 93 120 35 67 224 129 22 70
+rawdata/2754.bmp 2 91 129 36 65 224 128 22 70
+rawdata/2755.bmp 2 86 129 36 64 226 126 22 70
+rawdata/2756.bmp 2 83 128 35 64 227 126 22 70
+rawdata/2757.bmp 2 82 130 33 63 228 128 22 70
+rawdata/2758.bmp 2 80 102 32 116 230 130 21 70
+rawdata/2759.bmp 2 77 129 30 64 231 130 21 70
+rawdata/2760.bmp 2 76 127 27 66 231 130 22 70
+rawdata/2761.bmp 2 73 129 29 66 231 130 22 70
+rawdata/2762.bmp 2 70 131 30 66 229 131 27 71
+rawdata/2763.bmp 2 59 128 50 69 230 130 27 71
+rawdata/2764.bmp 2 57 129 51 67 230 130 27 71
+rawdata/2765.bmp 2 55 127 51 68 230 130 26 71
+rawdata/2766.bmp 2 53 130 52 67 229 130 28 70
+rawdata/2767.bmp 2 52 129 52 66 229 130 29 70
+rawdata/2768.bmp 2 51 129 52 66 229 131 29 69
+rawdata/2769.bmp 3 49 126 52 66 228 132 31 69 56 76 12 13
+rawdata/2770.bmp 3 49 128 52 66 224 131 38 69 56 79 12 12
+rawdata/2771.bmp 2 54 128 40 66 224 131 38 69
+rawdata/2772.bmp 3 52 125 41 66 222 132 40 67 78 72 11 12
+rawdata/2773.bmp 4 51 124 41 66 0 115 31 79 221 132 43 67 92 64 12 13
+rawdata/2774.bmp 4 50 124 41 66 1 113 29 80 220 132 43 67 100 65 10 13
+rawdata/2775.bmp 3 48 122 41 66 2 114 27 80 218 132 46 66
+rawdata/2776.bmp 3 46 121 41 66 2 115 25 80 208 129 65 71
+rawdata/2777.bmp 3 45 121 41 66 2 115 25 80 210 134 59 62
+rawdata/2778.bmp 3 45 123 41 66 3 115 25 80 212 132 52 64
+rawdata/2779.bmp 3 44 123 41 66 3 115 24 80 216 135 43 61
+rawdata/2780.bmp 3 44 124 41 66 6 115 19 80 215 137 42 59
+rawdata/2781.bmp 3 44 125 41 66 7 115 19 80 216 136 38 58
+rawdata/2782.bmp 3 45 126 41 66 6 115 20 80 215 136 37 58
+rawdata/2783.bmp 3 44 125 41 66 5 116 22 80 216 136 35 58
+rawdata/2784.bmp 3 44 124 41 66 5 116 22 80 216 136 33 58
+rawdata/2785.bmp 3 44 124 41 66 4 116 25 80 202 119 32 58
+rawdata/2786.bmp 3 43 124 41 66 2 117 28 79 204 119 29 58
+rawdata/2787.bmp 3 43 124 41 66 2 116 29 80 213 132 28 59
+rawdata/2788.bmp 3 43 124 41 66 2 117 30 79 214 135 29 59
+rawdata/2789.bmp 3 43 125 41 66 1 116 32 79 213 132 29 64
+rawdata/2790.bmp 3 41 125 44 66 2 116 32 79 216 135 29 64
+rawdata/2791.bmp 3 42 125 43 66 4 114 33 79 216 136 28 64
+rawdata/2792.bmp 3 41 125 43 66 4 112 33 80 215 135 28 64
+rawdata/2793.bmp 3 41 126 42 66 4 114 34 80 215 135 28 65
+rawdata/2794.bmp 3 42 126 41 66 4 115 35 80 215 135 27 65
+rawdata/2795.bmp 3 42 127 40 66 5 116 35 80 215 133 27 66
+rawdata/2796.bmp 3 44 127 38 66 5 117 37 80 214 133 27 65
+rawdata/2797.bmp 3 45 129 37 65 5 117 38 80 213 131 27 66
+rawdata/2798.bmp 3 47 128 35 66 9 117 33 81 213 130 27 65
+rawdata/2799.bmp 3 47 128 35 66 10 115 32 82 212 130 27 65
+rawdata/2800.bmp 3 48 128 35 66 12 115 31 82 211 131 28 64
+rawdata/2801.bmp 3 48 128 35 65 13 116 28 82 211 132 28 63
+rawdata/2802.bmp 3 48 128 34 66 15 115 26 82 210 134 28 58
+rawdata/2803.bmp 3 50 128 32 66 15 116 28 81 209 135 30 57
+rawdata/2804.bmp 3 54 128 26 66 13 116 34 80 209 135 30 55
+rawdata/2805.bmp 3 56 128 25 67 12 115 38 80 209 138 31 51
+rawdata/2806.bmp 2 13 116 40 80 210 138 28 49
+rawdata/2807.bmp 2 4 116 60 80 210 139 28 47
+rawdata/2808.bmp 2 4 116 63 81 208 139 32 47
+rawdata/2809.bmp 2 5 116 63 81 207 138 34 48
+rawdata/2810.bmp 2 7 114 62 81 207 139 34 46
+rawdata/2811.bmp 2 10 113 60 81 207 141 34 45
+rawdata/2812.bmp 2 14 114 57 81 207 142 34 45
+rawdata/2813.bmp 2 17 117 53 81 208 142 34 45
+rawdata/2814.bmp 2 21 116 48 83 208 142 34 45
+rawdata/2815.bmp 2 26 115 43 85 208 143 34 44
+rawdata/2816.bmp 2 44 114 42 85 208 144 34 44
+rawdata/2817.bmp 2 44 114 42 85 208 146 34 44
+rawdata/2818.bmp 2 42 116 39 84 208 147 35 45
+rawdata/2819.bmp 2 43 117 42 83 206 146 36 45
+rawdata/2820.bmp 2 43 118 47 82 206 146 37 45
+rawdata/2821.bmp 2 45 119 49 82 205 146 38 45
+rawdata/2822.bmp 2 46 119 50 82 204 147 40 45
+rawdata/2823.bmp 2 49 119 47 82 205 147 39 45
+rawdata/2824.bmp 2 52 118 44 82 205 148 39 45
+rawdata/2825.bmp 2 57 116 38 82 204 148 38 45
+rawdata/2826.bmp 2 61 115 35 82 204 149 38 45
+rawdata/2827.bmp 2 62 115 37 82 205 149 37 45
+rawdata/2828.bmp 2 63 115 37 84 205 147 36 46
+rawdata/2829.bmp 2 61 116 44 85 206 146 35 48
+rawdata/2830.bmp 2 63 116 44 85 206 146 35 48
+rawdata/2831.bmp 2 63 118 50 85 205 146 35 48
+rawdata/2832.bmp 2 64 119 53 84 206 147 33 49
+rawdata/2833.bmp 2 65 119 54 84 204 145 34 52
+rawdata/2834.bmp 2 67 119 54 84 203 145 36 55
+rawdata/2835.bmp 2 69 120 54 84 202 144 36 55
+rawdata/2836.bmp 2 71 121 54 84 198 143 44 57
+rawdata/2837.bmp 2 74 120 54 84 196 139 49 64
+rawdata/2838.bmp 2 80 120 47 85 199 138 41 67
+rawdata/2839.bmp 2 76 118 56 85 199 137 41 67
+rawdata/2840.bmp 2 81 119 56 85 198 136 41 67
+rawdata/2841.bmp 2 78 119 61 84 200 135 37 68
+rawdata/2842.bmp 2 78 119 64 84 184 137 67 67
+rawdata/2843.bmp 2 80 120 65 83 182 136 68 69
+rawdata/2844.bmp 1 83 121 62 81
+rawdata/2845.bmp 0
+rawdata/2846.bmp 0
+rawdata/2847.bmp 0
+rawdata/2848.bmp 0
+rawdata/2849.bmp 0
+rawdata/2850.bmp 0
+rawdata/2851.bmp 0
+rawdata/2852.bmp 0
+rawdata/2853.bmp 0
+rawdata/2854.bmp 0
+rawdata/2855.bmp 0
+rawdata/2856.bmp 0
+rawdata/2857.bmp 0
+rawdata/2858.bmp 0
+rawdata/2859.bmp 0
+rawdata/2860.bmp 0
+rawdata/2861.bmp 0
+rawdata/2862.bmp 0
+rawdata/2863.bmp 0
+rawdata/2864.bmp 0
+rawdata/2865.bmp 0
+rawdata/2866.bmp 0
+rawdata/2867.bmp 0
+rawdata/2868.bmp 1 131 133 59 71
+rawdata/2869.bmp 1 135 133 62 71
+rawdata/2870.bmp 1 135 132 67 71
+rawdata/2871.bmp 1 135 130 70 71
+rawdata/2872.bmp 1 135 130 69 70
+rawdata/2873.bmp 1 130 130 68 70
+rawdata/2874.bmp 1 126 130 68 70
+rawdata/2875.bmp 1 124 130 68 70
+rawdata/2876.bmp 1 121 129 68 71
+rawdata/2877.bmp 2 207 130 43 81 125 127 69 72
+rawdata/2878.bmp 2 210 124 47 82 67 123 69 72
+rawdata/2879.bmp 2 215 122 48 81 65 123 70 72
+rawdata/2880.bmp 2 219 118 50 84 69 125 70 72
+rawdata/2881.bmp 2 221 117 56 84 70 126 71 72
+rawdata/2882.bmp 2 227 118 54 83 71 126 71 72
+rawdata/2883.bmp 2 233 119 50 83 70 126 72 72
+rawdata/2884.bmp 1 242 117 50 83
+rawdata/2885.bmp 1 251 119 43 81
+rawdata/2886.bmp 1 259 119 41 81
+rawdata/2887.bmp 1 264 118 39 81
+rawdata/2888.bmp 1 267 116 42 81
+rawdata/2889.bmp 1 272 116 42 84
+rawdata/2890.bmp 1 282 119 32 82
+rawdata/2891.bmp 1 287 118 32 79
+rawdata/2892.bmp 1 301 123 17 67
+rawdata/2893.bmp 1 308 141 12 28
+rawdata/2894.bmp 1 314 145 11 22
+rawdata/2895.bmp 1 319 147 11 20
+rawdata/2896.bmp 0
+rawdata/2897.bmp 0
+rawdata/2898.bmp 0
+rawdata/2899.bmp 0
+rawdata/2900.bmp 0
+rawdata/2901.bmp 0
+rawdata/2902.bmp 0
+rawdata/2903.bmp 0
+rawdata/2904.bmp 0
+rawdata/2905.bmp 0
+rawdata/2906.bmp 0
+rawdata/2907.bmp 0
+rawdata/2908.bmp 1 114 128 18 71
+rawdata/2909.bmp 1 111 129 24 71
+rawdata/2910.bmp 2 113 129 19 71 173 154 68 68
+rawdata/2911.bmp 2 111 128 19 71 175 155 64 66
+rawdata/2912.bmp 2 110 127 19 71 177 155 61 66
+rawdata/2913.bmp 2 112 125 19 71 176 154 60 67
+rawdata/2914.bmp 2 117 126 19 71 181 155 52 66
+rawdata/2915.bmp 2 120 127 20 71 175 153 51 65
+rawdata/2916.bmp 2 120 127 20 71 158 151 50 65
+rawdata/2917.bmp 2 104 124 20 71 141 141 49 65
+rawdata/2918.bmp 2 71 127 20 71 136 129 48 63
+rawdata/2919.bmp 2 74 129 20 71 141 131 47 57
+rawdata/2920.bmp 2 78 129 20 71 146 132 46 56
+rawdata/2921.bmp 2 80 128 20 71 151 134 45 55
+rawdata/2922.bmp 2 82 129 20 71 154 138 44 52
+rawdata/2923.bmp 2 82 129 20 71 157 137 44 50
+rawdata/2924.bmp 2 83 129 20 71 161 140 36 48
+rawdata/2925.bmp 2 83 128 20 71 163 140 36 47
+rawdata/2926.bmp 2 83 128 20 71 165 139 36 47
+rawdata/2927.bmp 2 83 129 20 71 166 141 36 47
+rawdata/2928.bmp 2 83 129 20 71 168 142 36 46
+rawdata/2929.bmp 2 83 129 20 71 169 144 36 46
+rawdata/2930.bmp 2 83 129 20 71 170 146 36 45
+rawdata/2931.bmp 2 83 129 20 71 171 146 36 45
+rawdata/2932.bmp 2 83 129 20 71 171 145 37 46
+rawdata/2933.bmp 2 83 129 20 71 172 146 37 46
+rawdata/2934.bmp 2 83 129 20 71 174 146 37 46
+rawdata/2935.bmp 2 83 129 20 71 172 147 38 46
+rawdata/2936.bmp 2 83 129 20 71 174 147 38 46
+rawdata/2937.bmp 2 83 129 20 71 174 147 38 46
+rawdata/2938.bmp 2 83 129 20 71 176 147 37 46
+rawdata/2939.bmp 2 83 129 20 71 177 147 35 46
+rawdata/2940.bmp 2 83 129 20 71 178 147 35 46
+rawdata/2941.bmp 2 83 129 20 71 178 148 35 45
+rawdata/2942.bmp 2 83 129 20 71 178 148 34 45
+rawdata/2943.bmp 2 83 129 20 71 178 148 34 44
+rawdata/2944.bmp 2 83 129 20 71 178 148 34 44
+rawdata/2945.bmp 2 83 129 20 71 178 147 34 44
+rawdata/2946.bmp 2 83 129 20 71 178 147 34 44
+rawdata/2947.bmp 2 83 129 20 71 179 147 33 44
+rawdata/2948.bmp 2 83 129 20 71 179 147 33 45
+rawdata/2949.bmp 2 83 130 20 71 179 146 33 46
+rawdata/2950.bmp 2 83 130 20 71 179 146 32 46
+rawdata/2951.bmp 2 83 130 20 71 179 147 32 47
+rawdata/2952.bmp 2 83 129 20 71 179 147 32 47
+rawdata/2953.bmp 2 83 130 20 71 180 146 31 48
+rawdata/2954.bmp 2 83 130 20 71 180 145 30 50
+rawdata/2955.bmp 2 83 130 20 71 181 144 28 53
+rawdata/2956.bmp 2 83 130 20 71 181 142 28 56
+rawdata/2957.bmp 2 83 130 20 71 182 139 26 62
+rawdata/2958.bmp 2 84 130 19 71 181 139 26 63
+rawdata/2959.bmp 2 84 130 19 71 182 137 24 65
+rawdata/2960.bmp 2 84 131 19 71 182 136 24 67
+rawdata/2961.bmp 2 84 130 19 71 181 134 24 68
+rawdata/2962.bmp 2 84 130 19 71 181 133 25 68
+rawdata/2963.bmp 2 84 130 19 71 180 133 25 68
+rawdata/2964.bmp 2 84 130 19 71 179 132 26 70
+rawdata/2965.bmp 2 84 130 19 71 179 132 27 70
+rawdata/2966.bmp 2 84 130 19 71 179 131 26 71
+rawdata/2967.bmp 2 84 130 19 71 178 131 26 71
+rawdata/2968.bmp 2 84 130 19 71 179 129 24 71
+rawdata/2969.bmp 2 84 130 19 71 181 128 23 71
+rawdata/2970.bmp 2 84 131 19 71 180 126 22 71
+rawdata/2971.bmp 2 84 130 19 71 181 126 21 71
+rawdata/2972.bmp 2 84 131 19 71 180 124 21 71
+rawdata/2973.bmp 2 84 130 19 71 180 126 21 71
+rawdata/2974.bmp 2 84 130 19 71 178 124 22 71
+rawdata/2975.bmp 2 84 130 19 71 178 123 23 72
+rawdata/2976.bmp 2 84 130 19 71 177 122 23 72
+rawdata/2977.bmp 2 84 130 19 71 177 121 22 72
+rawdata/2978.bmp 2 84 131 19 71 176 122 22 72
+rawdata/2979.bmp 2 84 131 19 71 176 122 22 72
+rawdata/2980.bmp 2 84 131 19 71 176 121 23 72
+rawdata/2981.bmp 2 84 130 19 71 175 121 23 73
+rawdata/2982.bmp 2 84 130 19 71 175 121 23 73
+rawdata/2983.bmp 2 84 130 19 71 174 120 23 73
+rawdata/2984.bmp 2 84 131 19 71 174 120 23 72
+rawdata/2985.bmp 2 84 131 19 71 174 119 23 72
+rawdata/2986.bmp 2 84 131 19 71 174 119 23 72
+rawdata/2987.bmp 2 84 130 19 71 173 119 24 72
+rawdata/2988.bmp 2 84 130 19 71 172 119 24 72
+rawdata/2989.bmp 2 84 131 19 71 173 120 24 72
+rawdata/2990.bmp 2 75 135 36 61 183 152 4 8
+rawdata/2991.bmp 1 88 145 11 42
+rawdata/2992.bmp 0
+rawdata/2993.bmp 0
+rawdata/2994.bmp 0
+rawdata/2995.bmp 0
+rawdata/2996.bmp 0
+rawdata/2997.bmp 0
+rawdata/2998.bmp 0
+rawdata/2999.bmp 0
+rawdata/3000.bmp 0
+rawdata/3001.bmp 0
+rawdata/3002.bmp 0
+rawdata/3003.bmp 0
+rawdata/3004.bmp 0
+rawdata/3005.bmp 0
+rawdata/3006.bmp 0
+rawdata/3007.bmp 0
+rawdata/3008.bmp 0
+rawdata/3009.bmp 0
+rawdata/3010.bmp 0
+rawdata/3011.bmp 0
+rawdata/3012.bmp 0
+rawdata/3013.bmp 0
+rawdata/3014.bmp 0
+rawdata/3015.bmp 0
+rawdata/3016.bmp 0
+rawdata/3017.bmp 0
+rawdata/3018.bmp 0
+rawdata/3019.bmp 0
+rawdata/3020.bmp 0
+rawdata/3021.bmp 0
+rawdata/3022.bmp 0
+rawdata/3023.bmp 0
+rawdata/3024.bmp 0
+rawdata/3025.bmp 0
+rawdata/3026.bmp 0
+rawdata/3027.bmp 0
+rawdata/3028.bmp 0
+rawdata/3029.bmp 0
+rawdata/3030.bmp 0
+rawdata/3031.bmp 0
+rawdata/3032.bmp 0
+rawdata/3033.bmp 0
+rawdata/3034.bmp 0
+rawdata/3035.bmp 0
+rawdata/3036.bmp 0
+rawdata/3037.bmp 0
+rawdata/3038.bmp 0
+rawdata/3039.bmp 0
+rawdata/3040.bmp 0
+rawdata/3041.bmp 0
+rawdata/3042.bmp 0
+rawdata/3043.bmp 0
+rawdata/3044.bmp 0
+rawdata/3045.bmp 0
+rawdata/3046.bmp 0
+rawdata/3047.bmp 0
+rawdata/3048.bmp 0
+rawdata/3049.bmp 0
+rawdata/3050.bmp 0
+rawdata/3051.bmp 0
+rawdata/3052.bmp 0
+rawdata/3053.bmp 0
+rawdata/3054.bmp 0
+rawdata/3055.bmp 0
+rawdata/3056.bmp 0
+rawdata/3057.bmp 0
+rawdata/3058.bmp 0
+rawdata/3059.bmp 0
+rawdata/3060.bmp 0
+rawdata/3061.bmp 0
+rawdata/3062.bmp 0
+rawdata/3063.bmp 0
+rawdata/3064.bmp 0
+rawdata/3065.bmp 0
+rawdata/3066.bmp 0
+rawdata/3067.bmp 0
+rawdata/3068.bmp 0
+rawdata/3069.bmp 0
+rawdata/3070.bmp 0
+rawdata/3071.bmp 0
+rawdata/3072.bmp 0
+rawdata/3073.bmp 0
+rawdata/3074.bmp 1 181 123 55 76
+rawdata/3075.bmp 1 178 124 57 76
+rawdata/3076.bmp 1 178 123 59 76
+rawdata/3077.bmp 1 180 123 59 76
+rawdata/3078.bmp 1 179 126 64 76
+rawdata/3079.bmp 1 177 126 70 76
+rawdata/3080.bmp 1 177 128 71 76
+rawdata/3081.bmp 0
+rawdata/3082.bmp 0
+rawdata/3083.bmp 0
+rawdata/3084.bmp 0
+rawdata/3085.bmp 0
+rawdata/3086.bmp 0
+rawdata/3087.bmp 0
+rawdata/3088.bmp 0
+rawdata/3089.bmp 0
+rawdata/3090.bmp 0
+rawdata/3091.bmp 0
+rawdata/3092.bmp 0
+rawdata/3093.bmp 0
+rawdata/3094.bmp 0
+rawdata/3095.bmp 0
+rawdata/3096.bmp 0
+rawdata/3097.bmp 1 195 127 34 76
+rawdata/3098.bmp 1 197 128 28 77
+rawdata/3099.bmp 1 191 128 33 77
+rawdata/3100.bmp 1 190 127 29 77
+rawdata/3101.bmp 1 188 125 30 77
+rawdata/3102.bmp 1 191 123 28 77
+rawdata/3103.bmp 1 193 125 25 74
+rawdata/3104.bmp 1 194 133 25 61
+rawdata/3105.bmp 1 192 141 25 43
+rawdata/3106.bmp 2 155 143 25 38 232 129 32 67
+rawdata/3107.bmp 2 156 143 23 37 232 128 32 67
+rawdata/3108.bmp 2 141 142 24 37 254 128 34 67
+rawdata/3109.bmp 2 140 137 22 37 256 127 35 67
+rawdata/3110.bmp 2 138 137 22 38 256 127 37 67
+rawdata/3111.bmp 2 136 138 21 39 257 128 38 68
+rawdata/3112.bmp 2 134 137 20 40 257 131 38 67
+rawdata/3113.bmp 2 121 121 53 72 251 129 39 67
+rawdata/3114.bmp 2 109 116 51 73 265 130 39 67
+rawdata/3115.bmp 2 109 112 50 73 265 130 39 67
+rawdata/3116.bmp 2 113 106 43 73 262 130 43 67
+rawdata/3117.bmp 2 114 105 38 73 263 129 41 67
+rawdata/3118.bmp 2 113 105 37 73 263 128 40 67
+rawdata/3119.bmp 2 111 105 36 73 264 128 39 67
+rawdata/3120.bmp 2 110 105 34 73 264 128 39 67
+rawdata/3121.bmp 2 109 106 33 73 264 127 40 67
+rawdata/3122.bmp 2 105 122 33 73 264 128 41 67
+rawdata/3123.bmp 2 105 122 33 72 265 128 39 67
+rawdata/3124.bmp 2 103 125 35 72 265 129 37 67
+rawdata/3125.bmp 2 101 127 34 71 266 130 35 67
+rawdata/3126.bmp 2 99 128 34 71 266 131 34 67
+rawdata/3127.bmp 2 99 127 31 71 264 131 35 67
+rawdata/3128.bmp 2 98 125 29 72 264 131 35 67
+rawdata/3129.bmp 2 97 122 26 73 263 131 36 67
+rawdata/3130.bmp 2 96 122 25 73 262 130 37 67
+rawdata/3131.bmp 2 93 125 27 73 261 130 39 67
+rawdata/3132.bmp 2 89 126 32 73 258 130 40 67
+rawdata/3133.bmp 2 87 125 34 73 255 128 44 68
+rawdata/3134.bmp 2 85 126 34 73 256 128 42 68
+rawdata/3135.bmp 2 84 126 34 73 256 127 39 68
+rawdata/3136.bmp 2 84 126 33 73 255 126 38 69
+rawdata/3137.bmp 2 84 126 30 73 255 123 35 70
+rawdata/3138.bmp 2 82 126 30 72 257 123 31 70
+rawdata/3139.bmp 2 82 126 28 72 256 125 28 71
+rawdata/3140.bmp 2 81 125 28 71 257 127 26 71
+rawdata/3141.bmp 2 80 124 27 70 255 128 26 71
+rawdata/3142.bmp 2 78 124 27 70 254 128 26 71
+rawdata/3143.bmp 2 77 123 26 71 252 129 29 71
+rawdata/3144.bmp 2 76 120 26 71 248 130 33 70
+rawdata/3145.bmp 2 75 120 27 71 245 130 34 70
+rawdata/3146.bmp 2 74 122 27 70 245 130 34 69
+rawdata/3147.bmp 2 72 122 28 70 242 129 36 69
+rawdata/3148.bmp 2 70 124 32 70 242 127 33 68
+rawdata/3149.bmp 2 69 126 32 70 238 126 36 68
+rawdata/3150.bmp 2 68 126 35 70 240 125 29 69
+rawdata/3151.bmp 2 66 125 36 70 237 124 30 70
+rawdata/3152.bmp 2 65 124 36 70 240 126 23 71
+rawdata/3153.bmp 2 64 124 36 70 239 128 21 71
+rawdata/3154.bmp 2 64 123 36 68 240 128 17 71
+rawdata/3155.bmp 2 63 122 36 69 237 127 18 72
+rawdata/3156.bmp 2 62 125 37 68 234 128 23 72
+rawdata/3157.bmp 2 61 125 37 68 229 129 28 72
+rawdata/3158.bmp 2 60 128 37 68 226 129 32 72
+rawdata/3159.bmp 2 58 128 39 68 222 130 37 71
+rawdata/3160.bmp 2 57 127 41 69 221 131 34 70
+rawdata/3161.bmp 2 54 127 44 69 220 131 33 69
+rawdata/3162.bmp 2 53 127 44 69 219 131 33 69
+rawdata/3163.bmp 2 52 127 46 69 216 129 36 69
+rawdata/3164.bmp 2 51 128 46 69 215 125 35 70
+rawdata/3165.bmp 2 51 127 47 69 215 124 33 71
+rawdata/3166.bmp 2 50 127 47 68 216 126 27 72
+rawdata/3167.bmp 2 49 127 47 68 215 128 27 72
+rawdata/3168.bmp 2 49 128 46 68 214 129 26 72
+rawdata/3169.bmp 2 48 129 47 68 213 129 25 72
+rawdata/3170.bmp 2 49 127 42 68 212 130 23 72
+rawdata/3171.bmp 2 47 125 45 68 212 129 22 72
+rawdata/3172.bmp 2 45 124 45 68 210 130 22 72
+rawdata/3173.bmp 2 46 124 45 68 210 130 22 72
+rawdata/3174.bmp 2 45 124 44 68 209 129 22 72
+rawdata/3175.bmp 2 45 123 45 68 208 129 22 72
+rawdata/3176.bmp 2 44 122 46 68 207 129 22 72
+rawdata/3177.bmp 2 43 122 46 68 205 128 22 72
+rawdata/3178.bmp 2 43 122 47 68 206 128 22 72
+rawdata/3179.bmp 2 44 122 47 66 205 128 22 72
+rawdata/3180.bmp 2 42 123 48 67 205 127 22 72
+rawdata/3181.bmp 2 43 123 49 67 205 127 22 72
+rawdata/3182.bmp 2 42 123 49 67 205 126 22 72
+rawdata/3183.bmp 2 42 123 49 67 205 126 22 72
+rawdata/3184.bmp 2 42 123 48 67 205 126 22 72
+rawdata/3185.bmp 2 42 122 48 67 205 127 22 72
+rawdata/3186.bmp 2 42 123 48 67 205 126 22 72
+rawdata/3187.bmp 2 42 123 47 67 205 126 22 72
+rawdata/3188.bmp 2 42 123 46 67 205 126 22 73
+rawdata/3189.bmp 2 42 123 46 67 205 126 22 73
+rawdata/3190.bmp 2 41 125 46 67 205 126 22 73
+rawdata/3191.bmp 2 41 125 46 67 205 126 22 73
+rawdata/3192.bmp 2 43 124 40 68 205 127 22 73
+rawdata/3193.bmp 2 43 124 40 68 205 126 23 73
+rawdata/3194.bmp 2 43 124 40 68 205 126 23 73
+rawdata/3195.bmp 2 44 124 38 69 205 126 23 73
+rawdata/3196.bmp 2 44 124 38 69 205 126 23 73
+rawdata/3197.bmp 2 45 124 37 69 205 126 23 73
+rawdata/3198.bmp 2 45 124 37 69 205 126 23 73
+rawdata/3199.bmp 2 46 123 37 69 205 126 22 73
+rawdata/3200.bmp 2 45 123 38 69 205 126 22 73
+rawdata/3201.bmp 2 45 123 38 69 205 127 22 73
+rawdata/3202.bmp 2 46 123 39 69 205 126 22 73
+rawdata/3203.bmp 2 45 123 39 69 205 127 22 73
+rawdata/3204.bmp 2 44 123 40 69 205 126 22 73
+rawdata/3205.bmp 2 42 123 44 69 205 127 22 73
+rawdata/3206.bmp 2 44 122 40 69 205 126 22 73
+rawdata/3207.bmp 2 44 122 42 69 205 126 22 73
+rawdata/3208.bmp 2 46 123 39 69 205 126 22 73
+rawdata/3209.bmp 2 44 123 42 69 205 126 23 73
+rawdata/3210.bmp 2 46 122 38 69 205 126 23 73
+rawdata/3211.bmp 2 45 122 40 69 205 126 23 73
+rawdata/3212.bmp 2 45 124 38 69 205 126 22 73
+rawdata/3213.bmp 2 45 123 36 70 205 126 22 73
+rawdata/3214.bmp 2 45 125 36 69 205 126 22 73
+rawdata/3215.bmp 2 46 125 35 69 205 126 23 73
+rawdata/3216.bmp 2 46 124 35 70 205 126 22 73
+rawdata/3217.bmp 2 47 124 35 71 205 126 23 73
+rawdata/3218.bmp 2 47 124 34 71 205 126 23 73
+rawdata/3219.bmp 2 47 125 34 71 205 126 23 73
+rawdata/3220.bmp 2 48 125 33 71 205 126 23 73
+rawdata/3221.bmp 2 49 125 32 71 205 126 23 73
+rawdata/3222.bmp 2 50 125 31 71 205 126 23 73
+rawdata/3223.bmp 2 51 125 30 72 205 127 23 73
+rawdata/3224.bmp 2 52 125 31 73 205 126 23 73
+rawdata/3225.bmp 2 52 125 33 73 205 127 23 73
+rawdata/3226.bmp 2 54 125 31 73 205 126 23 73
+rawdata/3227.bmp 2 51 125 37 73 205 126 23 73
+rawdata/3228.bmp 2 52 123 37 73 205 126 23 73
+rawdata/3229.bmp 2 52 123 38 73 205 126 23 73
+rawdata/3230.bmp 2 56 121 33 74 205 127 23 73
+rawdata/3231.bmp 2 55 122 35 75 205 126 23 73
+rawdata/3232.bmp 2 57 121 32 75 205 126 23 73
+rawdata/3233.bmp 2 56 121 34 75 205 126 22 73
+rawdata/3234.bmp 2 56 121 34 75 205 127 23 73
+rawdata/3235.bmp 2 59 118 33 75 205 127 23 73
+rawdata/3236.bmp 2 60 118 33 75 205 125 23 74
+rawdata/3237.bmp 2 58 116 37 75 204 125 24 74
+rawdata/3238.bmp 2 59 117 37 74 202 125 28 74
+rawdata/3239.bmp 2 59 117 37 73 198 124 36 77
+rawdata/3240.bmp 2 50 105 55 98 214 159 4 6
+rawdata/3241.bmp 1 72 126 10 55
+rawdata/3242.bmp 0
+rawdata/3243.bmp 0
+rawdata/3244.bmp 0
+rawdata/3245.bmp 0
+rawdata/3246.bmp 0
+rawdata/3247.bmp 0
+rawdata/3248.bmp 0
+rawdata/3249.bmp 0
+rawdata/3250.bmp 0
+rawdata/3251.bmp 0
+rawdata/3252.bmp 0
+rawdata/3253.bmp 1 140 116 29 76
+rawdata/3254.bmp 1 135 115 26 74
+rawdata/3255.bmp 1 137 117 25 73
+rawdata/3256.bmp 1 135 118 26 73
+rawdata/3257.bmp 1 133 119 29 73
+rawdata/3258.bmp 1 130 120 30 73
+rawdata/3259.bmp 1 124 121 30 73
+rawdata/3260.bmp 1 121 123 31 73
+rawdata/3261.bmp 1 121 123 32 73
+rawdata/3262.bmp 2 185 125 20 73 75 125 33 73
+rawdata/3263.bmp 2 185 126 20 73 76 126 30 73
+rawdata/3264.bmp 2 207 129 21 73 67 120 29 73
+rawdata/3265.bmp 2 207 129 21 73 66 121 30 73
+rawdata/3266.bmp 2 207 129 21 73 67 122 31 73
+rawdata/3267.bmp 2 207 129 20 73 66 123 32 70
+rawdata/3268.bmp 2 207 129 20 73 67 122 34 72
+rawdata/3269.bmp 2 201 128 20 73 64 121 36 73
+rawdata/3270.bmp 2 212 130 20 73 68 121 38 72
+rawdata/3271.bmp 2 210 130 20 73 68 120 40 73
+rawdata/3272.bmp 2 208 130 20 73 71 118 35 76
+rawdata/3273.bmp 2 208 129 20 73 72 119 35 74
+rawdata/3274.bmp 2 207 129 20 73 73 120 35 73
+rawdata/3275.bmp 2 207 129 20 73 74 120 34 73
+rawdata/3276.bmp 2 207 129 20 73 76 122 33 73
+rawdata/3277.bmp 2 207 129 20 73 76 124 33 73
+rawdata/3278.bmp 2 207 129 20 73 76 124 34 74
+rawdata/3279.bmp 2 207 129 20 73 76 124 37 74
+rawdata/3280.bmp 2 207 129 20 73 77 124 40 74
+rawdata/3281.bmp 2 207 129 20 73 77 124 42 76
+rawdata/3282.bmp 2 207 129 20 73 77 128 46 77
+rawdata/3283.bmp 2 207 129 20 73 78 128 47 79
+rawdata/3284.bmp 2 207 129 20 73 76 127 50 79
+rawdata/3285.bmp 2 207 129 20 73 76 126 54 78
+rawdata/3286.bmp 2 207 130 20 72 78 124 53 78
+rawdata/3287.bmp 2 207 129 20 72 79 121 54 80
+rawdata/3288.bmp 2 207 129 20 72 81 121 53 80
+rawdata/3289.bmp 2 207 129 20 72 81 121 54 80
+rawdata/3290.bmp 2 206 129 23 72 82 122 56 79
+rawdata/3291.bmp 2 205 129 24 72 82 120 60 79
+rawdata/3292.bmp 2 205 129 25 72 83 117 63 79
+rawdata/3293.bmp 2 204 130 26 71 85 119 63 79
+rawdata/3294.bmp 2 204 131 27 71 87 122 63 79
+rawdata/3295.bmp 2 204 131 26 71 105 123 30 79
+rawdata/3296.bmp 2 204 130 26 71 107 124 31 79
+rawdata/3297.bmp 2 204 131 26 71 108 126 33 79
+rawdata/3298.bmp 2 204 131 25 71 112 128 28 80
+rawdata/3299.bmp 2 205 131 23 71 113 125 31 82
+rawdata/3300.bmp 2 204 131 22 71 115 123 29 82
+rawdata/3301.bmp 2 205 131 20 71 115 123 33 83
+rawdata/3302.bmp 2 205 131 18 71 116 122 34 81
+rawdata/3303.bmp 2 204 130 18 71 117 122 36 81
+rawdata/3304.bmp 2 197 130 30 71 118 123 36 81
+rawdata/3305.bmp 2 197 126 29 77 116 123 44 82
+rawdata/3306.bmp 1 196 126 30 79
+rawdata/3307.bmp 1 177 124 67 83
+rawdata/3308.bmp 1 175 124 69 83
+rawdata/3309.bmp 1 173 122 70 84
+rawdata/3310.bmp 1 173 122 66 83
+rawdata/3311.bmp 1 173 122 64 82
+rawdata/3312.bmp 1 174 121 60 82
+rawdata/3313.bmp 1 174 120 56 82
+rawdata/3314.bmp 1 173 122 57 82
+rawdata/3315.bmp 1 170 124 58 82
+rawdata/3316.bmp 1 154 127 52 83
+rawdata/3317.bmp 1 152 126 56 84
+rawdata/3318.bmp 1 151 126 55 83
+rawdata/3319.bmp 1 145 124 68 82
+rawdata/3320.bmp 1 148 123 62 82
+rawdata/3321.bmp 1 147 123 66 82
+rawdata/3322.bmp 1 144 124 71 82
+rawdata/3323.bmp 1 143 123 74 82
+rawdata/3324.bmp 1 143 123 77 82
+rawdata/3325.bmp 1 142 121 81 84
+rawdata/3326.bmp 1 144 121 78 84
+rawdata/3327.bmp 1 151 121 69 82
+rawdata/3328.bmp 1 165 121 43 82
+rawdata/3329.bmp 1 169 123 35 82
+rawdata/3330.bmp 1 169 123 35 82
+rawdata/3331.bmp 1 166 123 42 82
+rawdata/3332.bmp 1 165 123 47 84
+rawdata/3333.bmp 1 166 123 46 84
+rawdata/3334.bmp 1 166 123 48 84
+rawdata/3335.bmp 1 167 124 51 84
+rawdata/3336.bmp 1 170 124 46 82
+rawdata/3337.bmp 1 171 124 49 81
+rawdata/3338.bmp 1 194 124 49 81
+rawdata/3339.bmp 1 198 118 48 81
+rawdata/3340.bmp 2 203 117 41 80 124 130 72 73
+rawdata/3341.bmp 2 202 117 45 80 123 129 71 73
+rawdata/3342.bmp 2 207 121 36 80 123 127 67 73
+rawdata/3343.bmp 2 212 123 36 80 122 128 67 73
+rawdata/3344.bmp 2 211 122 36 80 122 127 66 73
+rawdata/3345.bmp 2 213 122 36 79 122 127 65 73
+rawdata/3346.bmp 2 219 123 29 79 117 126 64 73
+rawdata/3347.bmp 2 220 122 31 79 117 127 62 73
+rawdata/3348.bmp 2 225 122 31 79 114 127 62 73
+rawdata/3349.bmp 2 222 121 34 79 116 127 61 73
+rawdata/3350.bmp 2 222 121 36 79 115 126 61 72
+rawdata/3351.bmp 2 225 116 37 79 114 128 60 72
+rawdata/3352.bmp 2 225 115 38 82 113 127 60 72
+rawdata/3353.bmp 2 231 116 37 85 113 124 59 72
+rawdata/3354.bmp 2 226 114 44 89 114 124 59 72
+rawdata/3355.bmp 2 225 112 51 93 112 124 58 72
+rawdata/3356.bmp 2 245 135 12 46 112 125 57 72
+rawdata/3357.bmp 2 242 140 22 36 112 126 56 72
+rawdata/3358.bmp 2 245 148 25 27 110 126 56 72
+rawdata/3359.bmp 2 243 147 27 28 111 126 57 72
+rawdata/3360.bmp 1 243 145 28 30
+rawdata/3361.bmp 1 245 143 26 32
+rawdata/3362.bmp 2 247 140 23 33 107 131 61 63
+rawdata/3363.bmp 1 248 137 22 36
+rawdata/3364.bmp 2 251 136 19 39 126 139 20 42
+rawdata/3365.bmp 2 252 137 18 39 125 142 20 36
+rawdata/3366.bmp 2 248 121 33 73 124 144 20 33
+rawdata/3367.bmp 2 251 105 33 73 124 145 20 33
+rawdata/3368.bmp 2 252 90 35 73 124 147 20 30
+rawdata/3369.bmp 2 249 90 39 73 123 149 20 28
+rawdata/3370.bmp 2 248 93 40 73 123 150 20 27
+rawdata/3371.bmp 2 249 96 42 75 106 126 55 72
+rawdata/3372.bmp 2 253 100 36 75 106 127 55 72
+rawdata/3373.bmp 2 256 101 38 75 105 130 55 72
+rawdata/3374.bmp 2 258 105 36 74 105 135 55 72
+rawdata/3375.bmp 2 264 129 34 74 105 140 55 72
+rawdata/3376.bmp 2 264 130 34 73 105 143 55 72
+rawdata/3377.bmp 2 263 125 34 72 105 144 55 72
+rawdata/3378.bmp 2 267 126 31 72 105 143 55 72
+rawdata/3379.bmp 2 268 125 31 72 105 144 55 72
+rawdata/3380.bmp 2 271 125 29 72 102 121 55 72
+rawdata/3381.bmp 2 272 125 29 71 102 121 55 72
+rawdata/3382.bmp 2 274 124 24 70 104 123 55 72
+rawdata/3383.bmp 2 274 122 29 71 104 124 55 72
+rawdata/3384.bmp 2 277 121 25 71 103 124 55 72
+rawdata/3385.bmp 2 275 120 29 70 103 123 55 72
+rawdata/3386.bmp 2 275 118 31 70 103 123 55 72
+rawdata/3387.bmp 2 274 118 32 70 103 123 55 72
+rawdata/3388.bmp 2 275 120 32 70 103 124 55 72
+rawdata/3389.bmp 2 281 121 23 70 103 124 55 72
+rawdata/3390.bmp 2 276 121 34 70 103 123 55 73
+rawdata/3391.bmp 2 276 123 35 69 103 123 55 73
+rawdata/3392.bmp 2 281 124 27 69 103 123 55 72
+rawdata/3393.bmp 2 281 123 28 69 103 123 55 72
+rawdata/3394.bmp 2 281 122 29 69 103 124 55 72
+rawdata/3395.bmp 2 282 120 28 69 103 125 55 72
+rawdata/3396.bmp 2 282 120 28 68 103 126 55 72
+rawdata/3397.bmp 2 283 120 27 68 103 127 55 72
+rawdata/3398.bmp 2 284 122 27 68 103 127 55 72
+rawdata/3399.bmp 2 285 124 27 68 102 127 56 72
+rawdata/3400.bmp 2 287 125 26 68 102 127 57 72
+rawdata/3401.bmp 2 289 126 23 68 101 128 58 72
+rawdata/3402.bmp 2 290 127 23 68 100 128 61 72
+rawdata/3403.bmp 2 290 127 24 69 99 127 62 72
+rawdata/3404.bmp 2 289 127 27 69 98 127 64 72
+rawdata/3405.bmp 2 289 128 29 69 98 127 65 72
+rawdata/3406.bmp 2 288 127 33 69 98 127 67 73
+rawdata/3407.bmp 2 287 127 34 69 97 127 68 73
+rawdata/3408.bmp 2 288 127 35 69 97 127 69 71
+rawdata/3409.bmp 2 289 127 34 69 97 127 69 71
+rawdata/3410.bmp 2 289 127 35 69 97 127 68 71
+rawdata/3411.bmp 2 290 127 35 69 98 128 69 71
+rawdata/3412.bmp 2 293 125 29 68 116 129 32 71
+rawdata/3413.bmp 2 289 125 36 68 117 129 32 71
+rawdata/3414.bmp 2 295 124 27 68 118 129 32 70
+rawdata/3415.bmp 2 296 124 26 67 118 129 34 71
+rawdata/3416.bmp 2 298 123 22 67 117 130 36 71
+rawdata/3417.bmp 2 299 122 23 66 117 131 39 71
+rawdata/3418.bmp 2 299 122 23 66 123 129 29 71
+rawdata/3419.bmp 2 298 121 24 66 123 127 30 72
+rawdata/3420.bmp 2 297 121 26 67 124 129 31 71
+rawdata/3421.bmp 2 298 121 26 67 125 127 30 72
+rawdata/3422.bmp 2 298 121 26 67 126 127 30 72
+rawdata/3423.bmp 2 299 122 26 67 128 129 31 71
+rawdata/3424.bmp 2 298 122 26 67 130 128 31 70
+rawdata/3425.bmp 2 299 122 25 67 130 128 32 70
+rawdata/3426.bmp 2 299 122 24 67 131 129 33 69
+rawdata/3427.bmp 2 300 123 22 67 132 130 33 69
+rawdata/3428.bmp 2 300 122 22 67 134 131 33 69
+rawdata/3429.bmp 2 300 122 22 67 139 131 29 67
+rawdata/3430.bmp 2 301 122 22 67 138 131 32 66
+rawdata/3431.bmp 2 301 122 22 67 140 134 33 64
+rawdata/3432.bmp 2 301 122 22 66 143 138 28 63
+rawdata/3433.bmp 2 301 122 22 66 144 141 31 56
+rawdata/3434.bmp 2 301 122 22 66 143 140 34 54
+rawdata/3435.bmp 2 301 122 22 66 143 140 37 52
+rawdata/3436.bmp 2 301 122 23 66 143 141 38 49
+rawdata/3437.bmp 2 300 122 24 66 141 140 44 49
+rawdata/3438.bmp 2 299 122 24 66 145 140 39 49
+rawdata/3439.bmp 2 299 122 24 66 147 141 39 46
+rawdata/3440.bmp 2 299 122 25 66 149 142 39 44
+rawdata/3441.bmp 2 299 121 24 66 150 142 39 43
+rawdata/3442.bmp 2 299 121 25 66 152 143 39 41
+rawdata/3443.bmp 2 298 121 26 67 153 146 39 40
+rawdata/3444.bmp 2 298 122 26 67 155 148 39 40
+rawdata/3445.bmp 2 299 122 27 67 156 148 39 40
+rawdata/3446.bmp 2 298 122 28 67 157 150 38 41
+rawdata/3447.bmp 2 298 123 28 67 158 150 38 42
+rawdata/3448.bmp 2 298 123 28 67 159 151 38 43
+rawdata/3449.bmp 2 298 123 29 67 160 152 39 43
+rawdata/3450.bmp 2 299 123 29 67 159 150 40 46
+rawdata/3451.bmp 2 299 124 28 67 160 150 39 48
+rawdata/3452.bmp 2 299 123 28 67 160 151 41 49
+rawdata/3453.bmp 2 300 123 28 67 159 151 42 49
+rawdata/3454.bmp 2 301 123 27 67 162 149 37 52
+rawdata/3455.bmp 2 301 123 26 67 161 148 39 55
+rawdata/3456.bmp 2 303 123 25 67 161 147 40 57
+rawdata/3457.bmp 2 303 123 25 67 163 145 36 58
+rawdata/3458.bmp 2 303 124 25 66 164 141 34 65
+rawdata/3459.bmp 2 303 123 25 67 164 140 36 66
+rawdata/3460.bmp 2 303 123 24 66 163 139 39 67
+rawdata/3461.bmp 2 303 123 24 66 164 139 38 67
+rawdata/3462.bmp 2 303 124 24 66 163 138 42 67
+rawdata/3463.bmp 2 303 124 24 66 163 137 45 67
+rawdata/3464.bmp 2 303 123 25 66 162 137 47 67
+rawdata/3465.bmp 2 301 125 29 65 162 136 49 67
+rawdata/3466.bmp 2 299 125 30 65 163 135 50 67
+rawdata/3467.bmp 2 298 126 32 64 164 133 50 68
+rawdata/3468.bmp 2 298 126 33 64 166 132 50 68
+rawdata/3469.bmp 2 298 127 32 64 167 130 53 70
+rawdata/3470.bmp 2 297 127 32 64 169 128 55 70
+rawdata/3471.bmp 2 297 127 32 64 173 131 53 64
+rawdata/3472.bmp 2 298 127 31 64 190 137 23 56
+rawdata/3473.bmp 2 298 127 29 65 193 145 22 43
+rawdata/3474.bmp 2 298 127 26 65 195 149 22 36
+rawdata/3475.bmp 2 299 127 23 65 198 151 21 31
+rawdata/3476.bmp 2 299 129 20 65 201 154 18 29
+rawdata/3477.bmp 2 298 129 21 65 203 154 19 28
+rawdata/3478.bmp 2 296 128 22 64 204 155 18 28
+rawdata/3479.bmp 2 293 129 27 64 206 157 18 29
+rawdata/3480.bmp 1 292 129 27 64
+rawdata/3481.bmp 0
+rawdata/3482.bmp 0
+rawdata/3483.bmp 0
+rawdata/3484.bmp 0
+rawdata/3485.bmp 0
+rawdata/3486.bmp 0
+rawdata/3487.bmp 0
+rawdata/3488.bmp 0
+rawdata/3489.bmp 0
+rawdata/3490.bmp 1 250 162 5 7
+rawdata/3491.bmp 0
+rawdata/3492.bmp 1 88 151 3 3
+rawdata/3493.bmp 1 88 151 3 3
+rawdata/3494.bmp 1 88 151 3 3
+rawdata/3495.bmp 1 88 151 3 3
+rawdata/3496.bmp 1 88 151 3 3
+rawdata/3497.bmp 1 88 151 3 3
+rawdata/3498.bmp 1 88 151 3 3
+rawdata/3499.bmp 1 88 151 3 3
+rawdata/3500.bmp 1 82 153 3 3
+rawdata/3501.bmp 1 80 153 3 3
+rawdata/3502.bmp 1 88 151 3 3
+rawdata/3503.bmp 1 89 151 3 3
+rawdata/3504.bmp 1 88 151 3 3
+rawdata/3505.bmp 1 88 151 3 3
+rawdata/3506.bmp 1 88 151 3 3
+rawdata/3507.bmp 1 88 151 3 3
+rawdata/3508.bmp 1 88 151 3 3
+rawdata/3509.bmp 1 88 151 3 3
+rawdata/3510.bmp 1 88 151 3 3
+rawdata/3511.bmp 1 88 151 3 3
+rawdata/3512.bmp 1 88 151 3 3
+rawdata/3513.bmp 1 88 151 3 3
+rawdata/3514.bmp 1 88 151 3 3
+rawdata/3515.bmp 1 88 151 3 3
+rawdata/3516.bmp 1 88 151 3 3
+rawdata/3517.bmp 1 88 151 3 3
+rawdata/3518.bmp 1 88 151 3 3
+rawdata/3519.bmp 1 88 151 3 3
+rawdata/3520.bmp 1 88 151 3 3
+rawdata/3521.bmp 1 88 151 3 3
+rawdata/3522.bmp 1 88 151 3 3
+rawdata/3523.bmp 1 88 151 3 3
+rawdata/3524.bmp 1 88 151 3 3
+rawdata/3525.bmp 1 88 151 3 3
+rawdata/3526.bmp 1 88 151 3 3
+rawdata/3527.bmp 1 88 151 3 3
+rawdata/3528.bmp 1 88 151 3 3
+rawdata/3529.bmp 1 88 151 3 3
+rawdata/3530.bmp 1 88 151 3 3
+rawdata/3531.bmp 1 88 151 3 3
+rawdata/3532.bmp 1 88 151 3 3
+rawdata/3533.bmp 1 88 151 3 3
+rawdata/3534.bmp 1 88 151 3 3
+rawdata/3535.bmp 1 88 151 3 3
+rawdata/3536.bmp 1 88 151 3 3
+rawdata/3537.bmp 1 88 151 3 3
+rawdata/3538.bmp 1 88 151 3 3
+rawdata/3539.bmp 2 261 128 31 71 88 151 3 3
+rawdata/3540.bmp 2 262 126 27 72 88 151 3 3
+rawdata/3541.bmp 2 266 125 22 72 88 151 3 3
+rawdata/3542.bmp 2 261 125 18 72 88 151 3 3
+rawdata/3543.bmp 2 258 126 16 73 88 151 3 3
+rawdata/3544.bmp 2 255 126 17 73 88 151 3 3
+rawdata/3545.bmp 2 255 126 21 72 88 151 3 3
+rawdata/3546.bmp 2 251 126 26 72 88 151 3 3
+rawdata/3547.bmp 2 251 126 29 72 88 151 3 3
+rawdata/3548.bmp 3 196 127 29 71 88 151 3 3 297 126 32 72
+rawdata/3549.bmp 3 194 127 32 70 88 151 3 3 297 126 32 72
+rawdata/3550.bmp 3 174 127 31 71 88 151 3 3 305 126 32 72
+rawdata/3551.bmp 3 173 127 29 71 88 151 3 3 306 126 32 72
+rawdata/3552.bmp 3 171 125 29 72 88 151 3 3 306 126 33 72
+rawdata/3553.bmp 3 170 124 29 72 88 151 3 3 306 125 33 72
+rawdata/3554.bmp 3 168 124 29 72 88 151 3 3 306 125 33 72
+rawdata/3555.bmp 3 170 125 30 72 88 151 3 3 300 124 33 72
+rawdata/3556.bmp 3 159 127 31 72 88 151 3 3 310 126 33 72
+rawdata/3557.bmp 3 154 127 41 73 88 151 3 3 309 126 33 72
+rawdata/3558.bmp 3 153 128 42 72 88 151 3 3 308 126 32 72
+rawdata/3559.bmp 3 150 128 46 72 88 151 3 3 307 126 32 72
+rawdata/3560.bmp 3 149 128 47 72 88 151 3 3 307 126 32 72
+rawdata/3561.bmp 3 146 127 49 72 88 151 3 3 308 126 31 72
+rawdata/3562.bmp 3 144 126 50 72 88 151 3 3 307 126 31 72
+rawdata/3563.bmp 3 142 126 51 72 88 151 3 3 308 126 30 72
+rawdata/3564.bmp 3 141 126 50 72 88 151 3 3 309 126 29 72
+rawdata/3565.bmp 3 140 125 50 72 88 151 3 3 309 126 28 72
+rawdata/3566.bmp 3 139 124 49 72 88 151 3 3 309 126 28 72
+rawdata/3567.bmp 3 138 122 48 72 88 151 3 3 308 127 28 71
+rawdata/3568.bmp 3 136 121 48 72 88 151 3 3 308 127 28 70
+rawdata/3569.bmp 3 135 123 49 73 88 151 3 3 308 128 28 69
+rawdata/3570.bmp 3 131 124 52 73 88 151 3 3 308 128 28 69
+rawdata/3571.bmp 3 129 125 55 73 88 151 3 3 307 128 30 69
+rawdata/3572.bmp 3 128 124 57 73 88 151 3 3 306 128 33 69
+rawdata/3573.bmp 3 126 126 59 73 88 151 3 3 304 128 36 69
+rawdata/3574.bmp 3 124 126 59 73 88 151 3 3 298 128 46 67
+rawdata/3575.bmp 3 118 125 69 73 88 151 3 3 296 128 50 66
+rawdata/3576.bmp 3 121 126 60 73 88 151 3 3 297 128 46 66
+rawdata/3577.bmp 3 120 125 61 73 88 151 3 3 295 128 47 66
+rawdata/3578.bmp 3 115 125 69 73 88 151 3 3 293 128 49 67
+rawdata/3579.bmp 3 114 125 69 73 88 151 3 3 291 129 53 67
+rawdata/3580.bmp 3 113 126 69 73 88 151 3 3 291 128 48 69
+rawdata/3581.bmp 3 112 126 69 73 88 151 3 3 289 128 51 70
+rawdata/3582.bmp 3 110 125 69 73 88 151 3 3 287 128 51 70
+rawdata/3583.bmp 3 109 125 69 73 88 151 3 3 286 129 50 69
+rawdata/3584.bmp 3 108 123 69 73 88 151 3 3 288 130 43 69
+rawdata/3585.bmp 3 108 124 69 73 88 151 3 3 290 130 35 70
+rawdata/3586.bmp 2 106 124 68 73 88 151 3 3
+rawdata/3587.bmp 2 107 124 66 73 88 151 3 3
+rawdata/3588.bmp 2 108 124 63 73 88 151 3 3
+rawdata/3589.bmp 2 110 124 59 73 88 151 3 3
+rawdata/3590.bmp 2 127 124 23 72 88 151 3 3
+rawdata/3591.bmp 2 126 124 22 72 88 151 3 3
+rawdata/3592.bmp 1 126 124 21 72
+rawdata/3593.bmp 2 125 124 21 72 244 133 67 67
+rawdata/3594.bmp 2 124 123 21 73 241 133 62 66
+rawdata/3595.bmp 2 121 123 24 74 237 135 61 65
+rawdata/3596.bmp 1 122 122 22 74
+rawdata/3597.bmp 2 120 123 24 74 231 141 55 57
+rawdata/3598.bmp 2 119 122 26 74 228 141 50 54
+rawdata/3599.bmp 2 116 119 28 76 222 145 47 51
+rawdata/3600.bmp 2 114 119 30 77 217 146 43 48
+rawdata/3601.bmp 2 113 120 31 77 214 145 41 49
+rawdata/3602.bmp 2 112 121 32 77 209 145 43 49
+rawdata/3603.bmp 2 111 120 35 78 204 147 42 46
+rawdata/3604.bmp 2 110 120 36 78 198 144 44 46
+rawdata/3605.bmp 2 111 120 35 78 194 147 45 47
+rawdata/3606.bmp 1 110 120 34 79
+rawdata/3607.bmp 0
+rawdata/3608.bmp 0
+rawdata/3609.bmp 1 89 121 77 79
+rawdata/3610.bmp 1 89 121 76 79
+rawdata/3611.bmp 0
+rawdata/3612.bmp 1 88 121 76 79
+rawdata/3613.bmp 1 87 120 80 80
+rawdata/3614.bmp 1 88 120 76 80
+rawdata/3615.bmp 1 89 120 76 80
+rawdata/3616.bmp 1 128 134 75 79
+rawdata/3617.bmp 1 128 134 74 79
+rawdata/3618.bmp 1 117 129 74 80
+rawdata/3619.bmp 1 112 127 72 82
+rawdata/3620.bmp 1 110 126 73 82
+rawdata/3621.bmp 1 109 125 75 85
+rawdata/3622.bmp 1 107 126 79 85
+rawdata/3623.bmp 1 105 126 82 85
+rawdata/3624.bmp 1 103 126 82 85
+rawdata/3625.bmp 1 103 127 82 85
+rawdata/3626.bmp 0
+rawdata/3627.bmp 0
+rawdata/3628.bmp 0
+rawdata/3629.bmp 0
+rawdata/3630.bmp 0
+rawdata/3631.bmp 0
+rawdata/3632.bmp 0
+rawdata/3633.bmp 0
+rawdata/3634.bmp 0
+rawdata/3635.bmp 0
+rawdata/3636.bmp 0
+rawdata/3637.bmp 0
+rawdata/3638.bmp 0
+rawdata/3639.bmp 0
+rawdata/3640.bmp 0
+rawdata/3641.bmp 0
+rawdata/3642.bmp 0
+rawdata/3643.bmp 0
+rawdata/3644.bmp 0
+rawdata/3645.bmp 0
+rawdata/3646.bmp 0
+rawdata/3647.bmp 0
+rawdata/3648.bmp 0
+rawdata/3649.bmp 0
+rawdata/3650.bmp 0
+rawdata/3651.bmp 0
+rawdata/3652.bmp 0
+rawdata/3653.bmp 0
+rawdata/3654.bmp 0
+rawdata/3655.bmp 0
+rawdata/3656.bmp 0
+rawdata/3657.bmp 0
+rawdata/3658.bmp 0
+rawdata/3659.bmp 0
+rawdata/3660.bmp 0
+rawdata/3661.bmp 0
+rawdata/3662.bmp 0
+rawdata/3663.bmp 0
+rawdata/3664.bmp 0
+rawdata/3665.bmp 0
+rawdata/3666.bmp 0
+rawdata/3667.bmp 0
+rawdata/3668.bmp 0
+rawdata/3669.bmp 0
+rawdata/3670.bmp 0
+rawdata/3671.bmp 0
+rawdata/3672.bmp 0
+rawdata/3673.bmp 0
+rawdata/3674.bmp 0
+rawdata/3675.bmp 0
+rawdata/3676.bmp 0
+rawdata/3677.bmp 0
+rawdata/3678.bmp 0
+rawdata/3679.bmp 0
+rawdata/3680.bmp 0
+rawdata/3681.bmp 0
+rawdata/3682.bmp 0
+rawdata/3683.bmp 0
+rawdata/3684.bmp 0
+rawdata/3685.bmp 0
+rawdata/3686.bmp 0
+rawdata/3687.bmp 0
+rawdata/3688.bmp 0
+rawdata/3689.bmp 0
+rawdata/3690.bmp 0
+rawdata/3691.bmp 0
+rawdata/3692.bmp 0
+rawdata/3693.bmp 0
+rawdata/3694.bmp 0
+rawdata/3695.bmp 0
+rawdata/3696.bmp 0
+rawdata/3697.bmp 0
+rawdata/3698.bmp 0
+rawdata/3699.bmp 0
+rawdata/3700.bmp 0
+rawdata/3701.bmp 0
+rawdata/3702.bmp 0
+rawdata/3703.bmp 0
+rawdata/3704.bmp 0
+rawdata/3705.bmp 0
+rawdata/3706.bmp 0
